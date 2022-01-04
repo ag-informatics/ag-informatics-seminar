@@ -30,22 +30,6 @@ By the end of this course, you will be able to:
 3. Demonstrate critical and computational thinking skills for agricultural informatics research and development.
 4. Conceptualize or prototype and agricultural informatics solution an open food system or agricultural challenge.
 
-# Course Communications
-**Lectures:** TBD or online. Wednesdays @ 3.30-5.20pm.
-
-**Course Materials:** This github repository will contain links to all slides, readings. They will be released on a weekly basis.
-
-**Course Discussion:** [**Join the Slack Channel**](https://join.slack.com/t/learn-ag-informatics/shared_invite/zt-tnsofjro-QbFiz2j4k2C_1MbwxEZrQA)
-
-**Student Consultations:** Make appointments with me via email or slack.
-
-## Purdue Instructor: Ankita Raturi
-**Slack:** Contact @sudokita via Slack direct message for quick general discussion about the course. If it's a question/comment others can benefit from, consider using the more general channels. I will try to respond within 1 working day to Slack messages. We cannot discuss grades, personal matters, and so on via Slack due to [FERPA policies](https://slack.com/trust/compliance/ferpa-compliance). If in doubt, contact me via email/in-person.
-
-**Email:** Contact **ankita@purdue.edu** with the email subject: **[AGINF]** for better indexing. Reserve use of email for long and/or complex communications. I will try to respond to email within 2 working days.
-
-**Office:** ABE Building, Room 4031K. For in-person consultations, make an appointment first. In case we can't meet in person, we will use WebEx for a video-call meeting, as agreed upon via email. I willy try to provide in-person appointments within 2 working days of your request.
-
 # Course Structure & Schedule
 We will switch between two types of lectures, the "Discussion Format" and the "Workshop Format":
 
@@ -82,6 +66,22 @@ Project Peer Feedback | Mondays @ 5pm, Workshop Weeks | 5% x 7
 Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25% x 1
 
 **Late Policy:** You can have three "late days" where you submit work one business day late with no questions asked.  After that, you will be penalised 5% per day late. *The moment you have any issues, please contact me, and we can discuss options.*
+
+# Course Communications
+**Lectures:** TBD or online. Wednesdays @ 3.30-5.20pm.
+
+**Course Materials:** This github repository will contain links to all slides, readings. They will be released on a weekly basis.
+
+**Course Discussion:** [**Join the Slack Channel**](https://join.slack.com/t/learn-ag-informatics/shared_invite/zt-tnsofjro-QbFiz2j4k2C_1MbwxEZrQA)
+
+**Student Consultations:** Make appointments with me via email or slack.
+
+## Instructor: Ankita Raturi
+**Slack:** Contact @sudokita via Slack direct message for quick general discussion about the course. If it's a question/comment others can benefit from, consider using the more general channels. I will try to respond within 1 working day to Slack messages. We cannot discuss grades, personal matters, and so on via Slack due to [FERPA policies](https://slack.com/trust/compliance/ferpa-compliance). If in doubt, contact me via email/in-person.
+
+**Email:** Contact **ankita@purdue.edu** with the email subject: **[AGINF]** for better indexing. Reserve use of email for long and/or complex communications. I will try to respond to email within 2 working days.
+
+**Office:** ABE Building, Room 4031K. For in-person consultations, make an appointment first. In case we can't meet in person, we will use WebEx for a video-call meeting, as agreed upon via email. I willy try to provide in-person appointments within 2 working days of your request.
 
 ## Grading Scale
 In this class grades reflect the sum of your achievement throughout the semester. Grades cutoffs are as follows:
