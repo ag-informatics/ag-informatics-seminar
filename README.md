@@ -25,10 +25,9 @@ This course will empower you to think critically about the role of digital techn
 ## Learning Objectives
 By the end of this course, you will be able to:
 
-# TODO
-1. Demonstrate an understanding of informatics challenges in food and agricultural systems.
-
-3. Develop computational thinking skills to select appropriate informatics approaches and digital technologies to solve a range of challenges in food and agricultural systems.
+1. Identify, describe, and explain fundamental digital technologies and their applicability to key informatics challenges in food and agricultural systems.
+2. Discuss and analyze the state of the art of research and practice in agricultural informatics.
+3. Demonstrate critical and computational thinking skills for agricultural informatics research and development.
 4. Conceptualize or prototype and agricultural informatics solution an open food system or agricultural challenge.
 
 # Course Communications
@@ -50,13 +49,13 @@ By the end of this course, you will be able to:
 # Course Structure & Schedule
 We will switch between two types of lectures, the "Discussion Format" and the "Workshop Format":
 
-- **Discussion Format:** I will assign a few a selection of readings, videos, and other materials for the week. Each student is expected to review them and create a "Discussion Reflection" submission that summarizes their notes. One student will be assigned to be the "Moderator" for each discussion - this person will lead the group in discussion, bringing critical questions and notes, supplemental materials as relevant, and will write the "Discussion Brief" as a post-discussion activity. Each person is expected to be a moderator once during the semester.
+- **Discussion Format:** I will assign a selection of readings, videos, and other materials for the week. Each student is expected to review them and create a "Discussion Reflection" submission that summarizes their notes. One student will be assigned to be the "Moderator" for each discussion - this person will lead the group in discussion, bringing critical questions and notes, supplemental materials as relevant, and will write the "Discussion Brief" as a post-discussion activity. Each person is expected to be a moderator once during the semester.
 
 - **Workshop Format:** Each student is expected to conduct a research or development project over the course of the semester. Each student is expected to share their work once during the semester, sending the class a draft paper, prototoype or other materials that you would like feedback on. Each student will be expected to provide "Peer Feedback" for everyone's projects.
 
 Week| Lecture Format | Topic | What's happening?
 -----|-----|----- |----- 
-Week 1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks
+Week 1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks to discuss your project.
 Week 2 | Discussion | Digital Agriculture
 Week 3 | Workshop 
 Week 4 | Discussion | Design for Sustainable Agriculture
