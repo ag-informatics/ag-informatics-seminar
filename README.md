@@ -55,22 +55,22 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 
 Week| Lecture Format | Topic | What's happening? | Moderator/Presenter
 -----|-----|----- |----- |----- 
-Week 1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks to discuss your project.
-Week 2 | Discussion | Digital Agriculture | YourNameHere!
-Week 3 | Workshop | TBD | YourNameHere!
-Week 4 | Discussion | Design for Sustainable Agriculture
-Week 5 | Workshop
-Week 6 | Discussion
-Week 7 | Workshop
-Week 8 | Discussion
-Week 9 | Workshop
-Week 10 | Discussion
-Week 11 | Workshop
-Week 12 | Discussion
-Week 13 | Workshop
-Week 14 | Discussion
-Week 15 | Workshop
-Week 16 | Workshop: Final Presentations
+1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks to discuss your project.
+2 | Discussion | Digital Agriculture | YourNameHere!
+3 | Workshop | TBD | YourNameHere!
+4 | Discussion | Design for Sustainable Agriculture
+5 | Workshop
+6 | Discussion
+7 | Workshop
+8 | Discussion
+9 | Workshop
+10 | SPRING BREAK
+11 | Workshop
+12 | Discussion
+13 | Workshop
+14 | Discussion
+15 | Workshop
+16 | Workshop: Final Presentations
 
 ## Course Assessments
 
