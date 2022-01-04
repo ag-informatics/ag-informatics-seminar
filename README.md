@@ -52,7 +52,7 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 11 | Workshop
 12 | Discussion
 13 | Workshop
-14 | Discussion
+14 | Discus6ion
 15 | Workshop
 16 | Presentations | Final Presentations | Submit your final report | Ankita
 
@@ -61,9 +61,9 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 Assessment | Due Dates | Weight*
 -----|-----|-----
 Reading Reflections | Mondays @ 5pm, Due every Discussion Week | 5% each
-Discussion Brief | Monday @ 5pm, after your assigned Discussion Week | 15% x 1
+Discussion Brief | Monday @ 5pm, after your assigned Discussion Week | 15%
 Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 5% each
-Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25% x 1
+Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25%
 
 *The final weights will change based on total enrollment in the course.
 
