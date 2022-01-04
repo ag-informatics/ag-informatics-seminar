@@ -39,9 +39,9 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 
 Week| Lecture Format | Topic | What's happening? | Moderator/Presenter
 -----|-----|----- |----- |----- 
-1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks to discuss your project.
-2 | Discussion | Digital Agriculture | YourNameHere!
-3 | Workshop | TBD | YourNameHere!
+1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks to discuss your project. | Ankita
+2 | Discussion | Digital Agriculture | All: submit your reading reflection. Moderator, submit your brief. | 
+3 | Workshop | TBD | Presenter, submit your update. All: submit your peer feedback. |
 4 | Discussion | Design for Sustainable Agriculture
 5 | Workshop
 6 | Discussion
@@ -54,7 +54,7 @@ Week| Lecture Format | Topic | What's happening? | Moderator/Presenter
 13 | Workshop
 14 | Discussion
 15 | Workshop
-16 | Workshop: Final Presentations
+16 | Presentations | Final Presentations | Submit your final report | Ankita
 
 ## Course Assessments
 
