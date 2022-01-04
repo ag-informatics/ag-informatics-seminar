@@ -52,7 +52,7 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 11 | Workshop
 12 | Discussion
 13 | Workshop
-14 | Discus6ion
+14 | Discussion
 15 | Workshop
 16 | Presentations | Final Presentations | Submit your final report | Ankita
 
