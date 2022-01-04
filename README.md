@@ -32,6 +32,8 @@ By the end of this course, you will be able to:
 4. Conceptualize or prototype and agricultural informatics solution an open food system or agricultural challenge.
 
 # Course Communications
+**Lectures:** TBD or online. Wednesdays @ 3.30-5.20pm.
+
 **Course Materials:** This github repository will contain links to all slides, readings. They will be released on a weekly basis.
 
 **Course Discussion:** [**Join the Slack Channel**](https://join.slack.com/t/learn-ag-informatics/shared_invite/zt-tnsofjro-QbFiz2j4k2C_1MbwxEZrQA)
@@ -44,9 +46,6 @@ By the end of this course, you will be able to:
 **Email:** Contact **ankita@purdue.edu** with the email subject: **[AGINF]** for better indexing. Reserve use of email for long and/or complex communications. I will try to respond to email within 2 working days.
 
 **Office:** ABE Building, Room 4031K. For in-person consultations, make an appointment first. In case we can't meet in person, we will use WebEx for a video-call meeting, as agreed upon via email. I willy try to provide in-person appointments within 2 working days of your request.
-
-## Purdue Logistics
-**Lectures:** TBD or online. Wednesdays @ 3.30-5.20pm.
 
 # Course Structure & Schedule
 We will switch between two types of lectures, the "Discussion Format" and the "Workshop Format":
