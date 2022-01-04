@@ -1,0 +1,10 @@
+#ignore ds_store
+.DS_Store
+
+#ignore python checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+#ignore visual paradigm backup files
+*.vpp.bak*
+*.vpp.*
