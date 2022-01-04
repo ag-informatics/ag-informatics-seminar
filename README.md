@@ -12,7 +12,7 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-  "Readings in Agricultural Informatics" by [Ankita Raturi, Purdue University](https://github.com/ag-informatics/ag-informatics-readings) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+  "Research & Practice in Agricultural Informatics" by [Ankita Raturi, Purdue University](https://github.com/ag-informatics/ag-informatics-readings) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
   
 **A Course in Progress:** this course is currently being developed as it is offered for the first time. Relevant changes to this course will be posted to this Github repository. New materials will be shared here each week. Major updates will be announced in class and/or via email/Slack. 
 
