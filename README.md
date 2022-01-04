@@ -55,47 +55,35 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 
 - **Workshop Format:** Each student is expected to conduct a research or development project over the course of the semester. Each student is expected to share their work once during the semester, sending the class a draft paper, prototoype or other materials that you would like feedback on. Each student will be expected to provide "Peer Feedback" for everyone's projects.
 
-Week| Topic | What's happening?
------|-----|-----
-Week 1 | Course Overview | N/A
-Week 2 | Digital Agriculture | Discussion Format
-Week 3 | TBD | Workshop Format
-Week 4 | Design for Sustainable Agriculture | Discussion Format
-Week 5 | TBD | Workshop
-Week 6 | TBD | Discussion
-Week 7 | TBD | Workshop
-Week 8 | TBD | Discussion
-Week 9 | TBD | Workshop
-Week 10 | TBD | Discussion
-Week 11 | TBD | Workshop
-Week 12 | TBD | Discussion
-Week 13 | TBD | Workshop
-Week 14 | TBD | Discussion
-Week 15 | TBD | Workshop
-Week 16 | TBD | Workshop: Final Presentations
+Week| Lecture Format | Topic | What's happening?
+-----|-----|----- |----- 
+Week 1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks
+Week 2 | Discussion | Digital Agriculture
+Week 3 | Workshop 
+Week 4 | Discussion | Design for Sustainable Agriculture
+Week 5 | Workshop
+Week 6 | Discussion
+Week 7 | Workshop
+Week 8 | Discussion
+Week 9 | Workshop
+Week 10 | Discussion
+Week 11 | Workshop
+Week 12 | Discussion
+Week 13 | Workshop
+Week 14 | Discussion
+Week 15 | Workshop
+Week 16 | Workshop: Final Presentations
 
-
-## Course Activities and Assessments
-
-**Reading Reflections** I will assign a set of materials for Discussion weeks (see schedule above). Each student is expected to read/view/parse these materials and write a one page reflection. There will be a template available for this. **Submission via Brightspace**
-
-**Discussion Brief** During the week you are assigned as "Discussion Moderator" you will, in addition to doing your own reading, create a set of prompts/questions to lead the discussion, and summarize the group discussion as a "Discussion Brief". There will be a template available for this. **You will submit this via Github AND submit the link on Brightspace**.
-
-**Work-in-Progress Update** You will need to sign up to provide a single Work-in-Progress update to the class. You will share your work with the class and set up a one-on-one meeting with the instruction a week prior to discuss your work if you would like to. This will be an opportunity to get peer and instructor feedback on your work. This will be **ungraded**, since each student's work-in-progress will differ. **You will submit your materials to share with the class via Brightspace**
-
-**Project Peer Feedback** You will provide templated feedback for each of your peers. I will share these with the presenter so these must be written in a constructive tone. **Submission via Brightspace**
-
-**Project Final Packet** If you chose to build something this semester, I'll ask for a short report to accompany it overviewing your work. If you chose to write a paper, you can just submit the paper itself. **Submission via Brightspace**
-
-**Late Policy:** You can have three "late days" where you submit work one business day late with no questions asked.  After that, you will be penalised 5% per day late. *The moment you have any issues, please contact me, and we can discuss options.*
+## Course Assessments
 
 Assessment | Due Dates | Weight
------|-----|----- |----- 
-Reading Reflections | Mondays @ 5pm, Discussion Weeks | 5% x 7
+-----|-----|-----
+Reading Reflections | Mondays @ 5pm, Due every 2 weeks | 5% x 7
 Discussion Brief | Monday @ 5pm, after your assigned Discussion Week | 15% x 1
 Project Peer Feedback | Mondays @ 5pm, Workshop Weeks | 5% x 7
 Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25% x 1
 
+**Late Policy:** You can have three "late days" where you submit work one business day late with no questions asked.  After that, you will be penalised 5% per day late. *The moment you have any issues, please contact me, and we can discuss options.*
 
 ## Grading Scale
 In this class grades reflect the sum of your achievement throughout the semester. Grades cutoffs are as follows:
