@@ -37,12 +37,12 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 
 - **Workshop Format:** Each student is expected to conduct a research or development project over the course of the semester. Each student is expected to share their work once during the semester, sending the class a draft paper, prototoype or other materials that you would like feedback on. Each student will be expected to provide "Peer Feedback" for everyone's projects.
 
-Week| Lecture Format | Topic | What's happening? | Moderator/Presenter
+Week| Format | Topic | What's happening? | Moderator/Presenter
 -----|-----|----- |----- |----- 
 1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks to discuss your project. | Ankita
 2 | Discussion | Digital Agriculture | All: submit your reading reflection. Moderator, submit your brief. | 
 3 | Workshop | TBD | Presenter, submit your update. All: submit your peer feedback. |
-4 | Discussion | Design for Sustainable Agriculture
+4 | Discussion
 5 | Workshop
 6 | Discussion
 7 | Workshop
