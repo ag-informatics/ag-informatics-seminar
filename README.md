@@ -58,11 +58,12 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 
 ## Course Assessments
 
-Assessment | Due Dates | Weight*
+Assessment | Due Dates | Weight
 -----|-----|-----
-Reading Reflections | Mondays @ 5pm, Due every Discussion Week | 5% each
+Reading Reflections | Mondays @ 5pm, Due every Discussion Week | 30% total (6 reflections)
 Discussion Brief | Monday @ 5pm, after your assigned Discussion Week | 15%
-Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 5% each
+Work-in-progress Update | Monday @ 5pm, of your assigned Workshop Week | 10%
+Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 20% total (8* peer feedbacks)
 Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25%
 
 *The final weights will change based on total enrollment in the course.
