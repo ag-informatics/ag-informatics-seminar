@@ -117,7 +117,7 @@ This is the inaugural offering of this "special topics" course, which means comp
 ## Attendance Policy
 This course is designed in a hybrid model, with some face-to-face meetings and others completed remotely. University policy states that students are expected to be present for every meeting of the classes in which they are enrolled. For the purposes of this course, being “present” means participating in-person or remotely as described in the course structure and completing work assigned for days when we do not meet face-to-face. This work is required to help you meet the course learning outcomes. These times count toward the course contact hours and your course grade. 
 
-That said, this has been a complicated year, and you can contact me if you have any challenges/concerns with attending classes in-person. Guidance on class attendance related to COVID-19 are outlined in the [Protect Purdue Pledge](https://protect.purdue.edu/pledge/) for Fall 2021 on the Protect Purdue website. 
+That said, this has been a complicated few years, and you can contact me if you have any challenges/concerns with attending classes in-person. Guidance on class attendance related to COVID-19 are outlined in the [Protect Purdue Pledge](https://protect.purdue.edu/pledge/) for Spring 2022 on the Protect Purdue website. 
 
 ## Classroom Guidance Regarding Protect Purdue
 Your health and safety is important. If you must miss class at any point in time during the semester, please reach out to me via email so that we can communicate about how you can maintain your academic progress. If you find yourself too sick to progress in the course, notify your adviser and notify me via email or Brightspace. We will make arrangements based on your particular situation. 
