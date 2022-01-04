@@ -33,9 +33,9 @@ By the end of this course, you will be able to:
 # Course Structure & Schedule
 We will switch between two types of lectures, the "Discussion Format" and the "Workshop Format":
 
-- **Discussion Format:** I will assign a selection of readings, videos, and other materials for the week. Each student is expected to review them and create a "Discussion Reflection" submission that summarizes their notes. One student will be assigned to be the "Moderator" for each discussion - this person will lead the group in discussion, bringing critical questions and notes, supplemental materials as relevant, and will write the "Discussion Brief" as a post-discussion activity. Each person is expected to be a moderator once during the semester.
+**Discussion Format:** I will assign a selection of readings, videos, and other materials for the week. Each student is expected to review them and create a "Discussion Reflection" submission that summarizes their notes. One student will be assigned to be the "Moderator" for each discussion - this person will lead the group in discussion, bringing critical questions and notes, supplemental materials as relevant, and will write the "Discussion Brief" as a post-discussion activity. Each person is expected to be a moderator once during the semester.
 
-- **Workshop Format:** Each student is expected to conduct a research or development project over the course of the semester. Each student is expected to share their work once during the semester, sending the class a draft paper, prototoype or other materials that you would like feedback on. Each student will be expected to provide "Peer Feedback" for everyone's projects.
+**Workshop Format:** Each student is expected to conduct a research or development project over the course of the semester. Each student is expected to share their work once during the semester, sending the class a draft paper, prototoype or other materials that you would like feedback on. Each student will be expected to provide "Peer Feedback" for everyone's projects.
 
 Week| Format | Topic | What's happening? | Moderator/Presenter
 -----|-----|----- |----- |----- 
@@ -60,7 +60,7 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 
 Assessment | Due Dates | Weight
 -----|-----|-----
-Reading Reflections | Mondays @ 5pm, Due every Discussion Week | 30% total (6 reflections)
+Discussion Reflections | Mondays @ 5pm, Due every Discussion Week | 30% total (6 reflections)
 Discussion Brief | Monday @ 5pm, after your assigned Discussion Week | 15%
 Work-in-progress Update | Monday @ 5pm, of your assigned Workshop Week | 10%
 Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 20% total (8* peer feedbacks)
