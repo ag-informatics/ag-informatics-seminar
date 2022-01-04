@@ -58,12 +58,14 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 
 ## Course Assessments
 
-Assessment | Due Dates | Weight
+Assessment | Due Dates | Weight*
 -----|-----|-----
-Reading Reflections | Mondays @ 5pm, Due every 2 weeks | 5% x 7
+Reading Reflections | Mondays @ 5pm, Due every Discussion Week | 5% each
 Discussion Brief | Monday @ 5pm, after your assigned Discussion Week | 15% x 1
-Project Peer Feedback | Mondays @ 5pm, Workshop Weeks | 5% x 7
+Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 5% each
 Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25% x 1
+
+*The final weights will change based on total enrollment in the course.
 
 **Late Policy:** You can have three "late days" where you submit work one business day late with no questions asked.  After that, you will be penalised 5% per day late. *The moment you have any issues, please contact me, and we can discuss options.*
 
