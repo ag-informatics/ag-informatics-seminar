@@ -60,6 +60,7 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 
 Assessment | Due Dates | Weight
 -----|-----|-----
+Project Contract | Monday @ 5pm, Week 3 | (-5% penalty on final project for no submission)
 Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 30% total (6 submissions)
 Topic Brief | Monday @ 5pm, after your assigned Discussion Week | 15%
 Project Work-in-progress Update | Monday @ 5pm, of your assigned Workshop Week | 10%
