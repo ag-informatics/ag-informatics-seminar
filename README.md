@@ -12,7 +12,7 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-  "Research & Practice in Agricultural Informatics" by [Ankita Raturi, Purdue University](https://github.com/ag-informatics/ag-informatics-readings) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+  "Research & Practice in Agricultural Informatics" by [Ankita Raturi, Purdue University](https://github.com/ag-informatics/ag-informatics-seminar) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
   
 **A Course in Progress:** this course is currently being developed as it is offered for the first time. Relevant changes to this course will be posted to this Github repository. New materials will be shared here each week. Major updates will be announced in class and/or via email/Slack. 
 
@@ -33,14 +33,14 @@ By the end of this course, you will be able to:
 # Course Structure & Schedule
 We will switch between two types of lectures, the "Discussion Format" and the "Workshop Format":
 
-**Discussion Format:** I will assign a selection of readings, videos, and other materials for the week. Each student is expected to review them and create a "Discussion Reflection" submission that summarizes their notes. One student will be assigned to be the "Moderator" for each discussion - this person will lead the group in discussion, bringing critical questions and notes, supplemental materials as relevant, and will write the "Discussion Brief" as a post-discussion activity. Each person is expected to be a moderator once during the semester.
+**Discussion Format:** I will assign a selection of readings, videos, and other materials for the week. Each student is expected to review them and create a "Topic Analysis" submission that summarizes their notes. One student will be assigned to be the "Moderator" for each discussion - this person will lead the group in discussion, bringing critical questions and notes, supplemental materials as relevant, and will write the "Topic Brief" as a post-discussion activity. Each person is expected to be a moderator once during the semester.
 
 **Workshop Format:** Each student is expected to conduct a research or development project over the course of the semester. Each student is expected to share their work once during the semester, sending the class a draft paper, prototoype or other materials that you would like feedback on. Each student will be expected to provide "Peer Feedback" for everyone's projects.
 
 Week| Format | Topic | What's happening? | Moderator/Presenter
 -----|-----|----- |----- |----- 
 1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks to discuss your project. | Ankita
-2 | Discussion | Digital Agriculture | All: submit your reading reflection. Moderator, submit your brief. | 
+2 | Discussion | Digital Agriculture | All: submit your topic analysis. Moderator, submit your topic brief. | 
 3 | Workshop | TBD | Presenter, submit your update. All: submit your peer feedback. |
 4 | Discussion
 5 | Workshop
@@ -60,9 +60,9 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 
 Assessment | Due Dates | Weight
 -----|-----|-----
-Discussion Reflections | Mondays @ 5pm, Due every Discussion Week | 30% total (6 reflections)
-Discussion Brief | Monday @ 5pm, after your assigned Discussion Week | 15%
-Work-in-progress Update | Monday @ 5pm, of your assigned Workshop Week | 10%
+Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 30% total (6 submissions)
+Topic Brief | Monday @ 5pm, after your assigned Discussion Week | 15%
+Project Work-in-progress Update | Monday @ 5pm, of your assigned Workshop Week | 10%
 Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 20% total (8* peer feedbacks)
 Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25%
 
@@ -71,7 +71,7 @@ Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 
 **Late Policy:** You can have three "late days" where you submit work one business day late with no questions asked.  After that, you will be penalised 5% per day late. *The moment you have any issues, please contact me, and we can discuss options.*
 
 # Course Communications
-**Lectures:** TBD or online. Wednesdays @ 3.30-5.20pm.
+**Lectures:** BCHM102 or online. Wednesdays @ 3.30-5.20pm.
 
 **Course Materials:** This github repository will contain links to all slides, readings. They will be released on a weekly basis.
 
