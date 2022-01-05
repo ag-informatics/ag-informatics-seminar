@@ -9,9 +9,11 @@
 
 4. What do you anticipate sharing during your Project work-in-progress Update? We can discuss what's appropriate, but suggest something to begin with!
 
-4. Upload this document to Brightspace by Week 3, Monday @ 5pm. This is not graded separately, but if you do not submit something, you will lose 5% of your final project grade.
+4. **Upload this document to Brightspace by Week 3, Monday @ 5pm.**. The sooner you submit, the better availability I will have to meet with you. This is not graded separately, but if you do not submit something, you will lose 5% of your final project grade.
 
-5. Schedule a meeting with the Instructor, Ankita, so that we can agree that this is an appropriate amount of work. Make sure you have submitted your project contract online at least 1 day before we meet. You will work on your project independently over the course of the semester. I will be available to provide feedback, guidance, and general support. You will have an opportunity for peer feedback during your Workshop Presentation. **Use this link: [https://calendly.com/sudokita/project-contract-meeting](https://calendly.com/sudokita/project-contract-meeting)**
+**Schedule a meeting with the Instructor, Ankita, so that we can agree that this is an appropriate amount of work.** Make sure you have submitted your project contract online at least 1 day before we meet. You will work on your project independently over the course of the semester. I will be available to provide feedback, guidance, and general support. You will have an opportunity for peer feedback during your Workshop Presentation. **Use this link: [https://calendly.com/sudokita/project-contract-meeting](https://calendly.com/sudokita/project-contract-meeting)**
+
+
 
 # 2. Topic Analysis
 I will assign a set of materials for Discussion weeks (see schedule above). Each student is expected to read/view/parse these materials and write a one page reflection. **You will submit a 1-2 page topic analysis every Discussion week, starting Week 2.** Your topic analysis should contain the following:
@@ -51,17 +53,21 @@ Instead you will need to do the following:
 
 *Rubric Coming Soon.*
 
+**Upload a link to this github page in Brightspace the Monday before our class @ 5pm.**
+
 # 4. Project in-progress Update
 
 Everyone is expected to present once during the semester. There is no set format for your project update. Instead consider the following order of operations:
 
-1. By 5pm the Monday before your assigned workshop presentation, you MUST send out something for your peers to review. This can be a link to a prototype, a paper draft, and outline of your methods, whatever you are working on as your Agricultural Informatics "project" for this semester. You must additionally provide your peers with guidance about what you'd like feedback ON. Your submission can look like this:
- - a draft of your paper, a link to the prototype on github, a video of your mockups. You need to provide people something to actually review!
- - a short set of instruction about what type of feedback you'd like: do you want people to look for holes in your paper rationale? some light user testing?
+1. By 5pm the Monday before your assigned workshop presentation, you MUST send out something for your peers to review. This can be a link to a prototype, a paper draft, and outline of your methods, whatever you are working on as your Agricultural Informatics "project" for this semester. You must additionally provide your peers with guidance about what you'd like feedback ON. Your submission should include:
+	- A draft of your paper, a link to the prototype on github, a video of your mockups. You need to provide people something to actually review!
+	- A short set of instruction about what type of feedback you'd like: do you want people to look for holes in your paper rationale? some light user testing?
 
 2. During your assigned timeslot, we will give you 20 minutes to provide an update, we will then spend the rest of the class in feedback discussion. 
 
 *Rubric Coming Soon.*
+
+**Upload your materials in Brightspace the Monday before our class @ 5pm.**
 
 # 5. Project Peer Feedback
 
