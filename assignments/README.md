@@ -9,7 +9,7 @@
 
 4. What do you anticipate sharing during your Project work-in-progress Update? We can discuss what's appropriate, but suggest something to begin with!
 
-4. **Upload this document to Brightspace by Week 3, Monday @ 5pm.**. The sooner you submit, the better availability I will have to meet with you. This is not graded separately, but if you do not submit something, you will lose 5% of your final project grade.
+5. **Upload this document to Brightspace by Week 3, Monday @ 5pm.**. The sooner you submit, the better availability I will have to meet with you. This is not graded separately, but if you do not submit something, you will lose 5% of your final project grade.
 
 **Schedule a meeting with the Instructor, Ankita, so that we can agree that this is an appropriate amount of work.** Make sure you have submitted your project contract online at least 1 day before we meet. You will work on your project independently over the course of the semester. I will be available to provide feedback, guidance, and general support. You will have an opportunity for peer feedback during your Workshop Presentation. **Use this link: [https://calendly.com/sudokita/project-contract-meeting](https://calendly.com/sudokita/project-contract-meeting)**
 
@@ -65,17 +65,25 @@ Everyone is expected to present once during the semester. There is no set format
 
 2. During your assigned timeslot, we will give you 20 minutes to provide an update, we will then spend the rest of the class in feedback discussion. 
 
+3. You will receive peer feedback on your work after your presentation
+
 *Rubric Coming Soon.*
 
 **Upload your materials in Brightspace the Monday before our class @ 5pm.**
 
 # 5. Project Peer Feedback
 
-ou will provide templated feedback for each of your peers. I will share these with the presenter so these must be written in a constructive tone. 
+You will provide feedback for each of your peers. I will share these with the presenter so these must be written in a constructive tone. 
+
+*Instructions Coming Soon.*
 
 *Rubric Coming Soon.*
+
+**Upload your materials in Brightspace the Monday before our class @ 5pm.**
 
 # 6. Project Final Submission
 If you chose to build something this semester, I'll ask for a short report to accompany it overviewing your work. If you chose to write a paper, you can just submit the paper itself.
 
 *Rubric Coming Soon.*
+
+**Upload your materials in Brightspace the Monday before our class @ 5pm.**
