@@ -28,7 +28,7 @@ By the end of this course, you will be able to:
 1. Identify, describe, and explain fundamental digital technologies and their applicability to key informatics challenges in food and agricultural systems.
 2. Discuss and analyze the state of the art of research and practice in agricultural informatics.
 3. Demonstrate critical and computational thinking skills for agricultural informatics research and development.
-4. Conceptualize or prototype and agricultural informatics solution an open food system or agricultural challenge.
+4. Conceptualize or prototype an agricultural informatics solution an open food system or agricultural challenge.
 
 # Course Structure & Schedule
 We will switch between two types of lectures, the "Discussion Format" and the "Workshop Format":
@@ -39,8 +39,8 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 
 Week| Format | Topic | What's happening? | Moderator/Presenter
 -----|-----|----- |----- |----- 
-1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 3 weeks to discuss your project. | Ankita
-2 | Discussion | Digital Agriculture | All: submit your topic analysis. Moderator, submit your topic brief. | 
+1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 2 weeks to discuss your project. Submit Project Contract. | Ankita
+2 | Discussion | Digital Agriculture | All: submit your topic analysis. Moderator, submit your topic brief. Submit Project Contract & schedule instructor meeting.| 
 3 | Workshop | TBD | Presenter, submit your update. All: submit your peer feedback. |
 4 | Discussion
 5 | Workshop
