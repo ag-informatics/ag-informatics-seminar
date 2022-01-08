@@ -41,29 +41,30 @@ Week| Format | Topic | What's happening? | Moderator/Presenter
 -----|-----|----- |----- |----- 
 1 | Logistics | Course Overview |  Schedule a meeting with the instructor in the first 2 weeks to discuss your project. Submit Project Contract. | Ankita
 2 | Discussion | Digital Agriculture | All: submit your topic analysis. Moderator, submit your topic brief. Submit Project Contract & schedule instructor meeting.| 
-3 | Workshop | TBD | Presenter, submit your update. All: submit your peer feedback. |
-4 | Discussion
-5 | Workshop
-6 | Discussion
-7 | Workshop
-8 | Discussion
-9 | Workshop
+3 | Discussion
+4 | Discussion | TBD | Presenter, submit your update. All: submit your peer feedback. |
+5 | Discussion
+6 | Workshop
+7 |  Discussion
+8 | Workshop
+9 |  Discussion
 10 | SPRING BREAK
-11 | Workshop
+11 |  Workshop
 12 | Discussion
-13 | Workshop
+13 |  Workshop
 14 | Discussion
-15 | Workshop
+15 |  Discussion
 16 | Presentations | Final Presentations | Submit your final report | Ankita
 
 ## Course Assessments
 
 Assessment | Due Dates | Weight
 -----|-----|-----
-Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 30% total (6 submissions)
+Project Contract | Monday @ 5pm, Week 3 | -5% penalty on final project for no submission
+Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 30% total (9 submissions)
 Topic Brief | Monday @ 5pm, after your assigned Discussion Week | 15%
 Project Work-in-progress Update | Monday @ 5pm, of your assigned Workshop Week | 10%
-Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 20% total (8* peer feedbacks)
+Project Peer Feedback | Mondays @ 5pm, Due every Week 6, 8, 11, 13 | 20% total (9 peer feedbacks)
 Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25%
 
 *The final weights will change based on total enrollment in the course.
