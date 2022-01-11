@@ -60,8 +60,8 @@ Instead you will need to do the following:
 Everyone is expected to present once during the semester. There is no set format for your project update. Instead consider the following order of operations:
 
 1. By 5pm the Monday before your assigned workshop presentation, you MUST send out something for your peers to review. This can be a link to a prototype, a paper draft, and outline of your methods, whatever you are working on as your Agricultural Informatics "project" for this semester. You must additionally provide your peers with guidance about what you'd like feedback ON. Your submission should include:
-	- A draft of your paper, a link to the prototype on github, a video of your mockups. You need to provide people something to actually review!
-	- A short set of instruction about what type of feedback you'd like: do you want people to look for holes in your paper rationale? some light user testing?
+	- A draft of your paper, a link to the prototype on github, a video of your mockups. whatever you have so far. You need to provide people something to actually review!
+	- A short set of instructions about what type of feedback you'd like: do you want people to look for holes in your paper rationale? some light user testing?
 
 2. During your assigned timeslot, we will give you 20 minutes to provide an update, we will then spend the rest of the class in feedback discussion. 
 
