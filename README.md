@@ -72,7 +72,7 @@ Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 
 **Late Policy:** You can have three "late days" where you submit work one business day late with no questions asked.  After that, you will be penalised 5% per day late. *The moment you have any issues, please contact me, and we can discuss options.*
 
 # Course Communications
-**Lectures:** BCHM102 or online. Wednesdays @ 3.30-5.20pm.
+**Lectures:** online or BCHM102. Wednesdays @ 3.30-5.20pm.
 
 **Course Materials:** This github repository will contain links to all slides, readings. They will be released on a weekly basis.
 
