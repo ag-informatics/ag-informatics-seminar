@@ -62,9 +62,9 @@ Assessment | Due Dates | Weight
 -----|-----|-----
 Project Contract | Monday @ 5pm, Week 3 | -5% penalty on final project for no submission
 Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 30% total (9 submissions)
-Topic Brief | Monday @ 5pm, after your assigned Discussion Week | 15%
-Project Work-in-progress Update | Monday @ 5pm, of your assigned Workshop Week | 10%
-Project Peer Feedback | Mondays @ 5pm, Due every Week 6, 8, 11, 13 | 20% total (9 peer feedbacks)
+Topic Brief | Monday @ 5pm, Due the **Monday after** your assigned Discussion Week | 15%
+Project Work-in-progress Update | Monday @ 5pm, Due the **Monday before** your assigned Workshop Week | 10%
+Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 20% total (9 peer feedbacks)
 Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25%
 
 *The final weights will change based on total enrollment in the course.
