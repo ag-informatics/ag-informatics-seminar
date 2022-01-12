@@ -39,10 +39,10 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 
 Week| Format | Topic | What's happening? | Moderator/Presenter
 -----|-----|----- |----- |----- 
-1 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) |  Schedule a meeting with the instructor in the first 2 weeks to discuss your project. | Ankita
-2 | Discussion | [Digital Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | All: submit your topic analysis. Moderator, submit your topic brief.| 
-3 | Discussion | TBD | Submit Project Contract. |
-4 | Workshop | TBD | Presenter, submit your update. All: submit your peer feedback. |
+1 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor in the first 2 weeks to discuss your project. 
+2 | Discussion | [Digital Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | | All: submit your topic analysis. Moderator, submit your topic brief.
+3 | Discussion | TBD | | Submit Project Contract.
+4 | Workshop | TBD | | Presenter, submit your update. All: submit your peer feedback.
 5 | Discussion
 6 | Workshop
 7 |  Discussion
