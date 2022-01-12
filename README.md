@@ -37,7 +37,7 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 
 **Workshop Format:** Each student is expected to conduct a research or development project over the course of the semester. Each student is expected to share their work once during the semester, sending the class a draft paper, prototoype or other materials that you would like feedback on. Each student will be expected to provide "Peer Feedback" for everyone's projects.
 
-Week| Format | Topic | What's happening? | Moderator/Presenter
+Week| Format | Topic | Moderator/Presenter | What's happening?
 -----|-----|----- |----- |----- 
 1 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor in the first 2 weeks to discuss your project. 
 2 | Discussion | [Digital Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | | All: submit your topic analysis. Moderator, submit your topic brief.
