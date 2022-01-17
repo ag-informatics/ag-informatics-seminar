@@ -51,6 +51,8 @@ Instead you will need to do the following:
 
 5. Come prepared to lead the discussion. You will be expected to give a 10 minute presentation, using slides, your notes, whatever you'd like, to kick-off the discussion in-class.
 
+6. After class, update your discussion topic and **Submit the link to the github page via Brigthspace the Monday after our class @ 5pm.**
+
 *Rubric Coming Soon.*
 
 **Upload a link to this github page in Brightspace the Monday before our class @ 5pm.**
