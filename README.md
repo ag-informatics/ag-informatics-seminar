@@ -40,9 +40,9 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 Week| Format | Topic | Moderator/Presenter | What's happening?
 -----|-----|----- |----- |----- 
 1 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor in the first 2 weeks to discuss your project. 
-2 | Discussion | [Digital Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Adam | All: submit your topic analysis. Moderator, submit your topic brief.
-3 | Discussion | Software Engineering 101 | Hannah | Submit Project Contract.
-4 | Workshop | | |
+2 | Discussion | [Digital Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Adam | All: submit your topic analysis. Moderator, submit your topic brief. Meet w/Ankita re: Project.
+3 | Discussion | Software Engineering 101 | Hannah | Meet w/Ankita re: Project.
+4 | Workshop | | | All Project Contract Submitted.
 5 | Discussion | HCI x Agriculture (incl. human-data and human-robot interaction) | Jillian | 
 6 | Workshop
 7 |  Discussion | Data Science (incl. data structures, acquisition methods) | Sami |
