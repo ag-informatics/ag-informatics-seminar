@@ -1,4 +1,4 @@
-# Digital Agricutlure: Software Show & Tell
+# Digital Agriculture: Software Show & Tell
 
 Come to class prepared to show us a piece of software that you think of as an example of a digital agricultural tool. 
 
