@@ -41,7 +41,7 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 -----|-----|----- |----- |----- 
 1 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor in the first 2 weeks to discuss your project. 
 2 | Discussion | [Digital Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Adam | All: submit your topic analysis. Moderator, submit your topic brief. Meet w/Ankita re: Project.
-3 | Discussion | Software Show & Tell | Ankita |
+3 | Discussion | [Software Show & Tell](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-software-show-tell) | Ankita | Submit your Software Overview.
 4 | Discussion | Software Engineering 101 | Hannah | Meet w/Ankita re: Project.
 5 | Discussion | HCI x Agriculture (incl. human-data and human-robot interaction) | Jillian | 
 6 | Workshop | | Sami & Akhere |
