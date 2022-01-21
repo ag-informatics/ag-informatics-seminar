@@ -60,8 +60,9 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 
 Assessment | Due Dates | Weight
 -----|-----|-----
-Project Contract | Monday @ 5pm, Week 3 | -5% penalty on final project for no submission
-Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 30% total (9 submissions)
+Project Contract | Monday @ 5pm, Week 4 | -5% penalty on final project for no submission
+Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 25% total (8 submissions)
+Software Overview | Friday @ 5pm, Week 3 | 5% (one off)
 Topic Brief | Monday @ 5pm, Due the **Monday after** your assigned Discussion Week | 15%
 Project Work-in-progress Update | Monday @ 5pm, Due the **Monday before** your assigned Workshop Week | 10%
 Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 20% total (9 peer feedbacks)
