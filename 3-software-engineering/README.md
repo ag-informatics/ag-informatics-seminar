@@ -1,13 +1,13 @@
 # Software Engineering 101: Review Materials
 
-As I was assembling this week's reading list, I wasn't able to find my ideal resource: a light overview of the steps from software design to deployment. Instead of having you read software engineering papers, I'm going to overview the software development life cycle and describe some resources for you to look at - this document is review material #1. 
+As I was assembling this week's reading list, I wasn't able to find my ideal resource: a light overview of the steps from software design to deployment, with examples from food and agriculture systems, or any examples really! Instead of having you read software engineering papers, I'm going to overview the software development life cycle and describe some resources for you to look at - thus, this document is review material #1. 
 
-Here's some light background materials first: 
+Here are two light background materials for EVERYONE to check out: 
 1. RedHat video, Farming for the Future: https://www.youtube.com/watch?v=3YoboO1HO6k
 
 2. The Digital Services Playbook: https://playbook.cio.gov/. Though some of the recommendations are specific to building goverment tools (e.g. language in Play 11 on security re: FEDRAMP), I think many of the recommendations are applicable to our work.
 
-**Some example tools** I tried to pick papers that described *how* the tools are built and covered topics you have each talked about. Pick ONE or TWO from this list, OR, find something more appropriate for your discipline that details *how* the software was made:
+**PICK ONE OR TWO:** I tried to pick papers that described *how* the tools are built and covered examples from a range of domains. Pick ONE or TWO from this list, OR, find something more appropriate for your discipline that details *how* the software was made:
 
 1. Aquaculture farm management tool: https://dl.acm.org/doi/abs/10.1145/2835966.2836277?
 
