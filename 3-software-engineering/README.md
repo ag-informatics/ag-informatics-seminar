@@ -1,15 +1,32 @@
 # Software Engineering 101: Review Materials
 
-As I was assembling this week's reading list, I wasn't able to find my ideal resource: a light overview of the steps from software design to deployment. Instead of having you read software engineering papers, I'm going to overview the software development life cycle and describe some resources for you to look at - this document is review material #1. I'm also listing 3 ag tech papers that describe a little bit about how they were built, providing insight into the software engineering process. 
+As I was assembling this week's reading list, I wasn't able to find my ideal resource: a light overview of the steps from software design to deployment. Instead of having you read software engineering papers, I'm going to overview the software development life cycle and describe some resources for you to look at - this document is review material #1. 
 
-1. 
+Here's the rest of the materials first: 
+1. RedHat video, Farming for the Future: https://www.youtube.com/watch?v=3YoboO1HO6k
 
-2. 
+2. The Digital Services Playbook: https://playbook.cio.gov/. Though some of the recommendations are specific to building goverment tools (e.g. language in Play 11 on security re: FEDRAMP), I think many of the recommendations are applicable to our work.
 
-3. 
+**Some example tools** I tried to pick papers that described *how* the tools are built and covered topics you have each talked about. Pick ONE or TWO from this list, OR, find something more appropriate for your discipline that details *how* the software was made:
+
+1. Aquaculture farm management tool: https://dl.acm.org/doi/abs/10.1145/2835966.2836277?
+
+2. Dairy herd management tool: https://onlinelibrary.wiley.com/doi/10.1002/spe.2704
+
+3. Wireless dairy goat monitoring: https://dl.acm.org/doi/pdf/10.1145/3330180.3330182
+
+4. Serveless farm management tool incl. smart contracts: https://dl.acm.org/doi/pdf/10.1145/3460866.3461770
+
+5. Pest warning system for rice growers: https://dl.acm.org/doi/pdf/10.1145/2857218.2857271
+
+6. Stored grain management and visualization system: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7120671
+
+7. GHG Modeling Tool (COMET FARM): https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/agronmonogr59.c16
+
+8. Mobile on-farm weather data collection tool: https://www.mdpi.com/2073-4433/11/9/902
 
 ## A brief overview of the Software Development Life Cycle (SDLC) for agricultural researchers
-Author: @sudokita
+Author: @sudokita, Ankita Raturi
 
 The SDLC is a set of defined stages in software engineering to move from an idea to a software product. You may be familiar with the high-level headings of the engineering process from other engineering design classes. These phases, though described as separate portions of work, often overlap, and especially as folks developing software in the research space, you may find yourself jumping around in the development life cycle depending on priorities, funding availability, skills, and other factors. Still, I think it's useful to have an idea of what each of the phases are and what tasks you may need to do in each of them. Consider this as modules of a development roadmap.
 
@@ -106,7 +123,6 @@ My recommendations for this phase:
 	- When in doubt, print it out. When I'm stuck with my code two approaches have proven useful. 1) Insert a print statement and force my code to spit out the value(s) on the screen, for example in the middle of a loop, so that I can see if it's processing correctly. 2) Literally print out the coe on paper and proof-read it like a paper, working through the logic of the algorithm side-by-side to find my bugs.
 
 ## Phase 4: Maintenance
-
 Though this phase is listed at the end, I strongly recommend you see these are ongoing practices - especially keeping documentation. 
 
 1. **Open Source:** If you chose to open source your work, your may want to go through the entire codebase again ensuring that you are set up correctly. Here's a primer that I recently came across, by [Github](https://lab.github.com/githubtraining/create-an-open-source-program). 
