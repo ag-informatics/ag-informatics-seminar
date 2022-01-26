@@ -43,15 +43,15 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 2 | Discussion | [Digital Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Adam | All: submit your topic analysis. Moderator, submit your topic brief. Meet w/Ankita re: Project.
 3 | Discussion | [Software Show & Tell](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-software-show-tell) | Ankita | Submit your Software Overview.
 4 | Discussion | Software Engineering 101 | Hannah |  All: submit your topic analysis. Moderator, submit your topic brief. Submit your project contract. 
-5 | Discussion | HCI x Agriculture (incl. human-data and human-robot interaction) | Jillian | All: submit your topic analysis. Moderator, submit your topic brief. 
-6 | Workshop | | Sami & Akhere |
-7 |  Discussion | Data Science (incl. data structures, acquisition methods) | Sami |All: submit your topic analysis. Moderator, submit your topic brief. 
-8 | Workshop | | Steve & Jillian |
-9 |  Discussion | From ML to AI (incl. vision and automation) | Harsh | All: submit your topic analysis. Moderator, submit your topic brief. 
+5 | Discussion | HCI x Agriculture (incl. human-data and human-robot interaction) | Jillian | All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday.
+6 | Workshop | | Sami & Akhere | Submit feedback for 2 presenters.
+7 |  Discussion | Data Science (incl. data structures, acquisition methods) | Sami |All: submit your topic analysis. Moderator, submit your topic brief.  Presenters for next week: Send out your packages by Friday.
+8 | Workshop | | Steve & Jillian | Submit feedback for 2 presenters.
+9 |  Discussion | From ML to AI (incl. vision and automation) | Harsh | All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday.
 10 | SPRING BREAK
-11 |  Workshop | | Adam & Hannah |
-12 | Discussion | User Perspectives & Challenges (incl. privacy, open source, ethics) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
-13 |  Workshop | | Glen & Harsh |
+11 |  Workshop | | Adam & Hannah | Submit feedback for 2 presenters.
+12 | Discussion | User Perspectives & Challenges (incl. privacy, open source, ethics) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday. 
+13 |  Workshop | | Glen & Harsh | Submit feedback for 2 presenters.
 14 | Discussion | Communicating Data (incl. data visualization and user interfaces) | Akhere | All: submit your topic analysis. Moderator, submit your topic brief. 
 15 |  Discussion | Decision Support & Beyond (novel tools & ag tech design spaces) | Steve | All: submit your topic analysis. Moderator, submit your topic brief. 
 16 | Presentations | Final Presentations | Submit your final report | Ankita
