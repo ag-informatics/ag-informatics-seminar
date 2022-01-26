@@ -46,12 +46,12 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 5 | Discussion | HCI x Agriculture (incl. human-data and human-robot interaction) | Jillian | All: submit your topic analysis. Moderator, submit your topic brief. 
 6 | Workshop | | Sami & Akhere |
 7 |  Discussion | Data Science (incl. data structures, acquisition methods) | Sami |All: submit your topic analysis. Moderator, submit your topic brief. 
-8 | Workshop | | Steve & ______ |
+8 | Workshop | | Steve & Jillian |
 9 |  Discussion | From ML to AI (incl. vision and automation) | Harsh | All: submit your topic analysis. Moderator, submit your topic brief. 
 10 | SPRING BREAK
-11 |  Workshop | | Adam & ______ |
+11 |  Workshop | | Adam & Hannah |
 12 | Discussion | User Perspectives & Challenges (incl. privacy, open source, ethics) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
-13 |  Workshop | | ______ & ______ |
+13 |  Workshop | | Glen & Harsh |
 14 | Discussion | Communicating Data (incl. data visualization and user interfaces) | Akhere | All: submit your topic analysis. Moderator, submit your topic brief. 
 15 |  Discussion | Decision Support & Beyond (novel tools & ag tech design spaces) | Steve | All: submit your topic analysis. Moderator, submit your topic brief. 
 16 | Presentations | Final Presentations | Submit your final report | Ankita
