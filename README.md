@@ -50,9 +50,9 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 9 |  Discussion | From ML to AI (incl. vision and automation) | Harsh | All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday.
 10 | SPRING BREAK
 11 |  Workshop | | Adam & Hannah | Submit feedback for 2 presenters.
-12 | Discussion | Communicating Data (incl. data visualization and user interfaces) | Akhere | Glen | All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday. 
+12 | Discussion | Communicating Data (incl. data visualization and user interfaces) | Akhere |  All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday. 
 13 |  Workshop | | Glen & Harsh | Submit feedback for 2 presenters.
-14 | Discussion | User Perspectives & Challenges (incl. privacy, open source, ethics) | All: submit your topic analysis. Moderator, submit your topic brief. 
+14 | Discussion | User Perspectives & Challenges (incl. privacy, open source, ethics) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
 15 |  Discussion | Decision Support & Beyond (novel tools & ag tech design spaces) | Steve | All: submit your topic analysis. Moderator, submit your topic brief. 
 16 | Presentations | Final Presentations | Submit your final report | Ankita
 
