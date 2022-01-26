@@ -65,7 +65,7 @@ Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 25% total (8 submiss
 Software Overview | Friday @ 5pm, Week 3 | 5% (one off)
 Topic Brief | Monday @ 5pm, Due the **Monday after** your assigned Discussion Week | 15%
 Project Work-in-progress Update | Monday @ 5pm, Due the **Monday before** your assigned Workshop Week | 10%
-Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 20% total (9 peer feedbacks)
+Project Peer Feedback | Mondays @ 5pm, Due every Workshop Week | 20% total (8 peer feedbacks)
 Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25%
 
 *The final weights will change based on total enrollment in the course.
