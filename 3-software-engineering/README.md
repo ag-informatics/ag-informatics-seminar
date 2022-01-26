@@ -2,7 +2,7 @@
 
 As I was assembling this week's reading list, I wasn't able to find my ideal resource: a light overview of the steps from software design to deployment. Instead of having you read software engineering papers, I'm going to overview the software development life cycle and describe some resources for you to look at - this document is review material #1. 
 
-Here's the rest of the materials first: 
+Here's some light background materials first: 
 1. RedHat video, Farming for the Future: https://www.youtube.com/watch?v=3YoboO1HO6k
 
 2. The Digital Services Playbook: https://playbook.cio.gov/. Though some of the recommendations are specific to building goverment tools (e.g. language in Play 11 on security re: FEDRAMP), I think many of the recommendations are applicable to our work.
