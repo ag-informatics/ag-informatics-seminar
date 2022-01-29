@@ -139,9 +139,8 @@ Author: Hannah Klein
 
 GitHub: hkbombus
 
-## Overview of the Topic
+## Overview of the Topic: Software Engineering
 
-### Software Engineering
 
 
 
