@@ -135,18 +135,41 @@ Though this phase is listed at the end, I strongly recommend you see these are o
 
 
 # Moderator's Discussion Brief
-Author: Hannah Klein 
+Author: Hannah Klein
 
-GitHub:
+GitHub: hkbombus
 
 ## Overview of the Topic
+
+### Software Engineering
 
 
 
 ## Short Synopsis of Materials
 
+1. "*Open Source Stories: Farming for the Future*" : This short video tells the stories of farmers,  educators and innovators working in the space of digital agriculture.
 
-## Summary of Key Takeways from the Materials
+2. "*The Digital Services Playbook*" : Written by U.S. Digital Services (USDS) this document describes 13 principles for streamlining and improving digital government services. Each principle or 'play' is accompanied by a short description, a checklist, and key questions. The principles cover a wide range of topics including UX design, budgeting and management. While written for USDS services, the playbook provides a strong template for any digital service designer.
+
+### Papers
+
+1. Aquaculture farm management tool: "mKRISHI® collaborated with farm managers, government regulators and farmers to develop "mKRISHI® -AQUA" service, in an iterative, multi-phase development process. This service helps in data collection, compilation and presentation of the patterns in visual format, enabling decision on further operations (such as feeding) in a more real-time manner compared to paper based operation."
+
+2. Dairy herd management tool:
+
+3. Wireless dairy goat monitoring:
+
+4. Serveless farm management tool incl. smart contracts:
+
+5. Pest warning system for rice growers:
+
+6. Stored grain management and visualization system:
+
+7. GHG Modeling Tool (COMET FARM):
+
+8. Mobile on-farm weather data collection tool:
+
+## Summary of Key Takeaways from the Materials
 
 
 
