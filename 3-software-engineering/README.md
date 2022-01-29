@@ -152,7 +152,7 @@ GitHub: hkbombus
 
 ### Papers
 
-1. Aquaculture farm management tool: "mKRISHI® collaborated with farm managers, government regulators and farmers to develop "mKRISHI® -AQUA" service, in an iterative, multi-phase development process. This service helps in data collection, compilation and presentation of the patterns in visual format, enabling decision on further operations (such as feeding) in a more real-time manner compared to paper based operation."
+1. "*Digital Platform for Data Driven Aquaculture Farm Management*": "mKRISHI® collaborated with farm managers, government regulators and farmers to develop "mKRISHI® -AQUA" service, in an iterative, multi-phase development process. This service helps in data collection, compilation and presentation of the patterns in visual format, enabling decision on further operations (such as feeding) in a more real-time manner compared to paper based operation."
 
 2. Dairy herd management tool:
 
@@ -160,7 +160,7 @@ GitHub: hkbombus
 
 4. Serveless farm management tool incl. smart contracts:
 
-5. Pest warning system for rice growers:
+5. "*Personal Warning Service for Pest Management Using a Crop Calendar and BUS Model*" : This paper presents a warning system and decision support tool for Thai rice farmers. The model diverges from traditional calender based systems by incorporating spatial and temporal factors.
 
 6. Stored grain management and visualization system:
 
@@ -181,7 +181,7 @@ GitHub: hkbombus
 
 3. One on SE
 
-4. What paper did you read, provide a short description / key takeaways?
+4. What paper did you read, provide a short description / key takeaways / major critiques?
 
 
 ## Further Resources
