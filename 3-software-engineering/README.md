@@ -175,6 +175,13 @@ GitHub: hkbombus
 
 ## Discussion Questions
 
+1. What is your level of experience with Software Engineering? Is the practice of software engineering different from the idea you had of it before getting into the field?
+
+2. Did any one have a favorite 'play' from the DSPB? Did any of their plays seem relevant to your work, if so how?
+
+3. One on SE
+
+4. What paper did you read, provide a short description / key takeaways?
 
 
 ## Further Resources
