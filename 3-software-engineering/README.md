@@ -158,7 +158,7 @@ GitHub: hkbombus
 
 3. Wireless dairy goat monitoring:
 
-4. Serveless farm management tool incl. smart contracts:
+4. Serverless farm management tool incl. smart contracts:
 
 5. "*Personal Warning Service for Pest Management Using a Crop Calendar and BUS Model*" : This paper presents a warning system and decision support tool for Thai rice farmers. The model diverges from traditional calender based systems by incorporating spatial and temporal factors.
 
