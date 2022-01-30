@@ -141,7 +141,7 @@ GitHub: hkbombus
 
 ## Overview of the Topic: Software Engineering
 
-
+Software Engineering (SE) is the development of software systems and applications, as graduate students you are developing software to assist with research and the implementation of that work. This module takes us through the software development life cycle, while the readings and supplementary materials highlight ways software engineering has been used in our various specialties.
 
 
 ## Short Synopsis of Materials
@@ -170,7 +170,9 @@ GitHub: hkbombus
 
 ## Summary of Key Takeaways from the Materials
 
+1. *Digital agriculture can increase access to to farming*. Digital agriculture breaks rural boundaries, from hydroponics in baltimore publics schools to programers contributing to open source farming software, we see how DA and SE can increase agricultures reach.
 
+2.
 
 
 ## Discussion Questions
@@ -179,9 +181,10 @@ GitHub: hkbombus
 
 2. Did any one have a favorite 'play' from the DSPB? Did any of their plays seem relevant to your work, if so how?
 
-3. One on SE
+3. Has anyone individually, or their lab, conducted exploratory user research that is materially guiding their current work or their lab's work? If so can you breakdown that process?
 
 4. What paper did you read, provide a short description / key takeaways / major critiques?
+
 
 
 ## Further Resources
