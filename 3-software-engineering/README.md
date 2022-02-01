@@ -172,7 +172,9 @@ Software Engineering (SE) is the development of software systems and application
 
 1. *Digital agriculture can increase access to to farming*. Digital agriculture breaks rural boundaries, from hydroponics in baltimore publics schools to programers contributing to open source farming software, we see how DA and SE can increase agricultures reach.
 
-2.
+2. *Digital agriculture can help farmers prepare for and combat climate change*. Smarter tools can help make farmers more agile in the face of climate uncertainty, they can also provide decision making tools to help farmers make more sustainable decisions.
+
+3. *There are endless free resources in Software Engineering.* This breakdown really highlights how many free resources exist for Software Engineering. The first step is setting out clear goals and then identifying the tools and resources that can help you achieve results.
 
 
 ## Discussion Questions
@@ -186,9 +188,25 @@ Software Engineering (SE) is the development of software systems and application
 4. What paper did you read, provide a short description / key takeaways / major critiques?
 
 
-
 ## Further Resources
 
+### 1) [Udacity](https://www.udacity.com/courses/all?price=Free)
+Provides free courses on a number programing and software engineering topics including [machine learning](https://www.udacity.com/course/machine-learning--ud262), [data science](https://www.udacity.com/course/intro-to-data-science--ud359), and [product design](https://www.udacity.com/course/product-design--ud509).
+
+### 2) [Google Developers](https://developers.google.com/)
+Also provides a wide array of free courses you can set you skill level, language, topic etc.
+### 3) [Jigsaw Labs](https://www.jigsawlabs.io/free)
+A free python course that teaches through hands on google colab lessons.
+### 4) [Roadmaps](https://roadmap.sh/)
+Creates visual roadmaps to help guide users down a path to mastering various skills/ ares in software engineering.
+### 5) [Figma](https://www.figma.com/)
+A free platform for creating high (or low) fidelity prototypes. Can be used groups to workshop wire frames, user flow, etc.
+
+### 4) [Miro](https://miro.com/)
+Similar tool to Figma.
+
+### 5) Blogs and Message Boards
+ [Medium](https://medium.com/), [Stackoverflow](https://stackoverflow.com/), [Geeks for Geeks](https://www.geeksforgeeks.org/), [Stack Exchange](https://stackexchange.com/) You have probably come across these yourself in the midst of googling whatever your current programing nightmare happens to be. These are four of the most common but there are many more knowledge sharing sites.
 
 
 ## Discussion Notes and Feedback
