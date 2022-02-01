@@ -202,10 +202,7 @@ Creates visual roadmaps to help guide users down a path to mastering various ski
 ### 5) [Figma](https://www.figma.com/)
 A free platform for creating high (or low) fidelity prototypes. Can be used groups to workshop wire frames, user flow, etc.
 
-### 4) [Miro](https://miro.com/)
-Similar tool to Figma.
-
-### 5) Blogs and Message Boards
+### 6) Blogs and Message Boards
  [Medium](https://medium.com/), [Stackoverflow](https://stackoverflow.com/), [Geeks for Geeks](https://www.geeksforgeeks.org/), [Stack Exchange](https://stackexchange.com/) You have probably come across these yourself in the midst of googling whatever your current programing nightmare happens to be. These are four of the most common but there are many more knowledge sharing sites.
 
 
