@@ -154,19 +154,19 @@ Software Engineering (SE) is the development of software systems and application
 
 1. "*Digital Platform for Data Driven Aquaculture Farm Management*": "mKRISHI® collaborated with farm managers, government regulators and farmers to develop "mKRISHI® -AQUA" service, in an iterative, multi-phase development process. This service helps in data collection, compilation and presentation of the patterns in visual format, enabling decision on further operations (such as feeding) in a more real-time manner compared to paper based operation."
 
-2. Dairy herd management tool:
+2. "*SmartHerd management: A microservices-based fog computing–assisted IoT platform towards data-driven smart dairy farming*": "SmartHerd, a fog computing–assisted end-to-end IoT platform for animal behavior analysis and health monitoring in a dairy farming scenario. The platform follows a microservices-oriented design to assist the distributed computing paradigm and addresses the major issue of constrained Internet connectivity in remote farm locations."
 
-3. Wireless dairy goat monitoring:
+3. "*Monitoring Feeding and Resting Pattern of Goats in Dairy Farm using Long-range RFID-based system*" : "This paper aims to describe the design and deployment of a long-range multiple-input Radio Frequency Identification (RFID) monitoring system that efficiently monitor real-time goat feeding and resting behavior in the dairy farm by periodically collect the strength of the radio signal."
 
-4. Serverless farm management tool incl. smart contracts:
+4. "*Auditable Serverless Computing for Farm Management*": "propose a novel mix of serverless functions, shared ledgers, webhooks, and REST APIs to enhance Agriculture/-Farm Management Systems, providing an integrated solution for Task, User, and Field Management that exploits a fine-grained pricing model. Further, our technique utilizes serverless oblivious smart contracts as a building block."
 
 5. "*Personal Warning Service for Pest Management Using a Crop Calendar and BUS Model*" : This paper presents a warning system and decision support tool for Thai rice farmers. The model diverges from traditional calender based systems by incorporating spatial and temporal factors.
 
-6. Stored grain management and visualization system:
+6. "*A Management System Based on Graphical Variable for Stored Grain Protection*": "This paper discusses a new method for designing and implementing a management system based on graphical variable for stored grain protection...the method not only increases estimation precision for temperature and moisture of stored grain but also decreases computation expense and provides more information relevant to stored grain for users."
 
-7. GHG Modeling Tool (COMET FARM):
+7. "*Field- and farm-scale assessment of soil greenhouse gas mitigation using COMET-Farm*": "The COMET-Farm system was designed to fill this need by incorporating state-of-the-art greenhouse gas quantification methods into a web-based tool that can be used by farmers, ranchers, land managers and others. The system is capable of doing a full greenhouse gas assessment for CO2, CH4, and N2O, from all major on-farm emission sources (and CO2 removal into biomass and soil sinks), including land management of annual and perennial crops, pasture, range and agroforestry systems, as well as emissions from livestock and on-farm energy use. The system uses a fully spatial mapping and menu-driven graphical user interface (GUI) to facilitate data entry and evaluation of user-defined conservation practices."
 
-8. Mobile on-farm weather data collection tool:
+8. "*Coproducing Weather Forecast Information with and for Smallholder Farmers in Ghana: Evaluation and Design Principles*": "Developing more useful and accessible weather and climate information services (WCIS) can help small-scale farmers improve their adaptive capacity... we evaluated the outcomes of an experimental coproduction of weather forecasts in Ada, Ghana. The experiment involved a user-driven design and testing of information and communications technology (ICT)-based digital (smartphones and apps) and rainfall monitoring tools by 22 farmers...The results showed a positive evaluation of the intervention, expressed by the level of engagement, the increase in usability of the tools and understanding of forecast uncertainty, outreach capacity with other farmers, and improved daily farming decisions."
 
 ## Summary of Key Takeaways from the Materials
 
