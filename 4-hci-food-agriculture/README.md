@@ -58,7 +58,7 @@ GitHub: jillarb
 1. HCI - brief intro
 This article is a brief history and explanation of HCI. The concept of HCI began when personal computers were developed and
 their use was spreading rapidly. HCI has had to change and adapt as computers became smaller, more portable, and integrated into other
-objects such as cars. HCI now overlaps with many fields
+objects such as cars. HCI now overlaps with many fields such ad 
 
 2. Human-Data Interaction
 
