@@ -46,15 +46,45 @@ Human-Computer Interaction is a discpline in which we consider the human experie
 
 
 # Moderator's Discussion Brief
-Author: 
+Author: Jillian Arber
 
-GitHub: 
+GitHub: jillarb
 
 ## Overview of the Topic
 
  
 
 ## Short Synopsis of Materials
+1. HCI - brief intro
+This article is a brief history and explanation of HCI. The concept of HCI began when personal computers were developed and
+their use was spreading rapidly. HCI has had to change and adapt as computers became smaller, more portable, and integrated into other
+objects such as cars. HCI now overlaps with many fields
+
+2. Human-Data Interaction
+
+3. Human-Robot interaction
+
+4. Mobile Computing
+
+5. Animal-Computer Interaction
+
+6. Collaboration Technologies
+
+7. Making Public Things: How HCI Design Can Express Matters of Concern
+
+8. A Grand Challenge for HCI: Food & Sustainability
+
+9. Ordinary User Experiences at Work: A Study of Greenhouse Growers
+
+10. Digital Green: Participatory video for agricultural extension
+
+11. MIFresh: promoting local produce consumption
+
+12. Small Business Applications of Sourcemap: A Web Tool for Sustainable Design and Supply Chain Transparency
+
+13. Farm Robots: Ecological Utopia or Dystopia?
+
+14. Safe Human-Robot Interaction in Agriculture
 
 
 ## Summary of Key Takeways from the Materials
