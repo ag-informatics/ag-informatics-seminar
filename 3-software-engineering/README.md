@@ -207,3 +207,17 @@ A free platform for creating high (or low) fidelity prototypes. Can be used grou
 
 
 ## Discussion Notes and Feedback
+
+The class has mostly come to software engineering recently through other academic/career paths where better understandings of software engineering, be it machine learning, app development, or data science, was required.
+
+Take Aways:
+
+* As researches there are creative ways to implement user feedback into our research.
+* Farmer feedback/user during development of applications can cath unexpected issues and improve flow.
+* Software applications can have desired features that appear hidden or difficult to access.
+* Many papers over promise in their titles and abstracts on the application and development stage of their work.
+
+
+
+
+
