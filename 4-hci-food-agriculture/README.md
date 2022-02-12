@@ -171,4 +171,39 @@ participating in ACI?
 
 3) [Thorvald robots](https://sagarobotics.com/) - mentioned in one of the papers and being tested in a few different areas
 
+4) The [marimo-activated rover system](https://www.fastcompany.com/90713257/these-robots-are-powered-by-algae-balls-living-inside)
+
+5) An [article](https://www.dezeen.com/2019/06/17/mit-researchers-engineer-cyborg-plants/#) on the work of MIT's "cyber botany" researchers
+
+
 ## Discussion Notes and Feedback
+Discussion Topics:
+
+Human-Data Interaction
+-The article inspired a call to action and more thought about online data protections
+-It was interesting that HCI/HDI principles can contradict each other
+
+Mobile Computing
+-Good ideas can go bac depending on how it is implemented and who implements it
+
+Safe Human-Robot Interaction
+-Bias towards more experienced workers vs. intentially designing a study around them
+
+Do "problem solutions" actually solve the problems they're addressing?
+-Other inequalities get exacerbated
+-Some papers that claim to have considered social/environmental factors add these sections as an afterthought
+-Sometimes technology is offered up to solve a problem without considering that the problem is a symptom of a larger wrong
+-In terms of ag tech research, practices that check if farming are actually using/needing these technologies should be implemented, especially
+if the project is getting state/federal funding
+
+Important things for creators to consider
+-Software creators should not interact with user testing, as they may inadvertently affect user experience
+-Ag tech creators without an ag background should learn the science and procedures of the field they're designing for
+
+End of Discussion Takeaways
+-Design of HCI and HDI influences usability of any tool and influences how much a user takes in data
+-There is a disconnect between those enacting policy and those being affected by it
+
+Related tangent
+-After discussing HCI and ACI, is there a space for PCI (plant-computer interaction)?
+
