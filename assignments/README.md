@@ -26,8 +26,6 @@ I will assign a set of materials for Discussion weeks (see schedule above). Each
 
 4. Questions: A list of 3-5 questions for the in-class discussion.
 
-*Rubric Coming Soon.*
-
 **Upload this as a PDF to Brightspace the Monday before our class @ 5pm.**
 
 # 3. Topic Brief
@@ -53,8 +51,6 @@ Instead you will need to do the following:
 
 6. After class, update your discussion topic and **Submit the link to the github page via Brigthspace the Monday after our class @ 5pm.**
 
-*Rubric Coming Soon.*
-
 **Upload a link to this github page in Brightspace the Monday before our class @ 5pm.**
 
 # 4. Project in-progress Update
@@ -69,23 +65,18 @@ Everyone is expected to present once during the semester. There is no set format
 
 3. You will receive peer feedback on your work after your presentation
 
-*Rubric Coming Soon.*
 
-**Upload your materials in Brightspace the Friday before our class @ 5pm.**
+**Upload your materials in Brightspace the Friday before our class @ 5pm. Share them on Slack with your peers as well.**
 
 # 5. Project Peer Feedback
 
-You will provide feedback for each of your peers. I will share these with the presenter so these must be written in a constructive tone. 
+You will provide feedback for each of your peers. I will share these with the presenter so these must be written in a constructive tone.  Please review the work as though you would a paper- simply provide comments on the document. Alternatively you can provide no more than one page of summarized feedback listing out:
 
-*Instructions Coming Soon.*
+1. Strengths
+2. Areas for improvement
+3. Suggestions/Recommended resources
 
-*Rubric Coming Soon.*
-
-**Upload your materials in Brightspace the Monday before our class @ 5pm.**
+**Upload your materials in Brightspace the Friday after our class @ 5pm.**
 
 # 6. Project Final Submission
 If you chose to build something this semester, I'll ask for a short report to accompany it overviewing your work. If you chose to write a paper, you can just submit the paper itself.
-
-*Rubric Coming Soon.*
-
-**Upload your materials in Brightspace the Monday before our class @ 5pm.**
