@@ -5,7 +5,7 @@ A light overview of the "IoT challenge" in agriculture: https://ieeexplore.ieee.
 
 There are many digital technologies used for data acquisition in food and agriculture. One way of categorizing them is in terms of the means of data input or acquisiion. Is the data entered into a user interface by a human or algorithm? If the data comes from an algorithm, is it connected to a sensor? Or is it scraping a website? If it's connected to a sensor, is it in a field, on a piece of equipment, on a satellite in space? Ultimately, we are interested in the flow of data from point of observation (plant, field, market) to a place where it can be used. A **rough** approximation of this concept is flowcharted below (this diagram is an experiment, let me know if it makes sense). 
 
-```flowchart TD
+```mermaid
 	graph TD;
 		A{{Data input?}}-->B{{Human}};
 		A-->C{{Machine}};
