@@ -94,14 +94,14 @@ The Article titled ‘Growing Plants, Raising Animals, and Feeding Communities t
 ## Short Synopsis of Materials
 
 The term ‘data acquisition’ is a widespread term. It can be classified in two sections depending on who is collecting the data. Data is collected directly by Human and using machines.  
-# Data collection by Human:
+### Data collection by Human:
 Data acquisition by human can be done on papers using freeform notes, Structured tables or questionnaires, sticky notes or small field logbooks, those tools are hard to get insights and can not be shared with others easily if needed. This problem was solved introducing computerized spreadsheets in the place of logbook to keep records. Recording data from field has become easier using digital forms and apps in smartphones and tablets.
  
 **Spreadsheets:** Spreadsheets are the most popular and easy method of record keeping and data acquisition. Spreadsheets are interoperable and they makes the opportunity to get insights from the gathered data easily by analyzing the data. There has been tremendous improvement in use of spreadsheets as automated spreadsheets are available. Microsoft offers interactive excel spreadsheet to record data using a button based interface. Similarly, Google offers a scripted pipeline of data from forms to spreadsheet using “Macro”. Spreadsheets got a new journey of database integration with forms. Airtable is an example of hybrid spreadsheets of this genre. 
 
 **Forms:** Forms are simple to create and useful for collecting data via user input. Google provides the easiest web forms. There are other more advanced data collection technologies available. One of them is the Kobo Toolkit. It may also be used to record places with data. SurveyStack is another data collection tool that is commonly used by researchers. Using this form-based application, research data may be collected in an orderly manner. Survey123 (also based on ODK) is part of the SRI toolbox and may be used in government fieldwork and data collecting use cases.
 
-# Data collected by Machine
+### Data collected by Machine
 Machines collects data by using scraping website or databases, by direct sensing from fields using in field sensors or instrument mounted devices and by remote sensing using satellite and UAVs/ robots. 
 
 **Scraping:** Scraping is an efficient way of acquiring data. It entails downloading directly from websites and databases such as the FAO Global Food & Ag Data website. APIs are very easy for obtaining data since they employ techniques such as SQL queries. "SSURGO" from the NRCS, USGS offers an API for obtaining soil data from all across the United States. There are libraries that can download essential data from distant databases and websites to be used with scripts. Beautiful Soup is an example of a Python library that does this functionality. Some websites provide direct access to CSV/JSON files. This possibility is provided by the NOAA database. Another method for obtaining data is to use a Unix command line program such as WGET or CURL to download big amounts of data from websites.
@@ -110,7 +110,7 @@ Machines collects data by using scraping website or databases, by direct sensing
 
 **Remote sensing:** It’s a secondary data acquisition process. The data gathered in this method are not always direct inputs, in many cases, they are derived data from physical/analog signals. This method involves satellite data and UAV generated data. 
 
-# Paper: Challenges in IoT:
+### Paper: Challenges in IoT:
 
 The Article titled ‘ Growing Plants, Raising Animals, and Feeding Communities through Connected Agriculture: An IoT Challenge’ discussed the use of IoT to manage three different types of farms. The data acquisition method is automated and all the three farms uses the data for decision support and better management. The authors mentioned ‘agricultural connectedness’ and its five components that was seen from that three farms. They also discussed the clallange to establish IoT in farming to be the financial barrier and the infrastructure constraint of using internet. The article also proposes some design opportunities for successful establishment of IoT in agriculture.
 
