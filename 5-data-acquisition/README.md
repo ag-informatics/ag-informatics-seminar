@@ -82,28 +82,85 @@ Instead of a topic analysis, this week, I ask you to provide **1 page** overview
 
 
 # Moderator's Discussion Brief
-Author: 
+Author: Md. Samiul Basir
 
-GitHub: 
+GitHub: https://github.com/mbasir25 
 
 ## Overview of the Topic
-
- 
+The discussion topic of Data Acquisition talks about the data acquisition systems existing in agricultural field. The data acquisition can be done by human or machines. Human data acquisition is done by free forms as paper notes. It is mostly handwritten and year-old method to record data. It involves keeping notes in a notebook, structured tables to write the records in a particular place, on sticky notes or on a small field book. The process of keeping notes has been replaced by spreadsheets that can easily arrange the data for further analysis. Spreadsheets can be used for direct data entry or for keep the data archived in a structured way after using free form notes. The field data recording notebooks are now being replaced by automated forms or apps that sends the data to a database or a spreadsheet using internet. Human data collection is now in a new dimension as mobile applications are used to collect data. 
+Machines can gather data using APIs and scripts to collect data from a database or website. It  is called scraping and this method is an effective way to get data that is recorded previously by others. APIs like “SSURGO” of NRCS, USGS is an API to get soil data from all over the US. To get data using scripts, there are libraries that can download required data from remote databases and websites. Beautiful Soup  is an example of python libraries that does this job. CSV/JSON files can be downloaded directly from websites. NOAA database offers this opportunity. There is also another way to get data using Unix command line tool like WGET or CURL to download large sets of data from websites. Machine gathers data directly using sensors from fields or from any moving vehicles as a mounted device. Microcontrollers are used for this job that operates sensors and stores the data. Microcontrollers can send the data via cellular network, radio signals or using internet if it is IoT programmed. Machine can also get data by remote sensing. There is a bunch of satellite data available and can generated using satellite sensing. Use of UAV to get data is being popular in agricultural sector. 
+The Article titled ‘Growing Plants, Raising Animals, and Feeding Communities through Connected Agriculture: An IoT Challenge’ discussed the use of IoT to manage three different types of farms. The data acquisition method is automated, and all the three farms uses the data for decision support and better management. The authors mentioned ‘agricultural connectedness’ and its five components that was seen from those three farms. They also discussed the challenge to establish IoT in farming to be the financial barrier and the infrastructure constraint of using internet. The article also proposes some design opportunities for successful establishment of IoT in agriculture.
 
 ## Short Synopsis of Materials
 
+The term ‘data acquisition’ is a widespread term. It can be classified in two sections depending on who is collecting the data. Data is collected directly by Human and using machines.  
+### Data collection by Human:
+Data acquisition by human can be done on papers using freeform notes, Structured tables or questionnaires, sticky notes or small field logbooks, those tools are hard to get insights and can not be shared with others easily if needed. This problem was solved introducing computerized spreadsheets in the place of logbook to keep records. Recording data from field has become easier using digital forms and apps in smartphones and tablets.
+ 
+**Spreadsheets:** Spreadsheets are the most popular and easy method of record keeping and data acquisition. Spreadsheets are interoperable and they makes the opportunity to get insights from the gathered data easily by analyzing the data. There has been tremendous improvement in use of spreadsheets as automated spreadsheets are available. Microsoft offers interactive excel spreadsheet to record data using a button based interface. Similarly, Google offers a scripted pipeline of data from forms to spreadsheet using “Macro”. Spreadsheets got a new journey of database integration with forms. Airtable is an example of hybrid spreadsheets of this genre. 
+
+**Forms:** Forms are simple to create and useful for collecting data via user input. Google provides the easiest web forms. There are other more advanced data collection technologies available. One of them is the Kobo Toolkit. It may also be used to record places with data. SurveyStack is another data collection tool that is commonly used by researchers. Using this form-based application, research data may be collected in an orderly manner. Survey123 (also based on ODK) is part of the SRI toolbox and may be used in government fieldwork and data collecting use cases.
+
+### Data collected by Machine
+Machines collects data by using scraping website or databases, by direct sensing from fields using in field sensors or instrument mounted devices and by remote sensing using satellite and UAVs/ robots. 
+
+**Scraping:** Scraping is an efficient way of acquiring data. It entails downloading directly from websites and databases such as the FAO Global Food & Ag Data website. APIs are very easy for obtaining data since they employ techniques such as SQL queries. "SSURGO" from the NRCS, USGS offers an API for obtaining soil data from all across the United States. There are libraries that can download essential data from distant databases and websites to be used with scripts. Beautiful Soup is an example of a Python library that does this functionality. Some websites provide direct access to CSV/JSON files. This possibility is provided by the NOAA database. Another method for obtaining data is to use a Unix command line program such as WGET or CURL to download big amounts of data from websites.
+
+**Sensing:** Data is sensed by the machine using sensors placed on the field or mounted on an equipment. This process involves uses of Microcontrollers like (Arduino, Raspberry Pi etc). The most promising methos of data acquisition using data sensing is the IoT system that leads to an automated flow of data from field to database. Data acquisition using Microcontrollers can also be done by string in an SD card and extracting data from that. The paper titled “ Gateway-node wireless data collection system for environmental sensing” shows the full process of data acquisition using microcontrollers and IoT. The authors mentioned a programmed Arduino operated for gathering data from field, storing it into a SD card and timely uploading the data to a database. An example of using IoT and Microcontrollers is the ISOBLUE and LoRa gateway. 
+
+**Remote sensing:** It’s a secondary data acquisition process. The data gathered in this method are not always direct inputs, in many cases, they are derived data from physical/analog signals. This method involves satellite data and UAV generated data. 
+
+### Paper: Challenges in IoT:
+
+The Article titled ‘ Growing Plants, Raising Animals, and Feeding Communities through Connected Agriculture: An IoT Challenge’ discussed the use of IoT to manage three different types of farms. The data acquisition method is automated and all the three farms uses the data for decision support and better management. The authors mentioned ‘agricultural connectedness’ and its five components that was seen from that three farms. They also discussed the clallange to establish IoT in farming to be the financial barrier and the infrastructure constraint of using internet. The article also proposes some design opportunities for successful establishment of IoT in agriculture.
 
 ## Summary of Key Takeways from the Materials
 
+**Paper records are being replaced by digital techniques:** As paper records are not user friendly in terms of analysis and interoperability, they are being replaced by digital spreadsheets and databases.
 
+**Spreadsheets are easy but hybrid forms are more convenient:** Spreadsheets and forms, in the form of interactive and automated are easy to operate, but hybrid systems as adds the flavor of using databases, are more convenient and user friendly.
 
+**Digital records allow interoperability:** Digital files and records can be shared or operated from remote and can be accessible by others involved in that work. Also, they offer analysis opportunities and decision insights.
+Scraping is hard but effective technique, allows more interactive data acquisition applications: Data that are collected by others and stored in a remote database or website, can be accessible by scraping. This involves scripting, sql queries or other add-ons but they are effective to get such kind of data.
+
+**Involvement of smartphone is a big leap:** Smartphones made the data acquisition process easier as there are opportunities of using forms or apps.
+Automated farms are not the reality: The three farms mentioned in the paper of Buckmaster and Ankita has proven that automated farms are not dreams but reality. The farms are monitored and managed using IoT and data driven decision support tools.
 
 ## Discussion Questions
 
+Is getting data by scrapping a valid and reliable method always? 
+	-is there any concern of data availability?
+	- is there any concern of data accessibility?
+
+Are there any Constraints of using spreadsheet and forms?
+
+Any data security or Data Sovereignty issue in using any tool?
+		- Farm owner using a 3rd Party tool may lose his ownership 		   	  or control over data.
 
 
 ## Further Resources
 
+# Data aquisition tool : ISOBlue
+Layton, A.W., Balmos, A.D., Sabpisal, S., Ault, A., Krogmeier, J.V. and Buckmaster, D., 2014. ISOBlue: An open source project to bring agricultural machinery data into the cloud. In 2014 Montreal, Quebec Canada July 13–July 16, 2014 (p. 1). American Society of Agricultural and Biological Engineers. DOI: 10.13031/aim.20141929380
+
+# Mobile data collection app
+McLester, E. and Piel, A.K., 2021. Mobile data collection apps. Conservation Technology, p.177. DOI: 10.1093/oso/9780198850243.003.0009 
+
+# IoT in data gathering
+Morais, R., Mendes, J., Silva, R., Silva, N., Sousa, J.J. and Peres, E., 2021. A versatile, low-power and low-cost IoT device for field data gathering in precision agriculture practices. Agriculture, 11(7), p.619. DOI: https://doi.org/10.3390/agriculture11070619
+
+# Remote sensing in data aquisition
+Tsouros, D.C., Triantafyllou, A., Bibi, S. and Sarigannidis, P.G., 2019, May. Data acquisition and analysis methods in UAV-based applications for Precision Agriculture. In 2019 15th International Conference on Distributed Computing in Sensor Systems (DCOSS) (pp. 377-384). IEEE.DOI: 10.1109/DCOSS.2019.00080 
 
 
 ## Discussion Notes and Feedback
+1. Getting data if difficult using APIs, personal contact such as email can be a good option.
+
+2. Use of available datasets like IRIS for image data is a good fit as an introductory dataset for image analysis and model development
+
+3. Data security is an unsolved question in the design of open agriculture/
+
+4. Decision of which data to be collected and selection of important data for a purpose is related. It is hard to say which data are important without knowing their relevance. So, the data collectors prefer to collect all possible data. 
+
+5. Storage of A huge set of data is a problem. Again, data that are seemed to be statistically unimportant, may be relevant physically. 
+(Will be updated…) 
