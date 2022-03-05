@@ -114,7 +114,7 @@ Machines collects data by using scraping website or databases, by direct sensing
 
 The Article titled ‘ Growing Plants, Raising Animals, and Feeding Communities through Connected Agriculture: An IoT Challenge’ discussed the use of IoT to manage three different types of farms. The data acquisition method is automated and all the three farms uses the data for decision support and better management. The authors mentioned ‘agricultural connectedness’ and its five components that was seen from that three farms. They also discussed the clallange to establish IoT in farming to be the financial barrier and the infrastructure constraint of using internet. The article also proposes some design opportunities for successful establishment of IoT in agriculture.
 
-## Summary of Key Takeways from the Materials
+### Summary of Key Takeways from the Materials
 
 **Paper records are being replaced by digital techniques:** As paper records are not user friendly in terms of analysis and interoperability, they are being replaced by digital spreadsheets and databases.
 
@@ -126,7 +126,7 @@ Scraping is hard but effective technique, allows more interactive data acquisiti
 **Involvement of smartphone is a big leap:** Smartphones made the data acquisition process easier as there are opportunities of using forms or apps.
 Automated farms are not the reality: The three farms mentioned in the paper of Buckmaster and Ankita has proven that automated farms are not dreams but reality. The farms are monitored and managed using IoT and data driven decision support tools.
 
-## Discussion Questions
+### Discussion Questions
 
 Is getting data by scrapping a valid and reliable method always? 
 	-is there any concern of data availability?
@@ -137,30 +137,52 @@ Are there any Constraints of using spreadsheet and forms?
 Any data security or Data Sovereignty issue in using any tool?
 		- Farm owner using a 3rd Party tool may lose his ownership 		   	  or control over data.
 
+What rules does the funding agencies imposes on data collected for any grant that they provide?
 
-## Further Resources
+How to ensure the quality of remotely sensed data? How you get to know if the data is a good data?
 
-# Data aquisition tool : ISOBlue
+
+
+### Further Resources
+
+**Data aquisition tool : ISOBlue**
 Layton, A.W., Balmos, A.D., Sabpisal, S., Ault, A., Krogmeier, J.V. and Buckmaster, D., 2014. ISOBlue: An open source project to bring agricultural machinery data into the cloud. In 2014 Montreal, Quebec Canada July 13–July 16, 2014 (p. 1). American Society of Agricultural and Biological Engineers. DOI: 10.13031/aim.20141929380
 
-# Mobile data collection app
+**Mobile data collection app**
 McLester, E. and Piel, A.K., 2021. Mobile data collection apps. Conservation Technology, p.177. DOI: 10.1093/oso/9780198850243.003.0009 
 
-# IoT in data gathering
+**IoT in data gathering**
 Morais, R., Mendes, J., Silva, R., Silva, N., Sousa, J.J. and Peres, E., 2021. A versatile, low-power and low-cost IoT device for field data gathering in precision agriculture practices. Agriculture, 11(7), p.619. DOI: https://doi.org/10.3390/agriculture11070619
 
-# Remote sensing in data aquisition
+**Remote sensing in data aquisition**
 Tsouros, D.C., Triantafyllou, A., Bibi, S. and Sarigannidis, P.G., 2019, May. Data acquisition and analysis methods in UAV-based applications for Precision Agriculture. In 2019 15th International Conference on Distributed Computing in Sensor Systems (DCOSS) (pp. 377-384). IEEE.DOI: 10.1109/DCOSS.2019.00080 
 
 
-## Discussion Notes and Feedback
+### Discussion Notes and Feedback
+
+**In-class discussion topics**
+
 1. Getting data if difficult using APIs, personal contact such as email can be a good option.
 
 2. Use of available datasets like IRIS for image data is a good fit as an introductory dataset for image analysis and model development
 
-3. Data security is an unsolved question in the design of open agriculture/
+3. Data security is an unsolved question in the design of open agriculture.
 
 4. Decision of which data to be collected and selection of important data for a purpose is related. It is hard to say which data are important without knowing their relevance. So, the data collectors prefer to collect all possible data. 
 
 5. Storage of A huge set of data is a problem. Again, data that are seemed to be statistically unimportant, may be relevant physically. 
-(Will be updated…) 
+
+6. A common connectedness of all four connecting elements can be seen with human though automatic data aquisition and controlls doesnot have that connectedness directly.
+
+**Discussion on data acquisition in individual's research data**
+
+From the class submission, some points can be mentioned on the data needed in individual research projects. A major callange in data aquisition using sensors was indicated as the installment cost of sensors. Again, using sensors and IoT data aquisition may face tech failure and can affect the quality of data. Scrapping has a challange of missing data and sometimes unsensored or non-validated data. The remote sensing data acquisition may face a difficulty in providing valid ground truth sattellite images. There are possibilities to get manipulated or reconstructed images though they are scientifically usable. Using hybrid spreadsheet or forms are also questionable for data security and privecy.
+
+**Questions to think further**
+
+1. What is the role of HCI in IOT in agriculture?
+2. What are the adverse effects of IOT in agriculture to the environment and human?
+3. Is the application of IOT in agriculture on farms worth the investment since its costly and there is always a constant technological change?
+4. Should data logging methods be part of an educational standard?
+5. For those who work with sensor data, does knowing how the sensor works give a greater understanding to the data coming from it?
+6. Although local food production is seeing a resurgence under pandemic conditions, what are some of the major challenges in terms of connecting to people during this climate.
