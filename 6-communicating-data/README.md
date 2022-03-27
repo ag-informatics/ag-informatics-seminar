@@ -7,7 +7,7 @@ So, this week, I want you to take some time to think about how you can communica
 1. Watch this very short (~8min) video that introduces concepts of data visualization: https://www.youtube.com/watch?v=AdSZJzb-aX8
 
 2. Watch this in-depth webinar (~1hour) on "Introduction to Data Visualization"
-https://www.youtube.com/watch?v=Bq-b2yc0Tig. 
+https://youtu.be/Bq-b2yc0Tig
 
 
 3. Read this brief style guide + case study on data visualizations in the domain of climate change communication: https://apo.org.au/sites/default/files/resource-files/2021-04/apo-nid314650.pdf I share this as an example of how you might operationalize some of the things you learn about data visualization through the materials of this week. It looks longer than it is, pages 3-13 contain the core content, and it's very nicely laid out so don't anticipate densely packed text :)
