@@ -4,7 +4,7 @@ Given that each of you are engaged in research, you are likely going to need to 
 
 So, this week, I want you to take some time to think about how you can communicate data **your research + data** to different audiences through data visualizations. Even if you haven't started data collection, all of you have at least topical areas that you are interested in, so consider, at minimum, the types of data you might need to visualize in your work.
 
-1. Watch this very short (~8min) video that introduces concepts of data visualization: https://www.youtube.com/watch?v=AdSZJzb-aX8&t=70s
+1. Watch this very short (~8min) video that introduces concepts of data visualization: https://www.youtube.com/watch?v=AdSZJzb-aX8
 
 2. Watch this in-depth webinar (~1hour) on "Introduction to Data Visualization"
 https://www.youtube.com/watch?v=Bq-b2yc0Tig. 
