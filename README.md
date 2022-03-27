@@ -47,13 +47,13 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 6 | Workshop | | Sami & Akhere | Submit feedback for 2 presenters.
 7 |  Discussion | [Data Acquisition](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/5-data-acquisition) | Sami |All: submit your topic analysis. Moderator, submit your topic brief.  Presenters for next week: Send out your packages by Friday.
 8 | Workshop | | Steve & Jillian | Submit feedback for 2 presenters.
-9 |  Discussion | From ML to AI (incl. vision and automation) | Harsh | All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday.
+9 |  No Class | | 
 10 | SPRING BREAK
 11 |  Workshop | | Adam & Hannah | Submit feedback for 2 presenters.
-12 | Discussion | Communicating Data (incl. data visualization and user interfaces) | Akhere |  All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday. 
+12 | Discussion | Communicating Data | Akhere |  All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday. 
 13 |  Workshop | | Glen & Harsh | Submit feedback for 2 presenters.
-14 | Discussion | User Perspectives & Challenges (incl. privacy, open source, ethics) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
-15 |  Discussion | Decision Support & Beyond (novel tools & ag tech design spaces) | Steve | All: submit your topic analysis. Moderator, submit your topic brief. 
+14 | Discussion | User Perspectives & Challenges (incl. privacy, open source) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
+15 |  Discussion | Decision Support & Beyond. ML to AI | Steve, Harsh | All: submit your topic analysis. Moderator, submit your topic brief. 
 16 | Presentations | Final Presentations | Submit your final report | Ankita
 
 ## Course Assessments
@@ -61,7 +61,7 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 Assessment | Due Dates | Weight
 -----|-----|-----
 Project Contract | Monday @ 5pm, Week 4 | -5% penalty on final project for no submission
-Topic Analysis | Mondays @ 5pm, Due every Discussion Week | 25% total (8 submissions)
+Topic Analysis | Fridays @ 5pm, Due every Discussion Week | 25% total (8 submissions)
 Software Overview | Friday @ 5pm, Week 3 | 5% (one off)
 Topic Brief | Monday @ 5pm, Due the **Monday after** your assigned Discussion Week | 15%
 Project Work-in-progress Update | Monday @ 5pm, Due the **Monday before** your assigned Workshop Week | 10%
