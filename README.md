@@ -52,7 +52,7 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 11 |  Workshop | | Adam & Hannah | Submit feedback for 2 presenters.
 12 | Discussion | [Communicating Data](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/6-communicating-data) | Akhere |  All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday. 
 13 |  Workshop | | Glen & Harsh | Submit feedback for 2 presenters.
-14 | Discussion | User Perspectives & Challenges (incl. privacy, open source) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
+14 | Discussion | [User Perspectives & Challenges (incl. privacy, open source)](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-user-perspectives) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
 15 |  Discussion | Decision Support & Beyond. ML to AI | Steve, Harsh | All: submit your topic analysis. Moderator, submit your topic brief. 
 16 | Presentations | Final Presentations | Submit your final report | Ankita
 
