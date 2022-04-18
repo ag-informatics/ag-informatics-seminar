@@ -79,4 +79,17 @@ You will provide feedback for each of your peers. I will share these with the pr
 **Upload your materials in Brightspace the Friday after our class @ 5pm.**
 
 # 6. Project Final Submission
-If you chose to build something this semester, I'll ask for a short report to accompany it overviewing your work. If you chose to write a paper, you can just submit the paper itself.
+First, your final submission:
+	- If you wrote code, a brief report (<2 pages) outlining what you accomplished (see slides outline below). If you wrote any code, have updated mockups, or have a demo, you can submit that too.
+	- If you wrote a paper, a brief (<2 pages) outlining what you accomplished (see slides outline below). Submit the current state of your draft, if applicable.
+
+Next, your presentation: you will give a 10 minute presentation in class on Wed April 27. Your slides should cover:
+	1. Project overview
+	2. What you had originally proposed (review project contract)
+	3. What you did this semester (outline your major accomplishments)
+	4. Challenges and, where applicable, how you overcame the challenges OR what you need to move forward
+	5. What comes next
+
+You will be graded on the content of your 2 page report + presentation, not on the quality of your final project/paper since those are larger parts of your research :)
+
+
