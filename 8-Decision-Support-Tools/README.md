@@ -1,7 +1,8 @@
 # Decision Support Tools
-"Decision Support Tools are interactive software tools used by decision-makers to help answer questions, solve problems, and support or refute conclusions."
 
--- U.S. EPA, "Decision Support Tools - Development of a Screening Matrix for 20 Specific Software Tools". [Source Here](https://frtr.gov/decisionsupport/PDF/DST%20Matrix%20Report.pdf) 
+> "Decision Support Tools are interactive software tools used by decision-makers to help answer questions, solve problems, and support or refute conclusions."
+
+Source: [U.S. EPA, "Decision Support Tools - Development of a Screening Matrix for 20 Specific Software Tools"](https://frtr.gov/decisionsupport/PDF/DST%20Matrix%20Report.pdf) 
 
 Two quick reads on decision support tools:
 
