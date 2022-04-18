@@ -55,7 +55,7 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 14 | Discussion | [User Perspectives & Challenges (incl. privacy, open source)](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-user-perspectives) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
 15 |  Discussion | [Decision Support & Beyond](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-Decision-Support-Tools) | Steve | All: submit your topic analysis for these two topics combined.
 | |  | [ML to AI](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/9-ML-to-AI) | Harsh | Moderators, submit your topic brief. 
-16 | Presentations | Final Presentations | Submit your final report | Ankita
+16 | Presentations | [Final Presentations](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/assignments#6-project-final-submission) | Submit your final report + slides | Ankita
 
 ## Course Assessments
 
