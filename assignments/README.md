@@ -80,8 +80,8 @@ You will provide feedback for each of your peers. I will share these with the pr
 
 # 6. Project Final Submission
 First, your final submission:
-	- If you wrote code, a brief report (<2 pages) outlining what you accomplished (see slides outline below). If you wrote any code, have updated mockups, or have a demo, you can submit that too.
-	- If you wrote a paper, a brief (<2 pages) outlining what you accomplished (see slides outline below). Submit the current state of your draft, if applicable.
+ - If you wrote code, a brief report (<2 pages) outlining what you accomplished (see slides outline below). If you wrote any code, have updated mockups, or have a demo, you can submit that too.
+ - If you wrote a paper, a brief (<2 pages) outlining what you accomplished (see slides outline below). Submit the current state of your draft, if applicable.
 
 Next, your presentation: you will give a 10 minute presentation in class on Wed April 27. Your slides should cover:
 1. Project overview
