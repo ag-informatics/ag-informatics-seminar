@@ -84,11 +84,11 @@ First, your final submission:
 	- If you wrote a paper, a brief (<2 pages) outlining what you accomplished (see slides outline below). Submit the current state of your draft, if applicable.
 
 Next, your presentation: you will give a 10 minute presentation in class on Wed April 27. Your slides should cover:
-	1. Project overview
-	2. What you had originally proposed (review project contract)
-	3. What you did this semester (outline your major accomplishments)
-	4. Challenges and, where applicable, how you overcame the challenges OR what you need to move forward
-	5. What comes next
+1. Project overview
+2. What you had originally proposed (review project contract)
+3. What you did this semester (outline your major accomplishments)
+4. Challenges and, where applicable, how you overcame the challenges OR what you need to move forward
+5. What comes next
 
 You will be graded on the content of your 2 page report + presentation, not on the quality of your final project/paper since those are larger parts of your research :)
 
