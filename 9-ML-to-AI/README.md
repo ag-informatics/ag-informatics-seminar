@@ -10,7 +10,19 @@ I'd like to supplement this with two things:
 
 # SUBMISSION
 
+Your topic analysis this week is in two parts (2 pages max). The first half is related to this topic DSTs, the second, related to the ML to AI topic. You'll see this exact same text in both topics.
 
+I want you to think about your own research in two ways, first, with respect to short term decision support, and second, with respect to longer term ML/AI applications.
+
+1. Empowering users to make decisions: We've read a couple of papers that focus on the human-centered design of decision support tools. In the context of your work:
+	- What are 3 knowledge-intensive decisions faced by people in your work?
+	- What types of decision support tools, if any, are people already using?
+	- What decision support tools do you think might be *actually useful* to the stakeholders of your work?
+
+2. Imagining the future of ag tech: We watched a fairly techno-optimistic vision of the potential of machine learning in our current society. In the context of your work:
+	- What is ONE challenge that may be solved/supported through ML solutions? Who are the main beneficiaries of this work? Are there any potential inequalities ML may create?
+	- What are some of the challenges you may face in developing ML in your work?
+	- How might you define "real" Artificial Intelligence in your work, or a "General Purpose" AI?
 
 # Moderator's Discussion Brief
 Author: 
