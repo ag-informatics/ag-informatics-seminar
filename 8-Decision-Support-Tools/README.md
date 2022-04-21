@@ -77,3 +77,6 @@ Successful DSSs will have clearly defined purposes and user groups around which 
 
 
 ## Discussion Notes and Feedback
+1. Will AI/DST replace jobs? Particularly extension? - Perhaps, but it will also create jobs.
+2. Will AI/DST result in a loss of institutional knowledge among farmers? - It may, but farmers might not use a tool that tells them something they already know. It could be new farmers and the next generation of farmers who experience a loss of institutional knowledge.
+3. Pretty much anything that gives you information can be a DST, from baby trackers to greenhouse monitoring to the bus tracker app.
