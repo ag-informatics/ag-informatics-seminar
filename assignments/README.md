@@ -9,7 +9,14 @@
 
 4. What do you anticipate sharing during your Project work-in-progress Update? We can discuss what's appropriate, but suggest something to begin with!
 
+<<<<<<< HEAD
 5. **Upload this document to Brightspace before you meet with me so that we have a document to discuss.** You can revise it after our meeting, I just want to have some idea of what you're thinking before we chat. This is not graded separately, but if you do not submit something, you will lose 5% of your final project grade.
+=======
+5. **Upload this document to Brightspace by Week 4, Monday @ 5pm.**. The sooner you submit, the better availability I will have to meet with you. This is not graded separately, but if you do not submit something, you will lose 5% of your final project grade.
+
+**Schedule a meeting with the Instructor, Ankita, so that we can agree that this is an appropriate amount of work.** Make sure you have submitted your project contract online at least 1 day before we meet. You will work on your project independently over the course of the semester. I will be available to provide feedback, guidance, and general support. You will have an opportunity for peer feedback during your Workshop Presentation. **Use this link: [https://calendly.com/sudokita/project-contract-meeting](https://calendly.com/sudokita/project-contract-meeting)**
+
+>>>>>>> 603149466ca2d5eeb347146d403f5f8e40f5f301
 
 **Schedule a meeting with the Instructor, Ankita, so that we can agree that this is an appropriate amount of work.** You will work on your project independently over the course of the semester. I will be available to provide feedback, guidance, and general support. You will have an opportunity for peer feedback during your Workshop Presentation.
 

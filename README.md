@@ -50,12 +50,22 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 8 | Workshop + Discussion  | Data Analysis | TBD | Submit feedback for presenter.
 9 | Discussion Overflow Week  | TBD | TBD | TBD
 10 | SPRING BREAK
+<<<<<<< HEAD
 11 |  Discussion | Data Structures | | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your packages by Friday.
 12 |  Workshop + Discussion  | Data Visualization | TBD | Submit feedback for presenter.
 13 | Discussion | Geospatial Thinking | |  All: submit your topic analysis. Moderator, submit your topic brief. Presenter for next week: Send out your packages by Friday. 
 14 |  Workshop + Discussion  | Modeling Systems | TBD | Submit feedback for presenter
 15 | Discussion | ML to AI |  | All: submit your topic analysis. Moderator, submit your topic brief.  
 16 | Presentations | TBD | Submit your final report | Ankita
+=======
+11 |  Workshop | | Adam & Hannah | Submit feedback for 2 presenters.
+12 | Discussion | [Communicating Data](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/6-communicating-data) | Akhere |  All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday. 
+13 |  Workshop | | Glen & Harsh | Submit feedback for 2 presenters.
+14 | Discussion | [User Perspectives & Challenges (incl. privacy, open source)](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-user-perspectives) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
+15 |  Discussion | [Decision Support & Beyond](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-Decision-Support-Tools) | Steve | All: submit your topic analysis for these two topics combined.
+| |  | [ML to AI](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/9-ML-to-AI) | Harsh | Moderators, submit your topic brief. 
+16 | Presentations | [Final Presentations](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/assignments#6-project-final-submission) | Submit your final report + slides | Ankita
+>>>>>>> 603149466ca2d5eeb347146d403f5f8e40f5f301
 
 ## Course Assessments
 
