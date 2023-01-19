@@ -4,7 +4,7 @@ Come to class prepared to show us a piece of software that you think of as an ex
 
 You will share your screen (or if it's a mobile app you're welcome to just take screenshots for us and stick them in miro/slides), and show us a 2 minute demo of how it's used. 
 
-Instead of a topic analysis, this week, I ask you to provide **1 page** overview of the tool. You will submit this on Brightspace. Here's the questions I want you to answer:
+This week, please each person should create provide **1-2 page** overview of the tool. You will submit this on Brightspace. Here's the questions I want you to answer:
 
 	1) About the Tool: What does it do? When was it built? Who built it and why? 
 
@@ -25,5 +25,4 @@ Instead of a topic analysis, this week, I ask you to provide **1 page** overview
 	9) How would you make it better?
 
 # Summary of Class Software Show & Tell
-
-Ankita to fill out after class.
+Note taker: [name]

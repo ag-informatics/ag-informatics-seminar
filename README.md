@@ -33,48 +33,49 @@ By the end of this course, you will be able to:
 # Course Structure & Schedule
 We will switch between two types of lectures, the "Discussion Format" and the "Workshop Format":
 
-**Discussion Format:** I will assign a selection of readings, videos, and other materials for the week. Each student is expected to review them and create a "Topic Analysis" submission that summarizes their notes. One student will be assigned to be the "Moderator" for each discussion - this person will lead the group in discussion, bringing critical questions and notes, supplemental materials as relevant, and will write the "Topic Brief" as a post-discussion activity. Each person is expected to be a moderator once during the semester.
+**Discussion Format:** I will assign a selection of readings, videos, and other materials for the week. One student will be assigned to be the "Moderator" for each discussion - this person will lead the group in discussion, bringing critical questions and notes, supplemental materials as relevant, and will write the "Topic Brief" as a post-discussion activity. Each person is expected to be a moderator once during the semester. Everybody else is expected to engage with the materials in a manner that is productive for you, e.g.: write a summary analysis of topics, replicate the code in a paper, try out a method on the topic. At minimum, I expect a "topic analysis" as described in the assignments page, but this is a choose your own adventure course, so we can discuss other options each week.
 
 **Workshop Format:** Each student is expected to conduct a research or development project over the course of the semester. Each student is expected to share their work once during the semester, sending the class a draft paper, prototoype or other materials that you would like feedback on. Each student will be expected to provide "Peer Feedback" for everyone's projects.
 
+**Proposed Schedule/Topics:** This section will be updated as we assign moderators and adjust topics. 
+
 Week| Format | Topic | Moderator/Presenter | What's happening?
 -----|-----|----- |----- |----- 
-1 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor in the first 2 weeks to discuss your project. 
-2 | Discussion | [Digital Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Adam | All: submit your topic analysis. Moderator, submit your topic brief. Meet w/Ankita re: Project.
-3 | Discussion | [Software Show & Tell](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-software-show-tell) | Ankita | Submit your Software Overview.
-4 | Discussion | [Software Engineering 101](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-software-engineering) | Hannah |  All: submit your topic analysis. Moderator, submit your topic brief. Submit your project contract. 
-5 | Discussion | [HCI x Agriculture](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/4-hci-food-agriculture) | Jillian | All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday.
-6 | Workshop | | Sami & Akhere | Submit feedback for 2 presenters.
-7 |  Discussion | [Data Acquisition](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/5-data-acquisition) | Sami |All: submit your topic analysis. Moderator, submit your topic brief.  Presenters for next week: Send out your packages by Friday.
-8 | Workshop | | Steve & Jillian | Submit feedback for 2 presenters.
-9 |  No Class | | 
+1 & 2 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
+3 | Discussion | [Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | All: submit your topic analysis. Moderator, submit your topic brief. Meet w/Ankita re: Project. 
+4 | Discussion | Research Methods |  | All: submit your topic analysis. Moderator, submit your topic brief. Submit your project contract. 
+5 | Discussion | Coding Methods |  | All: submit your topic analysis. Moderator, submit your topic brief. Presenter for next week: Send out your packages by Friday.
+6 | Workshop + Discussion | Data Acquisition | TBD Workshop Presenter | Submit feedback for presenter.
+7 |  Discussion | Data Processing | | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your packages by Friday.
+8 | Workshop + Discussion  | Data Analysis | TBD | Submit feedback for presenter.
+9 | Discussion Overflow Week  | TBD | TBD | TBD
 10 | SPRING BREAK
-11 |  Workshop | | Adam & Hannah | Submit feedback for 2 presenters.
-12 | Discussion | [Communicating Data](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/6-communicating-data) | Akhere |  All: submit your topic analysis. Moderator, submit your topic brief. Presenters for next week: Send out your packages by Friday. 
-13 |  Workshop | | Glen & Harsh | Submit feedback for 2 presenters.
-14 | Discussion | [User Perspectives & Challenges (incl. privacy, open source)](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-user-perspectives) | Glen | All: submit your topic analysis. Moderator, submit your topic brief. 
-15 |  Discussion | [Decision Support & Beyond](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-Decision-Support-Tools) | Steve | All: submit your topic analysis for these two topics combined.
-| |  | [ML to AI](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/9-ML-to-AI) | Harsh | Moderators, submit your topic brief. 
-16 | Presentations | Final Presentations | Submit your final report | Ankita
+11 |  Discussion | Data Structures | | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your packages by Friday.
+12 |  Workshop + Discussion  | Data Visualization | TBD | Submit feedback for presenter.
+13 | Discussion | Geospatial Thinking | |  All: submit your topic analysis. Moderator, submit your topic brief. Presenter for next week: Send out your packages by Friday. 
+14 |  Workshop + Discussion  | Modeling Systems | TBD | Submit feedback for presenter
+15 | Discussion | ML to AI |  | All: submit your topic analysis. Moderator, submit your topic brief.  
+16 | Presentations | TBD | Submit your final report | Ankita
 
 ## Course Assessments
 
+Please note: If I make any errors keeping this up to date, follow the dates on Brightspace. Thank you!
+
 Assessment | Due Dates | Weight
 -----|-----|-----
-Project Contract | Monday @ 5pm, Week 4 | -5% penalty on final project for no submission
-Topic Analysis | Fridays @ 5pm, Due every Discussion Week | 25% total (8 submissions)
-Software Overview | Friday @ 5pm, Week 3 | 5% (one off)
-Topic Brief | Monday @ 5pm, Due the **Monday after** your assigned Discussion Week | 15%
-Project Work-in-progress Update | Monday @ 5pm, Due the **Monday before** your assigned Workshop Week | 10%
-Project Peer Feedback | Fridays @ 5pm, Due every Workshop Week | 20% total (8 peer feedbacks)
-Project Final Report & Presentation | Monday @ 5pm, Presentation in class, Week 16 | 25%
+Project Contract | Monday @ 11.59pm, Week 4 | -5% penalty on final project for no submission
+Topic Analysis | Tuesday @ 11.59pm, Due the night before class | 30% total (even split among topics)
+Moderator Topic Brief | Tuesday @ 11.59pm, Due the **Tuesday after** your assigned Discussion Week | 15%
+Project Work-in-progress Update | Monday @ 11.59pm, Due the **Monday before** your assigned Workshop Week | 10%
+Project Peer Feedback | Fridays @ 11.59pm, Due every Workshop Week after the presentation |20% total (even split among # students)
+Project Final Report | Week 16 Friday @ 11.59pm, Presentation in class, TBD | 25%
 
 *The final weights will change based on total enrollment in the course.
 
 **Late Policy:** You can have three "late days" where you submit work one business day late with no questions asked.  After that, you will be penalised 5% per day late. *The moment you have any issues, please contact me, and we can discuss options.*
 
 # Course Communications
-**Lectures:** online or BCHM102. Wednesdays @ 3.30-5.20pm.
+**Lectures:** ABE 1164. Wednesdays @ 1.30-3.20pm.
 
 **Course Materials:** This github repository will contain links to all slides, readings. They will be released on a weekly basis.
 
