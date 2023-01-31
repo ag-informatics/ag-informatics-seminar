@@ -45,7 +45,7 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 -----|-----|----- |----- |----- 
 1 & 2 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
 3 | Discussion | [Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | All: submit your topic analysis. Moderator, submit your topic brief. Meet w/Ankita re: Project. 
-4 | Discussion | Research Methods | Cheyenne | All: submit your topic analysis. Moderator, submit your topic brief. Submit your project contract. 
+4 | Discussion | [Research Methods](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-research-methods) | Ankita | All: submit your topic analysis. Moderator, submit your topic brief. Submit your project contract. 
 5 | Discussion | Coding Methods | Gaby | All: submit your topic analysis. Moderator, submit your topic brief. Presenter for next week: Send out your materials for others to review.
 6 | Workshop + Discussion | Data Acquisition | Kanru. + TBD Workshop Presenter | All: submit your topic analysis. Moderator, submit your topic brief.  Submit feedback for presenter.
 7 |  Discussion | Data Processing | Megan | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your materials for others to review.
