@@ -6,7 +6,7 @@ This document is written assuming that you are doing research in the domain of a
 
 This week, we will review a few resources in class together. Over the course of the class, we will pause to make notes on your specific research context. By the end of the class, you should have enough of an outline to submit a document containing the following headings:
 
-Everyone: ** "Situating your work".**  Based on the discussion related to Part 1: The Research Lifecycle, determine where in the research project planning phase you are at. In particular, review the section "Defining a Topic". In less than 1 paragraph, describe how you decided and/or are currently deciding what to study? What is your personal motivation for conducting research?
+Everyone: **"Situating your work".**  Based on the discussion related to Part 1: The Research Lifecycle, determine where in the research project planning phase you are at. In particular, review the section "Defining a Topic". In less than 1 paragraph, describe how you decided and/or are currently deciding what to study? What is your personal motivation for conducting research?
 
 
 Option 1: **"Literature Review".** If you are conducting a literature review this semester, you will need to submit your 1 page action plan (as we create together in class). 
