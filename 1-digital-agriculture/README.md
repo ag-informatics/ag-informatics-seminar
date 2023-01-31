@@ -40,8 +40,6 @@ Come to class prepared to show us a piece of software that you think of as an ex
 
 You will share your screen (or if it's a mobile app you're welcome to just take screenshots for us and stick them in miro/slides), and show us a 2 minute demo of how it's used. 
 
-A functional analysis 
-
 This week, please each person should create provide **1 page** overview of the tool. You will submit this on Brightspace. Here's the questions I want you to answer:
 
 	1) About the Tool: What does it do? When was it built? Who built it and why? 
@@ -67,4 +65,4 @@ This week, please each person should create provide **1 page** overview of the t
 Everyone should submit a 2 page document on Brightspace containing a) responses to the questions regarding the readings in part 1, and b) reposnses to the questions regarding your chosen software in part 2. 
 
 # Summary of Class Software Show & Tell
-Note taker: [name]
+Notes in our shared google drive folder.
