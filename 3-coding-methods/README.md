@@ -1,6 +1,7 @@
 # Coding Methods 101
 
-This document is written assuming that you already know how to write code in some programming language, but you are interested in (1) learning best practices re: how to structure and present your own code, and (2) learning how to understand other people's code!
+This document is written assuming that you already know how to write code in some programming language, but you are interested in (1) learning best practices re: how to structure and present your own code, and (2) learning how to understand other people's code! Please note, if you'd like the software engineering materials for your own interest, they are in the [topic archive here](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/topic%20archive/2022-software-engineering)
+
 
 ## Topic Submission
 
