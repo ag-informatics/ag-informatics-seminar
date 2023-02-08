@@ -62,7 +62,8 @@ So, let's say I'm reading a short snippet of code, e.g., a single function. Let'
 
 
 ### Making Diagrams
-A brief introduction to UML and loose-UML.
+A brief introduction to UML: https://developer.ibm.com/articles/an-introduction-to-uml/
+and loose-UML.
 
 1. High-Level Diagrams: box and arrow, class diagrams, ERDs, package diagrams
 
