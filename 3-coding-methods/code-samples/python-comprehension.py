@@ -1,5 +1,5 @@
-## Code Source: https://github.com/DickBrus/TutorialSampling4DSM
-## Class Contributor: 
+## Code Source: https://greenteapress.com/thinkpython2/html/thinkpython2010.html
+## Class Contributor: Megan
 
 ## For is_abecedarian we have to compare adjacent letters, which is a little tricky with a for loop:
 
