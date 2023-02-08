@@ -75,6 +75,7 @@ A brief introduction to UML and loose-UML.
 Good for understanding how a small piece of code works.
 
 > "Find one thing you know the code does, and trace those actions backwards"
+
 Alex Coleman, How to quickly and effectively read other people’s code: https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/
 
 ### 2. Read-Search-Try
