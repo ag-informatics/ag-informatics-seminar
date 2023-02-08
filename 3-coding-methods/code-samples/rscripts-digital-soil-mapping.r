@@ -1,4 +1,4 @@
-## Code Source: 
+## Code Source: https://github.com/DickBrus/TutorialSampling4DSM
 ## Class Contributor: Kanru
 
 # NOTE THAT, CONTRARY TO WHAT IS STATED IN THE GEODERMA PAPER, SUPPLEMENTING 

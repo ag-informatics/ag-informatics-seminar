@@ -29,7 +29,7 @@ encoded_Y = encoder.transform(Y)
 # baseline model
 def create_baseline():
 	# create model
-	model = Sequential()
+	model = Sequential() # model is the variable that will my Sequential keras model
 	model.add(Dense(60, input_shape=(60,), activation='relu'))
 	model.add(Dense(1, activation='sigmoid'))
 	# Compile model
