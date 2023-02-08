@@ -60,7 +60,7 @@ So, let's say I'm reading a short snippet of code, e.g., a single function. Let'
 3. **Make a Flowchart:** If the code is more complex and contains control structures like loops and decisions, you may even want to draw out a little flowchart.  I've been enjoying using [Mermaid](https://mermaid.js.org/syntax/flowchart.html) to create simple diagrams in readme docs like this one! The graph above is in mermaid-markdown.
 
 
-### Making Diagram
+### Making Diagrams
 A brief introduction to UML and loose-UML.
 
 1. High-Level Diagrams: box and arrow, class diagrams, ERDs, package diagrams
