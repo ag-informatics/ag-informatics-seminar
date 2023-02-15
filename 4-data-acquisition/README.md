@@ -82,28 +82,38 @@ Instead of a topic analysis, this week, I ask you to provide **1 page** overview
 
 
 # Moderator's Discussion Brief
-Author: [name]
-GitHub: [username]
+Author: [Kanru Chen]
+GitHub: [fenerrrrr]
 
 # Overview of the topic
+In today's class we will disscuss the data sources and data acquisition.
 
-*insert 1-2 paragraphs here*
+IoT for agriculture has a lot of potential to improve the sustainability of food systems. It's great to hear that researchers are focusing on community-oriented design and domain-specific modeling to make this a reality. It's also important to consider data rights of farmers and the ethical implications of monitoring and control when designing these technologies.
 
 # Short Synopsis of Readings
+The Ankita’s article discusses the potential of the Internet of Things (IoT) in agriculture, exploring three design fiction scenarios and five categories of connectedness in agriculture. It argues that collecting data is not enough and suggests target areas for the design of ubiquitous digital technologies for agriculture. It also introduces four communities of practice on IoT for agriculture. Figures 2 and 4 provide an overview of how sensors and actuators can be used to make strategic and tactical decisions in a field, as well as the different levels at which plants can be sensed.
 
-*For each cluster of resources provided, create a <1 paragraph summary.]*
+Data acquisition methods, tools, and research applications are discussed in this cluster. Freeform observations are often collected in an unstructured manner, while spreadsheets are commonly used for data collection. Forms and APIs are used for more structured data input. In-field data can be acquired by equipment mounted sensing systems, such as gateway-node wireless data collection systems and UAVs. 
 
 # Summary of Key Takeaways from the Materials
-
-*4-5 key takeways, a few sentences to one paragraph each*
+The key takeaways from the reading are that IoT for agriculture has the potential to improve the sustainability of food systems and enable data-driven regenerative agriculture. However, there are two main hardware limitations to current efforts in IoT for agriculture: power limitations and Internet connectivity in rural spaces. Designers have the opportunity to create solutions to these issues and to design for sustainability. Additionally, the design of technologies for a more sustainable food system requires human-centered, community-oriented, and environmentally sensitive approaches to research and development. Data rights of farmers must be considered while offering consumers and other farm stakeholders appropriate insights into the provenance of food.
 
 # Discussion Questions
+What are some of the challenges associated with harmonizing sensor data in agricultural IoT systems? 
 
-*>4-5 questions*
+How can open-source development be used to create a functioning and interoperable middle layer between the raw sensor data and insight to users? 
+
+How do you store and transfer these data?
+
 
 # Further Resources
+OpenStreetMap API http://api.openstreetmap.org/
 
-*>2-3 resources you'd like to share*
+USGS earthexplorer https://earthexplorer.usgs.gov/
+
+Planet https://www.planet.com/
+
+Cropscape https://nassgeodata.gmu.edu/CropScape/
 
 # Discussion Notes and Feedback
 Note taker: [name]
