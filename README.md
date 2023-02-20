@@ -49,7 +49,7 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 4 | Discussion | [Research Methods](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-research-methods) | Ankita | All: submit your topic analysis. Submit your project contract. 
 5 | Discussion | [Coding Methods](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-coding-methods) | Ankita | All: submit your topic analysis.
 6 | Discussion [1hr Class] | [Data Acquisition](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/4-data-acquisition) | Kanru | All: submit your topic analysis. Moderator, submit your topic brief.
-7 |  Discussion | Data Processing | Megan | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your materials for others to review.
+7 |  Discussion | [Data Processing](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/5-data-processing) | Megan | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your materials for others to review.
 8 | Discussion  | Data Analysis | Cheyenne | Submit feedback for presenter.
 9 | Workshop [1hr Class]  | TBD | TBD | TBD
 10 | SPRING BREAK
