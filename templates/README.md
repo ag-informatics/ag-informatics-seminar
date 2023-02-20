@@ -6,27 +6,27 @@
 Author: [name]
 GitHub: [username]
 
-# Overview of the topic
+## Overview of the topic
 
 *insert 1-2 paragraphs here*
 
-# Short Synopsis of Readings
+## Short Synopsis of Readings
 
 *For each resource provided, create a <1 paragraph summary.]*
 
-# Summary of Key Takeaways from the Materials
+## Summary of Key Takeaways from the Materials
 
 *4-5 key takeways, a few sentences to one paragraph each*
 
-# Discussion Questions
+## Discussion Questions
 
 *>4-5 questions*
 
-# Further Resources
+## Further Resources
 
 *>2-3 resources you'd like to share*
 
-# Discussion Notes and Feedback
+## Discussion Notes and Feedback
 Note taker: [name]
 
 [notes from the class discussion]
