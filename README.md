@@ -49,15 +49,15 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 4 | Discussion | [Research Methods](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-research-methods) | Ankita | All: submit your topic analysis. Submit your project contract. 
 5 | Discussion | [Coding Methods](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-coding-methods) | Ankita | All: submit your topic analysis.
 6 | Discussion [1hr Class] | [Data Acquisition](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/4-data-acquisition) | Kanru | All: submit your topic analysis. Moderator, submit your topic brief.
-7 |  Discussion | [Data Processing](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/5-data-processing) | Megan | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your materials for others to review.
-8 | Discussion  | Data Analysis | Cheyenne | Submit feedback for presenter.
-9 | Workshop [1hr Class]  | TBD | TBD | TBD
+7 |  Discussion | [Data Processing](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/5-data-processing) | Megan | All: submit your topic analysis. Moderator, submit your topic brief.  
+8 | Discussion  | [User Perspectives](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/6-user-perspectives) | Cheyenne | All: submit your topic analysis. Moderator, submit your topic brief.
+9 | Discussion [1hr Class]  | [Communicating Data](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-communicating-data) | Kanru | All: submit your topic analysis. Moderator, submit your topic brief.
 10 | SPRING BREAK
-11 |  Discussion | Data Structures | | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your materials for others to review.
-12 |  Workshop + Discussion  | Data Visualization | TBD | Submit feedback for presenter.
-13 | Discussion | Geospatial Thinking | |  All: submit your topic analysis. Moderator, submit your topic brief. Presenter for next week: Send out your materials for others to review.
-14 |  Workshop [1hr Class]  | Modeling Systems | TBD | Submit feedback for presenter
-15 | Discussion | ML to AI |  | All: submit your topic analysis. Moderator, submit your topic brief.  
+11 |  Workshop + Discussion | Data Structures | TBD | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your materials for others to review.
+12 |  Workshop + Discussion  | Data Analysis | TBD | Submit feedback for presenter.
+13 | Workshop + Discussion | Geospatial Thinking | TBD |  All: submit your topic analysis. Moderator, submit your topic brief. Presenter for next week: Send out your materials for others to review.
+14 |  Workshop [1hr Class]  | TBD | TBD | Submit feedback for presenter
+15 | Discussion | ML to AI | TBD | All: submit your topic analysis. Moderator, submit your topic brief.  
 16 | Presentations | TBD | Submit your final report | Ankita
 
 ## Course Assessments

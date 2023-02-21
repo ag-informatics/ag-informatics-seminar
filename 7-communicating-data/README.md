@@ -30,7 +30,7 @@ For some hands-on stuff, you can check out Module 2 from my Fall course: https:/
 
 # SUBMISSION
 
-Instead of a topic analysis, this week, I ask you to provide **1 page** overview of the different ways in which **you** will need to communicate data as part of your research. You will submit this on Brightspace. Here's the questions I want you to answer:
+Provide **1 page** overview of the different ways in which **you** will need to communicate data as part of your research. Here's the questions I want you to answer:
 
 	1) What types of data or information do you need to communicate in your work? Are there particular types of insights that you are trying to glean or communicate through visualizations?
 
@@ -44,3 +44,31 @@ Instead of a topic analysis, this week, I ask you to provide **1 page** overview
 
 
 # Moderator's Discussion Brief
+Author: [name]
+GitHub: [username]
+
+## Overview of the topic
+
+*insert 1-2 paragraphs here*
+
+## Short Synopsis of Readings
+
+*For each resource provided, create a <1 paragraph summary.]*
+
+## Summary of Key Takeaways from the Materials
+
+*4-5 key takeways, a few sentences to one paragraph each*
+
+## Discussion Questions
+
+*>4-5 questions*
+
+## Further Resources
+
+*>2-3 resources you'd like to share*
+
+
+# Discussion Notes and Feedback
+Note taker: [name]
+
+[notes from the class discussion]
