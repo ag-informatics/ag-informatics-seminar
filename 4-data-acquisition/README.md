@@ -95,8 +95,19 @@ The Ankita’s article discusses the potential of the Internet of Things (IoT) i
 
 Data acquisition methods, tools, and research applications are discussed in this cluster. Freeform observations are often collected in an unstructured manner, while spreadsheets are commonly used for data collection. Forms and APIs are used for more structured data input. In-field data can be acquired by equipment mounted sensing systems, such as gateway-node wireless data collection systems and UAVs. 
 
+1. **Spreadsheets** We use spreadsheet to record field samples, columns include plot, date, treatment, weight, etc. Also the conservation office use spreadsheet to record field transect, columns include field number, previous crop, fall tillage, residue, cover crop, cover crop quality, etc.
+
+2. **API** OpenStreetMap API http://api.openstreetmap.org/, this API can help acquire the detail map for your research area
+
+3. **In-field and equipment mounted sensing systems.** Our lab use subwater monitor machines in some research fields. It connected to the drainage pipes and take water samples in a period of time, and the nitrogen content in the water sample will be analyzed. We also have sensor on the harvest equipment to get the detail yield. 
+
+4. **Remote sensing systems** We can download most satellite images that over 10m resolution for free. Like earthexplorer and copernicus. 
+
 # Summary of Key Takeaways from the Materials
 The key takeaways from the reading are that IoT for agriculture has the potential to improve the sustainability of food systems and enable data-driven regenerative agriculture. However, there are two main hardware limitations to current efforts in IoT for agriculture: power limitations and Internet connectivity in rural spaces. Designers have the opportunity to create solutions to these issues and to design for sustainability. Additionally, the design of technologies for a more sustainable food system requires human-centered, community-oriented, and environmentally sensitive approaches to research and development. Data rights of farmers must be considered while offering consumers and other farm stakeholders appropriate insights into the provenance of food.
+
+Always take care about the pravicy/permission of the data. 
+
 
 # Discussion Questions
 What are some of the challenges associated with harmonizing sensor data in agricultural IoT systems? 
