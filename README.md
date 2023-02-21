@@ -51,7 +51,7 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 6 | Discussion [1hr Class] | [Data Acquisition](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/4-data-acquisition) | Kanru | All: submit your topic analysis. Moderator, submit your topic brief.
 7 |  Discussion | [Data Processing](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/5-data-processing) | Megan | All: submit your topic analysis. Moderator, submit your topic brief.  
 8 | Discussion  | [User Perspectives](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/6-user-perspectives) | Cheyenne | All: submit your topic analysis. Moderator, submit your topic brief.
-9 | Discussion [1hr Class]  | [Communicating Data](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-communicating-data) | Kanru | All: submit your topic analysis. Moderator, submit your topic brief.
+9 | Discussion [1hr Class]  | [Communicating Data](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-communicating-data) | Gaby | All: submit your topic analysis. Moderator, submit your topic brief.
 10 | SPRING BREAK
 11 |  Workshop + Discussion | Data Structures | TBD | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your materials for others to review.
 12 |  Workshop + Discussion  | Data Analysis | TBD | Submit feedback for presenter.
