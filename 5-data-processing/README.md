@@ -44,20 +44,35 @@ In this week's submission, you will describe how and why you need to clean data!
 
 
 # Moderator's Discussion Brief
-Author: [name]
-GitHub: [username]
+Author: Megan Low<BR>
+GitHub: meganlowmy
 
 ## Overview of the topic
 
-*insert 1-2 paragraphs here*
+**Data cleaning** is an essential component in the data life cycle: It is the process of correcting inaccurate, missing, corrupted or duplicate data. Working with clean data makes our lives easier during the data manipulation and analysis stage! Consequentially, results produced from a clean dataset will  also be more accurate. This week's resources introduces best practices on conducting data cleaning.
 
 ## Short Synopsis of Readings
 
-*For each resource provided, create a <1 paragraph summary.]*
+1. [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) - 
+2. [Data Carpentry Lesson on Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) - 
+- Provides best practices on formatting and structuring data in **spreadsheets**
+- Helpful tables telling you what are good practices ✔️ and what to avoid ❌
+<img width="75%" alt="Example table of recommendations for field names" src="https://user-images.githubusercontent.com/104526653/220641641-59e60bf6-0047-4193-8f07-cdef75b8154e.png">
+
+- Would recommend "Key Points" section, they are good summaries
+<img width="75%" alt="Example of Key Points section from Data Carpentry tutorial" src="https://user-images.githubusercontent.com/104526653/220640576-c234da4f-388b-45fb-9cbb-96c0145ea2f5.png">
+
+3. [Anomaly Detection](https://learning.oreilly.com/library/view/cleaning-data-for/9781801071291/Text/Chapter_4.xhtml#_idParaDest-104) -
+- Explains the concept of the following anomalies: 1) missing 2) miscoded 3) fixed bounds 4) outliers 5) multivariate outliers.
+- Provides code on how to handle them
+
+4. [Data Cleaning with OpenRefine for Ecologists](https://datacarpentry.org/OpenRefine-ecology-lesson/) - 
+- A step-by-step tutorial on using OpenRefine (a free, open source tool) to clean data
 
 ## Summary of Key Takeaways from the Materials
 
-*4-5 key takeways, a few sentences to one paragraph each*
+- Producing clean data starts from the "collection" (how we set up our spreadsheets/ columns). This can reduce the amount of cleaning we have to do *post-collection*. 
+- You can write your own code or use ready-developed tools built for this purpose.
 
 ## Discussion Questions
 
