@@ -49,35 +49,48 @@ GitHub: meganlowmy
 
 ## Overview of the topic
 
-**Data cleaning** is an essential component in the data life cycle: It is the process of correcting inaccurate, missing, corrupted or duplicate data. Working with clean data makes our lives easier during the data manipulation and analysis stage! Consequentially, results produced from a clean dataset will  also be more accurate. This week's resources introduces best practices on conducting data cleaning.
+**Data cleaning** is an essential component in the data life cycle: It is the process of correcting inaccurate, missing, corrupted or duplicate data. Working with clean data makes our lives easier during the data manipulation and analysis stage! Consequentially, results produced from a clean dataset will  be more accurate. This week's resources introduces best practices and resources on data cleaning.
 
 ## Short Synopsis of Readings
 
 1. [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) - 
 2. [Data Carpentry Lesson on Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) - 
 - Provides best practices on formatting and structuring data in **spreadsheets**
-- Helpful tables telling you what are good practices ✔️ and what to avoid ❌
+- Helpful tables with recommendations ✔️ and what to avoid ❌
 <img width="75%" alt="Example table of recommendations for field names" src="https://user-images.githubusercontent.com/104526653/220641641-59e60bf6-0047-4193-8f07-cdef75b8154e.png">
 
 - Would recommend "Key Points" section, they are good summaries
 <img width="75%" alt="Example of Key Points section from Data Carpentry tutorial" src="https://user-images.githubusercontent.com/104526653/220640576-c234da4f-388b-45fb-9cbb-96c0145ea2f5.png">
 
 3. [Anomaly Detection](https://learning.oreilly.com/library/view/cleaning-data-for/9781801071291/Text/Chapter_4.xhtml#_idParaDest-104) -
-- Explains the concept of the following anomalies: 1) missing 2) miscoded 3) fixed bounds 4) outliers 5) multivariate outliers.
-- Provides code on how to handle them
+- Explains five types of anomalies and how to handle them (with sample code!):
+	1) **Missing:** Highlights importance of using appropriate values to represent whether a data point is actually zero or simply unavailable (e.g., not collected). Example: NULL in SQL = good, N/A = not good.
+	2) **Miscoded:** Suggested printing unique values, then showed how to replace those words. 
+	3) **Fixed bounds:** When the data point is below or above the range you know is realistic. E.g., your plant can only grow to a certain length or height. Suggested solution: If the number of data points that are out-of-bounds are negligible, can remove OR set them to the highest/lowest bound.
+	4) **Outliers:** When the data point is possible but wildly unexpected. Suggested using z-scores, a box-and-whisker plot and interquartile range to identify outliers - provides code to execute these.
+	5) **Multivariate outliers:**
 
 4. [Data Cleaning with OpenRefine for Ecologists](https://datacarpentry.org/OpenRefine-ecology-lesson/) - 
-- A step-by-step tutorial on using OpenRefine (a free, open source tool) to clean data
+- Step-by-step tutorial with screenshots on what OpenRefine (open source tool) can do for data cleaning:
+	- Allows *exploring* (identification) data:  Facets, filters, sorting
+	- Allows *transforming* (manipulating) data: Clustering data to identify and edit typos, splitting data by separator, removing whitespace
 
 ## Summary of Key Takeaways from the Materials
 
+- There is a name for the way I refer to data structures, i.e., "rectangular tables". I always say "rows and columns".
 - Producing clean data starts from the "collection" (how we set up our spreadsheets/ columns). This can reduce the amount of cleaning we have to do *post-collection*. 
 - You can write your own code or use ready-developed tools built for this purpose.
 
 ## Discussion Questions
 
-*>4-5 questions*
-
+1. What are common mistakes you've encountered? Best practices to avoid those?
+	- Scientific names misspelling in biology-related data
+	- Unfilled blanks in survey collection -> Data validation
+2. What are challenges you've encountered? Not being able to filter because of having two tables in one sheet?
+	The purpose here is to see if anyone in the class has recommendations.
+3. Do you write code? What does your code look for? What do you want your code to do?
+4. Do you use any tools? How has the the tool been useful for your type of work/data?
+	
 ## Further Resources
 
 *>2-3 resources you'd like to share*
