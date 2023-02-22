@@ -81,10 +81,10 @@ GitHub: meganlowmy
 
 ## Summary of Key Takeaways from the Materials
 - There is a difference between clean and tidy data... 🤐 I've been using them interchangeably.
-- Producing clean data starts from the "collection" (how we set up our spreadsheets/columns). This reduces the amount of cleaning we have to do *post-collection*.
-- On a similar note, the usefulness of your data structure is dictated by the analysis you want to conduct. So you almost want to be thinking of the end use **upfront** to produce a clean and USEFUL dataset.
 - Messy data can be useful 😱
-- In addition to writing code, there exists ready-devleoped tools for this process.
+- Producing a good dataset starts from the "collection" (how we set up our spreadsheets/columns). This reduces the amount of cleaning we have to do *post-collection*.
+- On a similar note, the usefulness of your data structure is dictated by the analysis you want to conduct. So you almost want to be thinking of the end use **upfront** to produce a clean and USEFUL dataset.
+- In addition to writing code, there exists ready-devleoped tools for this process. Sometimes we don't have to build from scratch.
 - Maybe off tangent.. but learning data semantics was kind of a lightbulb moment. I discovered there is a name for the way I refer to "rows and columns" which is "rectangular tables". I can see this being helpful if I were to write documentation or communicate best practices with others.
 
 ## Discussion Questions
@@ -97,8 +97,8 @@ Fill the blanks according to this table: <BR>
 Some guiding questions:
 1. What are common mistakes you've encountered? 
 	- Best practices you've employed to avoid them?
-2. Any challenges when analyzing data that you have not solved? (E.g., not being able filter )
-3. For your recommendations, any code that has been magical? Any tools?
+2. For your recommendations, any code that has been magical? Any tools?
+3. Any challenges when analyzing data that you have not solved? (Maybe we can find out if this is a tidy/clean data problem)
 
 ## Further Resources
 
