@@ -56,7 +56,7 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 11 |  Workshop + Discussion | Geospatial Thinking | Kanru Moderator | All: submit your topic analysis. Moderator, submit your topic brief.  Presenter for next week: Send out your materials for others to review.
 12 |  Workshop + Discussion  | Data Analysis | Megan Moderator. Megan Progress Presentation. | Submit feedback for presenter.
 13 | Workshop + Discussion | Decision Support Tools | Cheyenne Moderator. Cheyenne Progress Presentation |  All: submit your topic analysis. Moderator, submit your topic brief. Presenter for next week: Send out your materials for others to review.
-14 |  Workshop [1hr Class]  | TBD | Kanru Progress Presentation | Submit feedback for presenter
+14 |  Workshop [1hr Class]  | N/A | Kanru Progress Presentation | Submit feedback for presenter
 15 | Discussion | ML to AI | Gaby Moderator. Gaby Progress Presentation | All: submit your topic analysis. Moderator, submit your topic brief.  
 16 | Discussion | TBD | Submit your final report | Ankita
 
