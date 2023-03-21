@@ -6,17 +6,16 @@ The goal of data science can in many ways be described by the image below:
 
 That said, the types of analytics you will want to try out will depend on the type of data you are dealing with. In this section, I provide an overview document + set of resources for three types of data: quantitative, spatial, and image data, to get you thinking in this manner.  
 
-Another way to thing about data analysis, is based on the types of questions you are asking of the data. 
+Another way to think about data analysis, is based on the types of questions you are asking of the data. 
 
 - Descriptive analytics: What happened?
 - Diagnostic analytics: Why did it happen?
 - Predictive analytics: What happens if?
 - Prescriptive analytics: How to make it happen? 
 
-These terms have been around for a while and it's hard to trace origins. There are many papers that discuss them, including, for instance: https://link.springer.com/chapter/10.1007/978-3-030-04506-7_3 that may be, at least, a helpful summary of how some of the different techniques we use can be bucketed under each category. This Adobe marketing communication actually provides a helpful and very brief overview: https://business.adobe.com/blog/basics/descriptive-predictive-prescriptive-analytics-explained, as does this MSU marketing brief: https://www.michiganstateuniversityonline.com/resources/business-analytics/types-of-data-analytics-and-how-to-apply-them/
+These terms have been around for a while: There are many articles that discuss them, including, for instance: https://link.springer.com/chapter/10.1007/978-3-030-04506-7_3 that may be, at least, a helpful summary of how some of the different techniques we use can be bucketed under each category. This Adobe marketing communication actually provides a helpful and very brief overview: https://business.adobe.com/blog/basics/descriptive-predictive-prescriptive-analytics-explained, as does this MSU marketing brief: https://www.michiganstateuniversityonline.com/resources/business-analytics/types-of-data-analytics-and-how-to-apply-them/
 
 Pick ONE of the following, depending on the type of data you are planning on working with. You should skim/read the documents marked as such, and at least check out some of the resources in either the Python or R sections depending on your area of work:
-
 
 ### 1. **Quantitative Data?**
 
