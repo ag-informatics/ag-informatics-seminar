@@ -53,12 +53,12 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 8 | Discussion  | [User Perspectives](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/6-user-perspectives) | Cheyenne | All: submit your topic analysis. Moderator, submit your topic brief.
 9 | Discussion [1hr Class]  | [Communicating Data](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-communicating-data) | Gaby | All: submit your topic analysis. Moderator, submit your topic brief.
 10 | SPRING BREAK
-11 |  Discussion | [Data Analysis](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-data-analysis) | Kanru Moderator | Kanru, submit your topic brief.  Megan: Send your materials for the group to review.
-12 |  Workshop + Discussion  | Modeling | Megan Moderator. Megan Progress Presentation. | Megan, submit your topic brief. Others: Submit feedback for Megan. Cheyenne: Send your materials for the group to review.
-13 | Workshop + Discussion | Decision Support Tools | Cheyenne Moderator. Cheyenne Progress Presentation | Cheyenne, submit your topic brief. Others: Submit feedback for Cheyenne. Kanru: Send your materials for the group to review.
-14 |  Workshop [1hr Class]  | N/A | Kanru Progress Presentation | Others: Submit feedback for Kanru. Gaby: Send your materials for the group to review.
-15 | Discussion | ML to AI | Gaby Moderator. Gaby Progress Presentation | Gaby, submit your topic brief. Others: Submit feedback for Gaby.
-16 | Discussion | TBD | Submit your final report | Ankita
+11 |  Discussion | [Data Analysis](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-data-analysis) | Kanru Moderator | Kanru, submit your topic brief.  
+12 |  Workshop + Discussion  | Modeling. Megan Presents. | Megan Progress Presentation. | Megan, submit your topic brief. Others: Submit feedback for Megan. 
+13 | Workshops | Cheyenne & Kanru Present | Cheyenne & Kanru Progress Presentation Others: Submit feedback for Cheyenne & Kanru. 
+14 |  Workshop [1hr Class] | Gaby Presents | Gaby, submit your topic brief. Others: Submit feedback for Gaby.
+15 | Discussion | ML to AI | Ankita to Moderate | No submission. 
+16 | Discussion | No class | Submit your final report | 
 
 ## Course Assessments
 
@@ -71,7 +71,7 @@ Topic Analysis | Tuesday @ 11.59pm, Due the night before class | 30% total (even
 Moderator Topic Brief | Tuesday @ 11.59pm, Due the **Tuesday after** your assigned Discussion Week | 15%
 Project Work-in-progress Update | Monday @ 11.59pm, Due the **Monday before** your assigned Workshop Week | 10%
 Project Peer Feedback | Fridays @ 11.59pm, Due every Workshop Week after the presentation |20% total (even split among # students)
-Project Final Report | Week 16 Friday @ 11.59pm, Presentation in class, TBD | 25%
+Project Final Report | Week 16 Friday @ 11.59pm| 25%
 
 *The final weights may change based on total enrollment in the course.*
 
