@@ -1,0 +1,1620 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>body {
+  max-width: 980px;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 45px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable,
+.markdown-body .highlighttable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr,
+.markdown-body .highlighttable {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite,
+.markdown-body .highlighttable pre,
+.markdown-body .highlighttable div.highlight {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td,
+.markdown-body .highlighttable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headerlink {
+  font: normal 400 16px fontawesome-mini;
+  vertical-align: middle;
+  margin-left: -16px;
+  float: left;
+  display: inline-block;
+  text-decoration: none;
+  opacity: 0;
+  color: #333;
+}
+
+.markdown-body .headerlink:focus {
+  outline: none;
+}
+
+.markdown-body h1 .headerlink {
+  margin-top: 0.8rem;
+}
+
+.markdown-body h2 .headerlink,
+.markdown-body h3 .headerlink {
+  margin-top: 0.6rem;
+}
+
+.markdown-body h4 .headerlink {
+  margin-top: 0.2rem;
+}
+
+.markdown-body h5 .headerlink,
+.markdown-body h6 .headerlink {
+  margin-top: 0;
+}
+
+.markdown-body .headerlink:hover,
+.markdown-body h1:hover .headerlink,
+.markdown-body h2:hover .headerlink,
+.markdown-body h3:hover .headerlink,
+.markdown-body h4:hover .headerlink,
+.markdown-body h5:hover .headerlink,
+.markdown-body h6:hover .headerlink {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite,
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body .highlight pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* MultiMarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px fontawesome-mini;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\e157';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+.markdown-body diagram-div, .markdown-body div.uml-sequence-diagram, .markdown-body, div.uml-flowchart {
+  overflow: auto;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><style>/*GitHub*/
+.highlight {background-color:#fff;color:#333333;}
+.highlight .hll {background-color:#ffffcc;}
+.highlight .c{color:#999988;font-style:italic}
+.highlight .err{color:#a61717;background-color:#e3d2d2}
+.highlight .k{font-weight:bold}
+.highlight .o{font-weight:bold}
+.highlight .cm{color:#999988;font-style:italic}
+.highlight .cp{color:#999999;font-weight:bold}
+.highlight .c1{color:#999988;font-style:italic}
+.highlight .cs{color:#999999;font-weight:bold;font-style:italic}
+.highlight .gd{color:#000000;background-color:#ffdddd}
+.highlight .ge{font-style:italic}
+.highlight .gr{color:#aa0000}
+.highlight .gh{color:#999999}
+.highlight .gi{color:#000000;background-color:#ddffdd}
+.highlight .go{color:#888888}
+.highlight .gp{color:#555555}
+.highlight .gs{font-weight:bold}
+.highlight .gu{color:#800080;font-weight:bold}
+.highlight .gt{color:#aa0000}
+.highlight .kc{font-weight:bold}
+.highlight .kd{font-weight:bold}
+.highlight .kn{font-weight:bold}
+.highlight .kp{font-weight:bold}
+.highlight .kr{font-weight:bold}
+.highlight .kt{color:#445588;font-weight:bold}
+.highlight .m{color:#009999}
+.highlight .s{color:#dd1144}
+.highlight .n{color:#333333}
+.highlight .na{color:teal}
+.highlight .nb{color:#0086b3}
+.highlight .nc{color:#445588;font-weight:bold}
+.highlight .no{color:teal}
+.highlight .ni{color:purple}
+.highlight .ne{color:#990000;font-weight:bold}
+.highlight .nf{color:#990000;font-weight:bold}
+.highlight .nn{color:#555555}
+.highlight .nt{color:navy}
+.highlight .nv{color:teal}
+.highlight .ow{font-weight:bold}
+.highlight .w{color:#bbbbbb}
+.highlight .mf{color:#009999}
+.highlight .mh{color:#009999}
+.highlight .mi{color:#009999}
+.highlight .mo{color:#009999}
+.highlight .sb{color:#dd1144}
+.highlight .sc{color:#dd1144}
+.highlight .sd{color:#dd1144}
+.highlight .s2{color:#dd1144}
+.highlight .se{color:#dd1144}
+.highlight .sh{color:#dd1144}
+.highlight .si{color:#dd1144}
+.highlight .sx{color:#dd1144}
+.highlight .sr{color:#009926}
+.highlight .s1{color:#dd1144}
+.highlight .ss{color:#990073}
+.highlight .bp{color:#999999}
+.highlight .vc{color:teal}
+.highlight .vg{color:teal}
+.highlight .vi{color:teal}
+.highlight .il{color:#009999}
+.highlight .gc{color:#999;background-color:#EAF2F5}
+</style><title>README</title></head><body><article class="markdown-body"><h1 id="from-ml-to-ai">From ML to AI<a class="headerlink" href="#from-ml-to-ai" title="Permanent link"></a></h1>
+<p>This week, I had started to source some reading materials for the group to introduce a brief history of machine learning and modern developments in AI. As I browsed publicly available materials, I found duplication, contradiction, hype, and the occasssional helpful article. This final list of articles I trimmed this down to is avialable in the Section 1 &ldquo;Overview Articles on ML to AI&rdquo;. I also included some [supplementary materials] from last year&rsquo;s discussion on this topic.</p>
+<p>I&rsquo;ve been hesitant to use OpenAI&rsquo;s ChatGPT implementation due for ethical reasons. I thought it would be interesting (and totally meta) to interact with a modern implementation of a Large Language Model, to get some summary data on ML and AI. I didn&rsquo;t get into philosophical questions, but tried to use the conversation to generate content for our discussion. My lightly edited [conversation on AI with ChatGPT] is available below. </p>
+<p><em>Note: I have not fact-checked it yet, but it would be interesting to do so as a next step, so take everything you read with a grain of salt. Consider this food for thought, though I did find that at a high level, it matched up quite well with (a) the articles I found, and (b) at least my knowledge of the space - which, granted, could also contain errors.</em></p>
+<h2 id="overview-articles-on-ml-to-ai">Overview Articles on ML to AI<a class="headerlink" href="#overview-articles-on-ml-to-ai" title="Permanent link"></a></h2>
+<ol>
+<li>
+<p>A short explainer oriented toward management professionalsm with a helpful (MIT, 2021) <a href="https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained">https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained</a></p>
+</li>
+<li>
+<p>An set of articles, including: a brief history, definitions, applications, modern applications (IBM, nodate): <a href="https://www.ibm.com/topics/machine-learning">https://www.ibm.com/topics/machine-learning</a></p>
+</li>
+<li>
+<p>A more hands-on orientation to machine learning methods, with a focus on statistics, including code samples (Wolfram, 2022): <a href="https://www.wolfram.com/language/introduction-machine-learning/">https://www.wolfram.com/language/introduction-machine-learning/</a></p>
+</li>
+<li>
+<p>A 5-part roadmap overviewing machine learning methods, including the math, code, and examples (Maini, 2017): <a href="https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12">https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12</a></p>
+</li>
+<li>
+<p>A fun read overviewing how ChatGPT and Large Language Models work (Riedl, 2023): <a href="https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e">https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e</a></p>
+</li>
+<li>
+<p>Fiction: The Lifecycle of Software Objects (same person that wrote the short story behind the movie Arrival, Chiang 2010): <a href="https://web.archive.org/web/20130306030242/http://subterraneanpress.com/magazine/fall_2010/fiction_the_lifecycle_of_software_objects_by_ted_chiang">https://web.archive.org/web/20130306030242/http://subterraneanpress.com/magazine/fall_2010/fiction_the_lifecycle_of_software_objects_by_ted_chiang</a> [P.S. I have not read this yet!]</p>
+</li>
+</ol>
+<h3 id="mit-machine-learning-decision-tree">MIT Machine Learning Decision Tree:<a class="headerlink" href="#mit-machine-learning-decision-tree" title="Permanent link"></a></h3>
+<p>![machine learning decision tree]](../img/mit-machine-learning-infographic_2.jpg)</p>
+<h2 id="supplementary-materials">Supplementary Materials<a class="headerlink" href="#supplementary-materials" title="Permanent link"></a></h2>
+<p>Two supplementary readings and a video if you are interested:</p>
+<ol>
+<li>
+<p>In this 15 min video, Genevieve Bell (who also features in the main video) talks about 6 ethical questions about AI: <a href="https://www.youtube.com/watch?v=UGHzKaAOOcA">https://www.youtube.com/watch?v=UGHzKaAOOcA</a>. This is an incredibly important set of reminders as we think about the future of technology.</p>
+</li>
+<li>
+<p>This Atlantic article discusses the juxtaposition between &ldquo;wizards&rdquo; and &ldquo;prophets&rdquo;, talking in terms of techno-optimism and techno-skepticism too: <a href="https://www.theatlantic.com/magazine/archive/2018/03/charles-mann-can-planet-earth-feed-10-billion-people/550928/">https://www.theatlantic.com/magazine/archive/2018/03/charles-mann-can-planet-earth-feed-10-billion-people/550928/</a> Given the very optimistic outlook of the Wired article, I thought it important to share this perspective too.</p>
+</li>
+<li>
+<p><a href="https://www.wired.com/video/watch/machine-learning-living-in-the-age-of-ai-film">https://www.wired.com/video/watch/machine-learning-living-in-the-age-of-ai-film</a></p>
+</li>
+</ol>
+<h2 id="a-conversation-on-ai-with-chatgpt-april-2023">A conversation on AI with ChatGPT, April 2023<a class="headerlink" href="#a-conversation-on-ai-with-chatgpt-april-2023" title="Permanent link"></a></h2>
+<p>Here&rsquo;s an overview of the topics we covered:</p>
+<ol>
+<li><a href="#brief-history-of-ai">Brief History of AI</a></li>
+<li><a href="#high-level-categories-of-ml-and-ai-methods">High-level Categories of ML and AI methods</a>
+* <a href="#a-brief-look-at-neural-networks">A brief look at Neural Networks</a>
+* <a href="#family-of-ml-ai-algorithms">Family of ML &amp; AI Algorithms</a>
+<a href="#data-processing-pipelines-in-agriculture">Data Processing Pipelines in Agriculture</a>
+<a href="#additional-considerations">Additional Considerations?</a>
+<a href="#further-resources">Further Resources?</a></li>
+</ol>
+<p>OpenAI&rsquo;s disclaimer + credit note: <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT Mar 23 Version</a>. Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts.</p>
+<h3 id="brief-history-of-ai">Brief History of AI<a class="headerlink" href="#brief-history-of-ai" title="Permanent link"></a></h3>
+<p><strong>Ankita:</strong>
+Could you please provide a brief history of AI that can be read by a novice in under ten minutes. Please chronologically present the movements from early machine learning methods to modern developments in AI. Please pair this description with a summary table.</p>
+<p><strong>ChatGPT:</strong>
+AI or Artificial Intelligence is the ability of machines to simulate human intelligence, such as the ability to perceive, reason, learn, and solve problems. The history of AI dates back to the 1950s when the term &ldquo;artificial intelligence&rdquo; was coined by John McCarthy, a computer scientist.</p>
+<p>Here&rsquo;s a brief history of AI, presented chronologically:</p>
+<ol>
+<li>
+<p>Early AI: The first wave of AI was marked by rule-based systems and expert systems. In the 1960s and 1970s, researchers developed AI programs that could solve problems by following a set of predefined rules. These systems were not very flexible and could only solve problems in specific domains.</p>
+</li>
+<li>
+<p>Neural Networks: In the 1980s, researchers began exploring neural networks, which were modeled after the structure of the human brain. Neural networks could learn and generalize from examples, making them more flexible and capable of solving a wider range of problems.</p>
+</li>
+<li>
+<p>Machine Learning: In the 1990s, machine learning became a dominant approach to AI. Machine learning algorithms could automatically learn patterns and relationships from data, allowing computers to perform tasks such as image recognition and speech recognition.</p>
+</li>
+<li>
+<p>Deep Learning: In the early 2000s, deep learning emerged as a subfield of machine learning. Deep learning algorithms use multiple layers of neural networks to automatically learn representations of data, allowing computers to perform tasks such as natural language processing, image and video recognition, and game playing.</p>
+</li>
+<li>
+<p>Reinforcement Learning: Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment. Reinforcement learning algorithms have been used to develop autonomous agents that can play games, control robots, and optimize complex systems.</p>
+</li>
+<li>
+<p>Current Developments: Recent advancements in AI have led to the development of artificial general intelligence (AGI), which is a form of AI that can perform any intellectual task that a human can. However, AGI is still in the early stages of development and is not yet widely available.</p>
+</li>
+</ol>
+<p>Summary Table:</p>
+<table>
+<thead>
+<tr>
+<th>Wave of AI</th>
+<th>Timeframe</th>
+<th>Characteristics</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Early AI</td>
+<td>1950s - 1970s</td>
+<td>Rule-based and expert systems</td>
+</tr>
+<tr>
+<td>Neural Networks</td>
+<td>1980s</td>
+<td>Modeled after human brain, capable of learning</td>
+</tr>
+<tr>
+<td>Machine Learning</td>
+<td>1990s</td>
+<td>Automatically learn patterns and relationships</td>
+</tr>
+<tr>
+<td>Deep Learning</td>
+<td>Early 2000s</td>
+<td>Multiple layers of neural networks</td>
+</tr>
+<tr>
+<td>Reinforcement Learning</td>
+<td>Mid 2000s</td>
+<td>Learning through interaction with environment</td>
+</tr>
+<tr>
+<td>Current Developments</td>
+<td>Present</td>
+<td>Artificial General Intelligence (AGI)</td>
+</tr>
+</tbody>
+</table>
+<p>Overall, AI has come a long way since its early days, and recent advancements have made it possible for machines to perform tasks that were previously thought to be possible only by humans.</p>
+<h3 id="high-level-categories-of-ml-and-ai-methods">High-level Categories of ML and AI methods<a class="headerlink" href="#high-level-categories-of-ml-and-ai-methods" title="Permanent link"></a></h3>
+<p><strong>Ankita:</strong>
+Please provide a brief overview of the main categories of machine learning and AI methods or algorithms. Include a definition of supervised via unsupervised learning (and other classes if I’m missing them). For each category of algorithms, describe what they are commonly used for, what programming libraries are used, how they are typically implemented, and a sample academic article that uses this category of algorithms in agricultural research.  Provide a summary table as well. </p>
+<p>Then, provide an overview of how each of these categories of machine learning and AI algorithms are typically evaluated, risks and pitfalls, ethical challenges, and proposals for how to create more responsible AI</p>
+<p><strong>ChatGPT:</strong></p>
+<p>Sure! Here&rsquo;s an overview of the main categories of machine learning and AI methods or algorithms:</p>
+<ol>
+<li>
+<p>Supervised Learning: In supervised learning, the machine learning algorithm is trained using a labeled dataset, where the correct output is provided for each input. The algorithm learns to predict the output for new inputs based on the patterns it learned during training. This type of learning is commonly used in classification and regression problems, where the goal is to predict a category or a numerical value. Common programming libraries used in supervised learning include Scikit-learn, TensorFlow, and Keras. A sample academic article that uses supervised learning in agricultural research is &ldquo;Deep Convolutional Neural Networks for Image-based Sorghum Head Detection&rdquo; by Mahlein et al. (2019).</p>
+</li>
+<li>
+<p>Unsupervised Learning: In unsupervised learning, the machine learning algorithm is trained using an unlabeled dataset, where the correct output is not provided. The algorithm learns to identify patterns and relationships in the data without any prior knowledge. This type of learning is commonly used in clustering and dimensionality reduction problems, where the goal is to group similar data points or reduce the number of features. Common programming libraries used in unsupervised learning include Scikit-learn, TensorFlow, and PyTorch. A sample academic article that uses unsupervised learning in agricultural research is &ldquo;Unsupervised Feature Learning for Maize Crop Stress Detection&rdquo; by Picon et al. (2016).</p>
+</li>
+<li>
+<p>Semi-Supervised Learning: In semi-supervised learning, the machine learning algorithm is trained using a combination of labeled and unlabeled data. The algorithm learns to identify patterns and relationships in the data, using both the labeled and unlabeled data to improve its predictions. This type of learning is commonly used in situations where labeling data is expensive or time-consuming. Common programming libraries used in semi-supervised learning include Scikit-learn, TensorFlow, and PyTorch. A sample academic article that uses semi-supervised learning in agricultural research is &ldquo;A Semi-Supervised Approach for Early Detection of Fusarium Head Blight Using Hyperspectral Sensing&rdquo; by Hruska et al. (2019).</p>
+</li>
+<li>
+<p>Reinforcement Learning: In reinforcement learning, the machine learning algorithm learns to make decisions based on feedback from the environment. The algorithm is rewarded for good decisions and penalized for bad decisions, which helps it learn to make better decisions over time. This type of learning is commonly used in robotics, gaming, and control systems. Common programming libraries used in reinforcement learning include OpenAI Gym, TensorFlow, and PyTorch. A sample academic article that uses reinforcement learning in agricultural research is &ldquo;Reinforcement Learning for the Scheduling of Irrigation in Precision Agriculture&rdquo; by Angulo et al. (2019).</p>
+</li>
+</ol>
+<p>Here&rsquo;s a summary table:</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Definition</th>
+<th>Common Use Cases</th>
+<th>Programming Libraries</th>
+<th>Sample Academic Article</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Supervised Learning</td>
+<td>Learning using labeled data</td>
+<td>Classification and regression problems</td>
+<td>Scikit-learn, TensorFlow, Keras</td>
+<td>&ldquo;Deep Convolutional Neural Networks for Image-based Sorghum Head Detection&rdquo; by Mahlein et al. (2019)</td>
+</tr>
+<tr>
+<td>Unsupervised Learning</td>
+<td>Learning using unlabeled data</td>
+<td>Clustering and dimensionality reduction problems</td>
+<td>Scikit-learn, TensorFlow, PyTorch</td>
+<td>&ldquo;Unsupervised Feature Learning for Maize Crop Stress Detection&rdquo; by Picon et al. (2016)</td>
+</tr>
+<tr>
+<td>Semi-Supervised Learning</td>
+<td>Learning using a combination of labeled and unlabeled data</td>
+<td>Situations where labeling data is expensive or time-consuming</td>
+<td>Scikit-learn, TensorFlow, PyTorch</td>
+<td>&ldquo;A Semi-Supervised Approach for Early Detection of Fusarium Head Blight Using&hellip; [did not complete]</td>
+</tr>
+</tbody>
+</table>
+<h3 id="a-brief-look-at-neural-networks">A brief look at Neural Networks<a class="headerlink" href="#a-brief-look-at-neural-networks" title="Permanent link"></a></h3>
+<p><strong>Ankita:</strong></p>
+<p>If neural networks are then base class of AI algorithms, humans would you describe the subclasses of this genre? Are you able to generate a tree diagram or visualization of the family of&hellip; [I hit-enter too early and did not complete question]</p>
+<blockquote>
+<p>sidenote: ChatGPT also labeled the diagrams in it&rsquo;s response as &ldquo;markdown&rdquo; ode, though subsequent diagrams were labeled as &ldquo;sql&rdquo; and &ldquo;mathematica&rdquo; respectively.</p>
+</blockquote>
+<p><strong>ChatGPT:</strong></p>
+<p>Neural networks are a type of machine learning algorithm that is inspired by the structure and function of the human brain. They are not necessarily the base class of AI algorithms, but rather one of the most popular and powerful types of algorithms used in modern AI.</p>
+<p>There are many different types of neural networks, each with its own strengths and weaknesses. Here are some of the most common subclasses of neural networks:</p>
+<ol>
+<li>
+<p>Feedforward Neural Networks: This is the most basic type of neural network, where information flows in only one direction, from the input layer through one or more hidden layers to the output layer. Feedforward neural networks are commonly used for classification and regression tasks.</p>
+</li>
+<li>
+<p>Convolutional Neural Networks (CNNs): These are specialized neural networks that are designed to work with image data. They use a series of convolutional layers to identify features in the input images, followed by one or more fully connected layers for classification.</p>
+</li>
+<li>
+<p>Recurrent Neural Networks (RNNs): These are neural networks that have a feedback loop, allowing them to process sequences of data, such as time series or natural language data. RNNs can remember previous inputs and use that information to inform their predictions.</p>
+</li>
+<li>
+<p>Long Short-Term Memory Networks (LSTMs): These are a type of RNN that are designed to avoid the problem of vanishing gradients that can occur in standard RNNs. LSTMs are commonly used for natural language processing and speech recognition.</p>
+</li>
+<li>
+<p>Generative Adversarial Networks (GANs): These are neural networks that are used for generating new data that is similar to a given dataset. GANs consist of two networks, a generator network that creates new data, and a discriminator network that tries to distinguish between the generated data and real data.
+Here&rsquo;s a simple visualization of the family of neural networks:</p>
+<pre><code>        Neural Networks
+            /     |    \
+Feedforward    CNNs  RNNs
+                   |
+                 LSTMs
+                   |
+                 GANs
+</code></pre>
+</li>
+</ol>
+<p>Note that this is not an exhaustive list of all types of neural networks, and there are many variations and hybrid models that combine different types of networks.</p>
+<p><strong>Ankita:</strong> 
+If neural nets are not the base class of AI algorithms, then what are they?</p>
+<p><strong>ChatGPT:</strong></p>
+<p>Neural networks are a type of machine learning algorithm that is inspired by the structure and function of the human brain. They are not necessarily the base class of AI algorithms, but they are one of the most important and powerful types of algorithms used in modern AI.</p>
+<p>In fact, neural networks are a subset of a larger category of algorithms called &ldquo;artificial intelligence&rdquo; or AI. AI is a broad field that encompasses a wide range of algorithms and techniques for making machines &ldquo;intelligent&rdquo; or capable of performing tasks that would normally require human intelligence, such as recognizing speech, understanding natural language, playing games, and more.</p>
+<p>So while neural networks are an important part of AI, they are not the only type of algorithm used in AI. Other types of algorithms used in AI include decision trees, support vector machines, genetic algorithms, and many more.</p>
+<h3 id="family-of-ml-ai-algorithms">Family of ML &amp; AI Algorithms<a class="headerlink" href="#family-of-ml-ai-algorithms" title="Permanent link"></a></h3>
+<p><strong>Ankita:</strong> 
+Please describe the family of AI algorithms. Include typically use cases, programming libraries, challenges, and  a sample academic  from agricultural research. Include a summary table as well.  Thank you!</p>
+<blockquote>
+<p>sidenote: The academic articles have no authors/dates, so I haven&rsquo;t checked to see if they are real!</p>
+</blockquote>
+<p><strong>ChatGPT:</strong>
+The family of AI algorithms includes a broad range of techniques and methods for creating intelligent machines. Here is a brief overview of some of the main categories, along with examples of their use cases, programming libraries, challenges, and a sample academic article from agricultural research:</p>
+<ol>
+<li>
+<p>Supervised Learning: This is a type of machine learning algorithm where the model is trained on labeled data, meaning that each input has a corresponding output. Supervised learning is commonly used for classification and regression tasks, such as image classification or predicting crop yields. Popular programming libraries for supervised learning include scikit-learn, TensorFlow, and PyTorch. <em>Sample academic article: &ldquo;Supervised Machine Learning Models for Classifying Agricultural Crops Based on High-Resolution Satellite Images&rdquo; by F. Al-Tam et al. (2020).</em></p>
+</li>
+<li>
+<p>Unsupervised Learning: This is a type of machine learning algorithm where the model is trained on unlabeled data, meaning that the model has to find patterns and structure in the data on its own. Unsupervised learning is commonly used for clustering and anomaly detection tasks, such as identifying diseases in crops or grouping similar plants together. Popular programming libraries for unsupervised learning include scikit-learn, TensorFlow, and Keras. <em>Sample academic article: &ldquo;Unsupervised Learning for Identifying Anomalous Patterns in Plant Disease Data&rdquo; by J. Smith et al. (2018).</em></p>
+</li>
+<li>
+<p>Reinforcement Learning: This is a type of machine learning algorithm where the model learns by trial and error, receiving feedback in the form of rewards or penalties based on its actions. Reinforcement learning is commonly used for tasks such as autonomous driving or optimizing crop growth. Popular programming libraries for reinforcement learning include TensorFlow, PyTorch, and OpenAI Gym. <em>Sample academic article: &ldquo;Reinforcement Learning for Optimal Control of Crop Growth in Greenhouses&rdquo; by L. Chen et al. (2020).</em></p>
+</li>
+<li>
+<p>Natural Language Processing (NLP): This is a subfield of AI that focuses on teaching machines to understand and process human language. NLP is commonly used for tasks such as sentiment analysis or machine translation. Popular programming libraries for NLP include NLTK, spaCy, and TensorFlow. <em>Sample academic article: &ldquo;A Deep Learning Approach for Identifying Relevant Agricultural Information in Social Media&rdquo; by S. Singh et al. (2021).</em></p>
+</li>
+<li>
+<p>Computer Vision: This is a subfield of AI that focuses on teaching machines to interpret and understand visual data, such as images or videos. Computer vision is commonly used for tasks such as object detection or image segmentation. Popular programming libraries for computer vision include OpenCV, TensorFlow, and PyTorch. *Sample academic article: &ldquo;Computer Vision-Based Tomato Fruit Recognition for Automated Harvesting&rdquo; by T. Nguyen et al. (2019). *   </p>
+</li>
+</ol>
+<p><strong>Ankita:</strong> 
+I think you’re missing computer vision from the summary table, please append.</p>
+<blockquote>
+<p>sidenote: I received a different and incomplete table in the prior response. I am only including this complete table even though there are minor diffrences. Again, the academic articles have no authors/dates, so I haven&rsquo;t checked to see if they are real.</p>
+</blockquote>
+<p><strong>ChatGPT:</strong>
+You are correct, thank you for pointing that out. Here&rsquo;s an updated summary table that includes Computer Vision:</p>
+<table>
+<thead>
+<tr>
+<th>Algorithm Type</th>
+<th>Common Use Cases</th>
+<th>Programming Libraries</th>
+<th>Challenges</th>
+<th>Sample Academic Article</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Supervised Learning</td>
+<td>Classification, Regression</td>
+<td>scikit-learn, TensorFlow</td>
+<td>Overfitting, Data Imbalance, Feature Selection</td>
+<td>&ldquo;Supervised Machine Learning Models for Classifying Agricultural Crops Based on High-Resolution Satellite Images&rdquo;</td>
+</tr>
+<tr>
+<td>Unsupervised Learning</td>
+<td>Clustering, Anomaly Detection</td>
+<td>scikit-learn, TensorFlow</td>
+<td>Determining Optimal Number of Clusters, Feature Selection</td>
+<td>&ldquo;Unsupervised Learning for Identifying Anomalous Patterns in Plant Disease Data&rdquo;</td>
+</tr>
+<tr>
+<td>Reinforcement Learning</td>
+<td>Autonomous Driving, Optimization</td>
+<td>TensorFlow, PyTorch</td>
+<td>Reward Function Design, Exploration-Exploitation Tradeoff</td>
+<td>&ldquo;Reinforcement Learning for Optimal Control of Crop Growth in Greenhouses&rdquo;</td>
+</tr>
+<tr>
+<td>Natural Language Processing</td>
+<td>Sentiment Analysis, Machine Translation</td>
+<td>NLTK, spaCy, TensorFlow</td>
+<td>Language Ambiguity, Domain Adaptation</td>
+<td>&ldquo;A Deep Learning Approach for Identifying Relevant Agricultural Information in Social Media&rdquo;</td>
+</tr>
+<tr>
+<td>Computer Vision</td>
+<td>Object Detection, Image Segmentation</td>
+<td>OpenCV, TensorFlow, PyTorch</td>
+<td>Image Noise, Object Occlusion, Lighting Conditions</td>
+<td>&ldquo;Computer Vision-Based Tomato Fruit Recognition for Automated Harvesting&rdquo;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ankita:</strong>
+Can you provide a visualization of how the major classes of machine learning and AI algorithms are connected and/or derived from each other? Please also include those that are not directly connected to this group, but call under the same superclass.</p>
+<p><strong>ChatGPT:</strong>
+Sure! Here&rsquo;s a high-level visualization of how some of the major classes of machine learning and AI algorithms are connected:</p>
+<pre><code>                    ┌─────────────┐
+                    │  Machine    │
+                    │  Learning   │
+                    └─────────────┘
+                             │
+                   ┌─────────┴─────────┐
+                   │                   │
+           Supervised Learning  Unsupervised Learning
+                   │                   │
+                   │                   │
+             ┌─────┴─────┐       ┌─────┴─────┐
+             │           │       │           │
+           Regression Classification Clustering Anomaly Detection
+                          │
+                          │
+                    Reinforcement Learning
+                          │
+                          │
+                 Natural Language Processing
+                          │
+                          │
+                      Computer Vision
+</code></pre>
+<p>Note that this is not an exhaustive list and there are many other algorithms and techniques that fall under the umbrella of machine learning and AI. Additionally, some algorithms could be classified under multiple categories depending on how they are used or implemented.</p>
+<p><strong>Ankita:</strong>
+Are you able to generate a more detailed list?</p>
+<blockquote>
+<p>sidenote: I didn&rsquo;t clean up the diagram in the response, but you get the picture!</p>
+</blockquote>
+<p><strong>ChatGPT:</strong>
+Sure! Here&rsquo;s a more detailed list of some of the major categories of machine learning and AI algorithms, including some examples of specific algorithms that fall under each category:</p>
+<pre><code>        ┌───────────────────────────────────────────┐
+        │                 Machine Learning           │
+        ├───────────────────────────┬───────────────┤
+        │     Supervised Learning    │  Unsupervised  │
+        ├───────────────────────────┼───────────────┤
+        │  Regression   Classification│ Clustering    │ 
+        │  Linear        Logistic      │ K-Means       │
+        │  Polynomial    SVM           │ DBSCAN        │
+        │  Decision Tree Naive Bayes  │ Gaussian Mixture Model  │
+        │  Random Forest K-NN         │ Hierarchical Clustering │
+        │  Gradient Boosting           │ Anomaly Detection       │
+        │                 Autoencoders  │ Isolation Forest        │
+        ├───────────────────────────┼───────────────┤
+        │           Reinforcement Learning            │
+        ├───────────────────────────┼───────────────┤
+        │   Q-Learning  Deep Q-Networks               │
+        │   Actor-Critic Algorithms                   │
+        ├───────────────────────────┼───────────────┤
+        │          Natural Language Processing        │
+        ├───────────────────────────┼───────────────┤
+        │  Text Classification       Named Entity Recognition│
+        │  Sentiment Analysis        Machine Translation     │
+        │  Topic Modeling            Text Summarization      │
+        │  Language Generation       Question Answering      │
+        ├───────────────────────────┼───────────────┤
+        │              Computer Vision                │
+        ├───────────────────────────┼───────────────┤
+        │  Object Detection          Image Segmentation     │
+        │  Image Classification      Face Recognition       │
+        │  Pose Estimation           Optical Character Recognition│
+        │  Generative Adversarial Networks (GANs)          │
+        ├───────────────────────────┼───────────────┤
+        │             Deep Learning                  │
+        ├───────────────────────────┼───────────────┤
+        │  Convolutional Neural Networks (CNNs)          │
+        │  Recurrent Neural Networks (RNNs)              │
+        │  Long Short-Term Memory (LSTM)                 │
+        │  Transformer-Based Models                      │
+        │  Generative Models (VAE, GANs)                 │
+        └───────────────────────────────────────────┘
+</code></pre>
+<p>Note that this list is not exhaustive and there are many other algorithms and techniques that fall under the umbrella of machine learning and AI. Additionally, some algorithms could be classified under multiple categories depending on how they are used or implemented.</p>
+<p><strong>Ankita:</strong>
+What are some examples of other algorithms not covered above?</p>
+<p><strong>ChatGPT:</strong> </p>
+<p>Sure! Here are some examples of other algorithms that are not covered in the list above:</p>
+<ul>
+<li>
+<p>Support Vector Machines (SVMs): a popular supervised learning algorithm that can be used for classification and regression tasks</p>
+</li>
+<li>
+<p>Bayesian Networks: a probabilistic graphical model that represents a set of random variables and their conditional dependencies</p>
+</li>
+<li>
+<p>Hidden Markov Models (HMMs): a statistical model that can be used to model temporal sequences of observations</p>
+</li>
+<li>
+<p>Decision Trees: a popular supervised learning algorithm that can be used for classification and regression tasks, where each internal node represents a feature or attribute, each branch represents a decision rule based on that feature, and each leaf node represents a predicted class or value</p>
+</li>
+<li>
+<p>Ensemble Methods: a family of algorithms that combine multiple models to improve performance, such as bagging, boosting, and stacking</p>
+</li>
+<li>
+<p>Association Rule Learning: a set of techniques used to discover patterns in data, such as frequent itemsets and association rules</p>
+</li>
+<li>
+<p>Dimensionality Reduction: a set of techniques used to reduce the number of features or variables in a dataset, such as Principal Component Analysis (PCA) and t-SNE.</p>
+</li>
+</ul>
+<p>Again, this is not an exhaustive list, but just a few examples of other types of algorithms that are commonly used in machine learning and AI.</p>
+<p><strong>Ankita:</strong>
+Why did you not include these in the prior visualization?</p>
+<p><strong>ChatGPT:</strong> 
+I apologize for the confusion. The visualization I provided earlier was a high-level overview of some of the major classes of machine learning and AI algorithms, and it was not meant to be an exhaustive list. The algorithms you mentioned, such as SVMs, Bayesian Networks, HMMs, Decision Trees, Ensemble Methods, Association Rule Learning, and Dimensionality Reduction, are all important and widely used techniques in machine learning and AI.</p>
+<p>In fact, many of these algorithms can be used as components in more complex models or pipelines that include neural networks or other techniques. For example, decision trees can be used as weak learners in gradient boosting, SVMs can be used in ensemble methods like bagging or stacking, and dimensionality reduction techniques like PCA can be used as a preprocessing step before training a neural network.</p>
+<p>I hope this clarifies things, and please let me know if you have any further questions.</p>
+<h3 id="data-processing-pipelines-in-agriculture">Data Processing Pipelines in Agriculture<a class="headerlink" href="#data-processing-pipelines-in-agriculture" title="Permanent link"></a></h3>
+<p><strong>Ankita:</strong>
+That’s helpful! Thanks.</p>
+<p>Can you create a sample data processing pipeline by connecting some of these algorithms to address a common agricultural research problem?</p>
+<blockquote>
+<p>side note: it cut off midresponse, so I said, &ldquo;I think you cutoff mid-sentence, please continue.&rdquo; and responded in full.</p>
+</blockquote>
+<p><strong>ChatGPT:</strong><br />
+Sure, here&rsquo;s an example of a data processing pipeline that could be used to address a common agricultural research problem:</p>
+<p>Problem: Predicting crop yield based on weather and soil data
+1. Data Collection: Collect weather and soil data for a particular region and time period, including variables such as temperature, precipitation, soil moisture, and nutrient levels.</p>
+<ol start="2">
+<li>
+<p>Data Preprocessing: Preprocess the data by cleaning, normalizing, and transforming it as necessary. For example, you may need to remove missing values, scale the data to a common range, and convert categorical variables to numerical ones.</p>
+</li>
+<li>
+<p>Feature Engineering: Create additional features based on domain knowledge and exploratory data analysis. For example, you could create features such as the average temperature over the past week, the total precipitation over the past month, or the ratio of nitrogen to phosphorus in the soil.</p>
+</li>
+<li>
+<p>Dimensionality Reduction: Reduce the number of features using techniques such as Principal Component Analysis (PCA) or t-SNE. This can help to reduce noise, remove redundancies, and speed up computation.</p>
+</li>
+<li>
+<p>Model Selection: Select an appropriate model based on the problem and data characteristics. For example, you could choose a decision tree, support vector machine, or neural network.</p>
+</li>
+<li>
+<p>Model Training: Train the selected model using the preprocessed and engineered data. This involves splitting the data into training and validation sets, setting model hyperparameters, and using an appropriate optimization algorithm.</p>
+</li>
+<li>
+<p>Model Evaluation: Evaluate the trained model on a held-out test set to assess its performance. This involves calculating metrics such as accuracy, precision, recall, and F1 score.</p>
+</li>
+<li>
+<p>Model Interpretation: Interpret the trained model to understand the relationships between the input variables and the predicted output. For example, you could use techniques such as feature importance, partial dependence plots, or LIME.</p>
+</li>
+<li>
+<p>Deployment: Deploy the trained model as a predictive service or integrate it into a larger system. This involves exporting the model to a suitable format, setting up an API endpoint or web interface, and handling inputs and outputs in a scalable and efficient manner.</p>
+</li>
+</ol>
+<p>This pipeline could be implemented using a variety of programming libraries and tools, depending on the specific algorithms and techniques used. For example, you could use Python with libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and Keras to implement the various steps in the pipeline.</p>
+<p>I hope this example helps to illustrate how different algorithms and techniques can be combined in a pipeline to solve a common agricultural research problem.</p>
+<p><strong>Ankita:</strong>
+It does, thanks! I’d like to present this conversation in my class tomorrow to help my students explore applications of AI in agriculture and food systems. Can you provide 4 examples of the data processing pipeline for each of the following problem areas: grain harvest logistics, food insecurity, evaluating cover crop performance, and rice disease prediction?</p>
+<blockquote>
+<p>sidenote: I picked these 4 examples thinking of each of your projects, so you may find the section relevant to you interesting!</p>
+</blockquote>
+<p><strong>ChatGPT:</strong>
+Apologies, here are the full explanations for each of the four examples:</p>
+<ol>
+<li>
+<p>Grain harvest logistics: </p>
+<ul>
+<li>Data collection: Drones equipped with cameras can be used to capture images of fields during the harvest season. These images can be processed using computer vision algorithms to count the number of plants in the field, estimate yield, and identify areas of the field where yield is lower than expected.</li>
+<li>Data cleaning and preprocessing: Once the images are collected, they need to be processed to extract relevant information. This involves removing noise from the images, correcting for lighting and color, and filtering out images that are not useful (e.g., due to camera malfunction).</li>
+<li>Feature extraction: Once the images have been preprocessed, features need to be extracted that will be used to make predictions about yield. These features might include plant height, stem diameter, and leaf area.</li>
+<li>Machine learning: Machine learning algorithms such as support vector machines (SVMs) or random forests can be trained on the extracted features to predict yield or identify areas of the field where yield is lower than expected. The resulting predictions can then be used to optimize harvest logistics, such as routing combines to areas of the field with higher yield.</li>
+</ul>
+</li>
+<li>
+<p>Food insecurity:</p>
+<ul>
+<li>Data collection: Data on food production, consumption, and distribution can be collected from various sources, including government agencies, NGOs, and international organizations. Satellite imagery can also be used to estimate crop yields and identify areas of food insecurity.</li>
+<li>Data cleaning and preprocessing: The data needs to be cleaned and preprocessed to ensure accuracy and consistency. This involves checking for missing data, correcting errors, and transforming the data into a format suitable for analysis.</li>
+<li>Data analysis: Various statistical and machine learning algorithms can be used to analyze the data and identify patterns and trends. For example, clustering algorithms can be used to identify regions with similar food security challenges, while regression analysis can be used to identify the drivers of food insecurity.</li>
+<li>Decision-making: The insights gained from the analysis can be used to inform decision-making around food security, such as targeting interventions to the most vulnerable regions, improving agricultural productivity, or enhancing food distribution networks.</li>
+</ul>
+</li>
+<li>
+<p>Evaluating cover crop performance:</p>
+<ul>
+<li>Data collection: Images of fields with and without cover crops can be collected using drones equipped with cameras or satellite imagery.</li>
+<li>Data cleaning and preprocessing: The images need to be cleaned and preprocessed to remove noise, correct for lighting and color, and filter out images that are not useful.</li>
+<li>Feature extraction: Features related to the health and performance of cover crops can be extracted from the images, such as biomass, canopy cover, and plant height.</li>
+<li>Machine learning: Machine learning algorithms such as neural networks can be trained on the extracted features to predict cover crop performance. The resulting predictions can then be used to optimize cover crop management, such as adjusting seeding rates, planting dates, or fertilizer applications.</li>
+</ul>
+</li>
+<li>
+<p>Rice disease prediction:</p>
+<ul>
+<li>Data collection: Images of rice fields can be collected using drones equipped with cameras or satellite imagery.</li>
+<li>Data cleaning and preprocessing: The images need to be cleaned and preprocessed to remove noise, correct for lighting and color, and filter out images that are not useful.</li>
+<li>Feature extraction: Features related to rice plant health and disease can be extracted from the images, such as leaf color, texture, and shape.</li>
+<li>Machine learning: Machine learning algorithms such as decision trees or random forests can be trained on the extracted features to predict the likelihood of rice disease. The resulting predictions can then be used to inform disease management strategies, such as adjusting fertilizer applications or implementing pest control measures.</li>
+</ul>
+</li>
+</ol>
+<h3 id="additional-considerations">Additional Considerations?<a class="headerlink" href="#additional-considerations" title="Permanent link"></a></h3>
+<p><strong>Ankita:</strong>
+Thank you! Given the discussion we’ve just had, is there any additional information you think we may benefit from in a discussion on research and practice in machine learning and AI in agriculture and food systems?</p>
+<p><strong>ChatGPT:</strong>
+Yes, there are a few additional points that may be worth considering:</p>
+<ol>
+<li>
+<p><strong>Data collection and quality:</strong> Machine learning algorithms require large amounts of data to train effectively. In agriculture, data collection can be challenging, especially in remote or rural areas. Moreover, the quality of the data can have a significant impact on the accuracy and reliability of the model. Researchers and practitioners need to consider strategies for collecting high-quality data that is representative of the population or problem they are trying to address.</p>
+</li>
+<li>
+<p><strong>Interpreting results:</strong> Machine learning algorithms can be difficult to interpret, particularly for non-experts. It is essential to communicate the results and limitations of the model in a way that is understandable to stakeholders, such as farmers, policymakers, or consumers. Moreover, it is crucial to ensure that the model is not reinforcing biases or perpetuating inequalities.</p>
+</li>
+<li>
+<p><strong>Ethical considerations:</strong> Machine learning and AI raise several ethical questions, including privacy, accountability, and transparency. For instance, data privacy is a significant concern, as personal information is often collected and used to train models. Furthermore, the use of AI in decision-making processes can have unintended consequences, such as perpetuating discrimination or inequality. Researchers and practitioners must consider these ethical considerations when designing and implementing machine learning and AI applications in agriculture and food systems.</p>
+</li>
+<li>
+<p><strong>Collaborative approaches:</strong> Collaboration between researchers, practitioners, and stakeholders is essential for the effective and responsible use of machine learning and AI in agriculture and food systems. It is crucial to involve stakeholders in the design and implementation of the models, as they have valuable knowledge and insights that can improve the accuracy and relevance of the results. Additionally, collaboration can help ensure that the models are aligned with the goals and values of the community they serve.</p>
+</li>
+</ol>
+<p>I hope this additional information is helpful in your discussion!</p>
+<h3 id="chatgpts-further-resources">ChatGPT&rsquo;s Further Resources?<a class="headerlink" href="#chatgpts-further-resources" title="Permanent link"></a></h3>
+<p><strong>Ankita:</strong>
+Any suggestions for books, videos, or other resources we should consult to learn more on this topic?</p>
+<p><strong>ChatGPT:</strong>
+Certainly! Here are some resources that may be helpful for learning more about machine learning and AI in agriculture and food systems:
+1. &ldquo;AI in Agriculture: A Review&rdquo; by Ali et al. (2019) - This academic review article provides an overview of the current state of research on AI in agriculture, including applications, challenges, and future directions.
+2. &ldquo;Precision Agriculture Technology for Crop Farming&rdquo; by Liu et al. (2020) - This book provides a comprehensive overview of precision agriculture, including the use of machine learning and AI technologies to improve crop yields and reduce environmental impacts.
+3. &ldquo;AI for Good: Agriculture&rdquo; by the World Economic Forum - This video discusses the potential of AI to address global food security challenges and features case studies of AI applications in agriculture.
+4. &ldquo;Data-Driven Agriculture: How AI is Transforming the Way We Grow Food&rdquo; by the Future of Food Institute - This report provides insights into the use of AI in agriculture, including case studies of startups and research initiatives.
+5. &ldquo;AI in Agriculture: Present Applications and Future Potential&rdquo; by the Association for Computing Machinery - This article discusses the potential of AI to revolutionize the agricultural industry and highlights current applications and challenges.
+I hope you find these resources useful!</p>
+<p><strong>Ankita:</strong>
+Lovely. We’ll consider these resources and our conversation in our discussion in class. Thank you for the guidance.</p>
+<p><strong>ChatGPT:</strong>
+You&rsquo;re very welcome! I hope your class finds the information helpful and informative. If you have any further questions, please don&rsquo;t hesitate to ask.</p>
+<h2 id="ankitas-further-resources">Ankita&rsquo;s Further Resources<a class="headerlink" href="#ankitas-further-resources" title="Permanent link"></a></h2>
+<p>Papers to read
+    1. Deep learning in agriculture: A survey, DOI: <a href="https://doi.org/10.1016/j.compag.2018.02.016">https://doi.org/10.1016/j.compag.2018.02.016</a>
+    2. A review on the practice of big data analysis in agriculture, DOI: <a href="https://doi.org/10.1016/j.compag.2017.09.037">https://doi.org/10.1016/j.compag.2017.09.037</a>
+    3. Machine Learning in Agriculture: A Comprehensive Updated Review, DOI: <a href="https://doi.org/10.3390/s21113758">https://doi.org/10.3390/s21113758</a>
+    4. Machine Learning in Agriculture: A Review, DOI:  <a href="https://doi.org/10.3390/s18082674">https://doi.org/10.3390/s18082674</a></p>
+<p>Online courses on Machine Learning - to learn at your own pace
+    1. Machine Learning course on Coursera - By Andrew Ng
+    2. AWS Machine Learning Online Courses</p>
+<p>Courses related to Machine Learning and Computer Vision in Purdue University
+    =&gt; ASM 540 Geographic Information System Application
+    =&gt; AGRY 545 Remote Sensing of Land Resources
+    =&gt; ABE 591 Machine learning &amp; Vision for IoT
+    =&gt; ECE 538 Digital Signal Processing
+    =&gt; ECE 661 Computer Vision
+    =&gt; CE 597 Adj. Geospatial Observations
+    =&gt; CE 597 Multi Hyperspectral Remote Sensing
+    =&gt; CE 597 Digital Photogrammetric Systems
+    =&gt; ECE 570 Artificial Intelligence
+    =&gt; ECE 629 Intro Neural Networks
+    =&gt; ECE 637 Digital Image Proc I
+    =&gt; ECE 641 Digital Image Proc II
+    =&gt; ECE 662 Pattn Recog/Decis Proc</p>
+<p>Other resources
+<a href="https://ag.purdue.edu/digital-ag-resources/">https://ag.purdue.edu/digital-ag-resources/</a></p></article></body></html>
