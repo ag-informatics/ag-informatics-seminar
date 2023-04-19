@@ -54,10 +54,10 @@ Week| Format | Topic | Moderator/Presenter | What's happening?
 9 | Discussion [1hr Class]  | [Communicating Data](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-communicating-data) | Gaby | All: submit your topic analysis. Moderator, submit your topic brief.
 10 | SPRING BREAK
 11 |  Discussion | [Data Analysis](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-data-analysis) | Kanru | Kanru, submit your topic brief.  
-12 |  Workshop + Discussion | [Modeling](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/9-modeling) and Progress Presentation. | Megan | Megan, submit your presentation. Others: Submit feedback for Megan. 
+12 |  Workshop + Discussion | [Modeling](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/9-modeling) + Progress Presentation. | Megan | Megan, submit your presentation. Others: Submit feedback for Megan. 
 13 | Workshops | Progress Presentation | Cheyenne and Kanru | Cheyenne & Kanru, submit your presentation. Others: Submit feedback for Cheyenne & Kanru. 
 14 |  Workshop [1hr Class] | Progress Presentation | Gaby | Gaby, submit your presentation. Others: Submit feedback for Gaby.
-15 | Discussion | ML to AI | Ankita | No submission. 
+15 | Discussion | [ML to AI](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/11-ML-to-AI) | Ankita | No submission. 
 16 | Discussion | No class | Submit your final report | 
 
 ## Course Assessments
