@@ -37,29 +37,47 @@ Topic Analysis. No need to write a detailed description of each. Simply put toge
 3. Questions: A list of 3-5 questions for the in-class discussion.
 
 # Moderator's Discussion Brief
-Author: [name]
-GitHub: [username]
+Author: Cheyenne Simmons
+GitHub: Simmo120
 
 ## Overview of the topic
 
-*insert 1-2 paragraphs here*
+Overview of topic 
+With farmers having the expectation to feed the world with the population projection to reach 9+ billion by the year 2050 researchers, private companies, and farmers are trying to optimize every opportunity to make the best decision to maximize yields and profit. Technology is seen to be only one of the avenues to do so.
+
+The readings provide a wonderful understanding of how technology from software to hardware is seen from the farmers point of view, which also raises multiple questions along the way. It discusses who they trust, what they look to gain, and issues/challenges they feel of importance as well as why the importance of technology growth for the data collected. They paint a picture of where it starts in hopes of where it could end, with putting farmers on top of decisions while also accessing there needs. 
+
+I begin to ask myself what is it and what does it look like to have farmers trust ?
+Do I understand the importance of their data and the need I am trying to address?
+Would my solution be understandable to any or every farmers?
+
 
 ## Short Synopsis of Readings
 
-*For each resource provided, create a <1 paragraph summary.]*
+1a.” Farmer Perspectives on Data 2021”This really breaks down the thoughts of farmers. If one doesn’t speak to , with and for the farmer we will  never know what is needed. The best part to me from this report is the surveys I like visual data and evidence to prove what some one is saying about farmers because I don’t believe there is enough advocates for farmers or  enough listening ears for the voices. 
+
+2a. “Digital and Data-Driven Agriculture: Harnessing the Power of Data for Smallholder” this takes the focus from larger scale companies and farmers down to the more local and back yard farmers. One would ask how their data could be important or even used. It breaks down the flow and even how the challenges might be different from those who run bigger operations. This one hit home the most because my dad is a small farmer not yet middle class but not your local.  One thing I liked so much about this article is the breakdown of the terms and how they are incorporated. 
+
+3a. The focus is to address why farmers are having trust issues on a smaller scale farmer. From surveys and diagrams it really stresses the importance of it but on the stance of protection and security. From research beforehand discovering what angle has the industry taken on the concerns of the farmers to actually pinpointing out why the farmer actually has no trust in the news and last technology software, or hardware built for their usage. 
+
+2b. "Cultivating trust in technology-mediated sustainable agricultural research" our ongoing efforts to develop robust data management technologies and coordination mechanisms for trust-building that reflect the complex, multistakeholder collaborations and values at the core of our project, It goes over the importance of trust and that process along with the roll farmers data has in the development and management of it.
+
+3c. open source technology is the innovation to evolution is my favorite quote from this article because I didn’t understand its importance and the difference
+
 
 ## Summary of Key Takeaways from the Materials
 
-*4-5 key takeways, a few sentences to one paragraph each*
+Trust and perspective matter for the user just as much as the solutions and effectiveness. Surveys given should be given to farmers after every year in my opinion if it is possible. This information is very relatable for every field under the ABE department. It opened my eyes to what I should think about moving forward and what to keep in mind when thinking about the user. I said one think in class that I want to add of think about driving the solution as a user or for the next person to take what you have done and innovate it.
 
 ## Discussion Questions
 
-*>4-5 questions*
+1.	Do you believe that the data collected is used and understood like any other field? Why or why not?
+2.	Who is your audience for the data you’re collecting?
+3.	Does the result help anyone specifically in need if so have you inquired the audience for enough information to determine if you solution matches the need?
 
 ## Further Resources
 
-*>2-3 resources you'd like to share*
-
+For more resource Specific within this department of ag on perspective of farmers or users reach out to your local Extension agents, offices and Universities in collaboration.
 
 # Discussion Notes and Feedback
 Note taker: [name]
