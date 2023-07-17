@@ -80,9 +80,37 @@ Trust and perspective matter for the user just as much as the solutions and effe
 For more resource Specific within this department of ag on perspective of farmers or users reach out to your local Extension agents, offices and Universities in collaboration.
 
 # Discussion Notes and Feedback
-Note taker: [name]
+Note taker: Megan Low
 
-[notes from the class discussion]
+### Activity:
+- Played the moderator's game where companies A and B (played by two individuals) had to pitch their farm software (with pre-set features assigned to them) to a prospective user (played by a third individual) without knowing the user's actual needs. 
+
+### Discussion:
+1. **What does it look like to gain a farmers trust?** Do users feel safer if a company discloses upfront "I am sharing your data but this is who I'm sharing with" or don’t disclose at all?
+2. Pair **global perspectives with US perspectives**.
+	- Sharing data with government in the US receives a lot of pushback - typically politically driven here. May be more trusted in some countries - e.g., in Fiji, government officials welcomed onto farms. Therefore, important to **dial into regional perspectives.**
+    - Lots are driven by culture - not just country's culture, but specifically the **rural culture** in those countries. E.g., collective or individualistic culture?
+    - Use case from Cheyenne on 1) wariness with govt and 2) generational differences: Govt asked lots of questions for regulation during COVID. Dad’s perspective was “they’re suddenly asking for info that I have never given”. In order to receive benefits, had to give up data. To Cheyenne, understood why they were collecting it and what it was being used for, but not the dad.
+3. The idea of **what's most important to us?** For a farmer, when it feels more personal, then decide where and how you handle data. 
+    - Sometimes we don’t know what can make us "vulnerable". The idea of meaning of vulnerability/privacy changing over time: Back then we were told not to share our location and address with strangers - now the opposite, for safety, people ask to share live location, uber asking for address etc.
+    - Even consider those who grew up with Tiktok - more used to being exposed.
+    	- Since preferences change over time, do we keep these values with new farmer generation? How do we respect concerns of previous owner while ensuring long term success?
+4. Question in class: Why do user perspectives lag in ag tech? In food science, consumer perception (willingness to pay, sensory tests) are the bread & butter. 
+	- Human factors only exist in ag in machinery/safety systems e.g., designing ergonomic shovels and tractors. Industry designing ag *tech* has been focused on solving interoperability issues, usefulness, etc - no bandwidth for finding out *why it hasn’t been accepted*. In research, a lot of social scientists trying to understand acceptance or adoption - have not typically worked with other types of ag researchers.
+	- Constructing the tool is easy. This is the difference in **programming vs software engineering**. The latter considers engineering qualities like in other types of systems.
+6. Question in class: What is open source?
+	- **Open source** = gives ability to **"look under the hood"**. Know the exact specs -  can change, add, replace it. 
+		- Note: There are *varying levels* of open. 
+		- Examples: Can download and know how Linux OS is built -> equivalent of buying the lego kit. When it matters enough, we want to build it.
+	- **Closed source** = no access to the source code, no public repo 
+7. Question in class: How to ensure maintenance? What about the mentality of "someone else will keep that up to date" so no one does. 
+	- This is the **tragedy of the commons** - one of the many threats to open source, along with being un-user friendly. That’s why you want farmer engagement (user perspecitves) to catch *user bugs* and not just tech bugs.
+8. Cheyenne - Put yourself in the driver's seat. How easy can a farmer access this? What would be the price? How would my farmer be able to tap into this easily? What can they do with their information? From the tool we build, as a researcher, we are getting information we need but remind ourselves *what can we give them?*
+9. **Key challenges:** 
+	1) Educating the user - On how we’re manipulating data - when the app shows "here is the recommendation", it should teach the user along the way of why 
+	2) Marketing - so much of ag tech relies on marketing. Fall trap to overselling even in our research.
+11. When thinking of collecting user's perspectives, **don’t have to always go to the end end user, can go to the person who understands enough about the use case**. E.g., extension staff are literally a walking user perspective guide. 
+12. Check out [this Purdue Precision Ag survey](https://ag.purdue.edu/digitalag/_media/croplife-report-2022.pdf) - example of getting feedback from users (farmers).
 
 
 # FYI: Creating a Pull Request

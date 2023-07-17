@@ -44,28 +44,65 @@ In this week's submission, you will describe how and why you need to clean data!
 
 
 # Moderator's Discussion Brief
-Author: [name]
-GitHub: [username]
+Author: Megan Low<BR>
+GitHub: meganlowmy
 
 ## Overview of the topic
 
-*insert 1-2 paragraphs here*
+**Data cleaning** is an essential component in the data life cycle: It is the process of correcting inaccurate, missing, corrupted or duplicate data. Working with clean data makes our lives easier during the data manipulation and analysis stage! Consequentially, results produced from a clean dataset will  be more accurate. This week's resources introduces best practices and resources on data cleaning.
 
 ## Short Synopsis of Readings
 
-*For each resource provided, create a <1 paragraph summary.]*
+1. [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) - 
+	- Introduces the concept of **"tidy data"** (i.e., structured in a particular way where a variable = a column, an observation = a row, observational unit = a table) and **"messy data"** (i.e., any other arrangement).
+	- Hot to tidy five common messy data problems
+	- Provides some examples of functions to manipulate, visualize and model data (and why tidy input data comes in handy when doing these!)
+
+2. [Data Carpentry Lesson on Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/) - 
+	- Provides best practices on formatting and structuring data in *spreadsheets*
+	- Helpful tables with recommendations ✔️ and what to avoid ❌
+		<img width="75%" alt="Example table of recommendations for field names" src="https://user-images.githubusercontent.com/104526653/220641641-59e60bf6-0047-4193-8f07-cdef75b8154e.png">
+	
+	- Would recommend "Key Points" section, they are good summaries
+		<img width="75%" alt="Example of Key Points section from Data Carpentry tutorial" src="https://user-images.githubusercontent.com/104526653/220640576-c234da4f-388b-45fb-9cbb-96c0145ea2f5.png">
+
+3. [Anomaly Detection](https://learning.oreilly.com/library/view/cleaning-data-for/9781801071291/Text/Chapter_4.xhtml#_idParaDest-104) -
+	- Explains five types of anomalies and how to handle them (with sample code!):
+		1) **Missing:** Highlights importance of using appropriate values to represent whether a data point is actually zero or simply unavailable (e.g., not collected). Example: NULL in SQL = good, N/A = not good.
+		2) **Miscoded:** Suggested printing unique values, then showed how to replace those words. 
+		3) **Fixed bounds:** When the data point is below or above the range you know is realistic. E.g., your plant can only grow to a certain length or height. Suggested solution: If the number of data points that are out-of-bounds are negligible, can remove OR set them to the highest/lowest bound.
+		4) **Outliers:** When the data point is possible but wildly unexpected. Suggested using z-scores, a box-and-whisker plot and interquartile range to identify outliers - provides code to execute these.
+		5) **Multivariate outliers:**
+
+4. [Data Cleaning with OpenRefine for Ecologists](https://datacarpentry.org/OpenRefine-ecology-lesson/) - 
+	- Step-by-step tutorial with screenshots on what OpenRefine (open source tool) can do for data cleaning:
+		- Allows exploring data (like identifying outliers):  Facets, filters, sorting
+		- Allows transforming data (like editing values): Clustering data to identify and edit typos, splitting data by separator, removing whitespace
 
 ## Summary of Key Takeaways from the Materials
-
-*4-5 key takeways, a few sentences to one paragraph each*
+- There is a difference between clean and tidy data... 🤐 I've been using them interchangeably.
+- Messy data can be useful 😱
+- Producing a good dataset starts from the "collection" (how we set up our spreadsheets/columns). This reduces the amount of cleaning we have to do *post-collection*.
+- On a similar note, the usefulness of your data structure is dictated by the analysis you want to conduct. So you almost want to be thinking of the end use **upfront** to produce a clean and USEFUL dataset.
+- In addition to writing code, there exists ready-devleoped tools for this process. Sometimes we don't have to build from scratch.
+- Maybe off tangent.. but learning data semantics was kind of a lightbulb moment. I discovered there is a name for the way I refer to "rows and columns" which is "rectangular tables". I can see this being helpful if I were to write documentation or communicate best practices with others.
 
 ## Discussion Questions
 
-*>4-5 questions*
+**Activity's goal:** Learn and possibly adopt each other's best practices to employ in our own research. Ideally, produce a usable resource for best practices related to our research. 
+
+Fill the blanks according to this table: <BR>
+<img width="75%" alt="Screenshot 2023-02-22 at 12 22 58 PM" src="https://user-images.githubusercontent.com/104526653/220706815-8c39ef22-afb0-4364-b4f3-6605ba6890a8.png"><BR><BR>
+	
+Some guiding questions:
+1. What are common mistakes you've encountered? 
+	- Best practices you've employed to avoid them?
+2. For your recommendations, any code that has been magical? Any tools?
+3. Any challenges when analyzing data that you have not solved? (Maybe we can find out if this is a tidy/clean data problem)
 
 ## Further Resources
 
-*>2-3 resources you'd like to share*
+Sorry peeps. 
 
 
 # Discussion Notes and Feedback
