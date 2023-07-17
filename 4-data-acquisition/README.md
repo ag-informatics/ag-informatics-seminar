@@ -82,10 +82,10 @@ Instead of a topic analysis, this week, I ask you to provide **1 page** overview
 
 
 # Moderator's Discussion Brief
-Author: [Kanru Chen]
-GitHub: [fenerrrrr]
+Author: Kanru Chen
+GitHub: @fenerrrrr
 
-# Overview of the topic
+## Overview of the topic
 In today's class we will disscuss the data sources and data acquisition.
 
 IoT for agriculture has a lot of potential to improve the sustainability of food systems. It's great to hear that researchers are focusing on community-oriented design and domain-specific modeling to make this a reality. It's also important to consider data rights of farmers and the ethical implications of monitoring and control when designing these technologies.
@@ -110,6 +110,12 @@ Always take care about the pravicy/permission of the data.
 
 
 # Discussion Questions
+
+## Summary of Key Takeaways from the Materials
+The key takeaways from the reading are that IoT for agriculture has the potential to improve the sustainability of food systems and enable data-driven regenerative agriculture. However, there are two main hardware limitations to current efforts in IoT for agriculture: power limitations and Internet connectivity in rural spaces. Designers have the opportunity to create solutions to these issues and to design for sustainability. Additionally, the design of technologies for a more sustainable food system requires human-centered, community-oriented, and environmentally sensitive approaches to research and development. Data rights of farmers must be considered while offering consumers and other farm stakeholders appropriate insights into the provenance of food.
+
+## Discussion Questions
+
 What are some of the challenges associated with harmonizing sensor data in agricultural IoT systems? 
 
 How can open-source development be used to create a functioning and interoperable middle layer between the raw sensor data and insight to users? 
@@ -117,7 +123,7 @@ How can open-source development be used to create a functioning and interoperabl
 How do you store and transfer these data?
 
 
-# Further Resources
+## Further Resources
 OpenStreetMap API http://api.openstreetmap.org/
 
 USGS earthexplorer https://earthexplorer.usgs.gov/
@@ -127,9 +133,57 @@ Planet https://www.planet.com/
 Cropscape https://nassgeodata.gmu.edu/CropScape/
 
 # Discussion Notes and Feedback
-Note taker: [name]
+Note taker: @sudokita
 
-[notes from the class discussion]
+### Kanru's Data
+Using remotely sensed imagery to detect cover crop quantity and quality
+ - Human: collecting data from farmers about farm history
+ - Human+Machine Data Download: cover crop surveyor data via county agents physically surveying fields
+ - Machine: satellite data:
+ 	- download specific datasets
+ 	- looking for high resolution data to cover the same regions
+	- combination of remotely sensed data
+
+### Cheyenne's Data
+ How accurately can we detect machine activity/operation via isoblue vs other equipment-mounted loggers/sensors? How can this be used to inform coordination of machinery for harvest logistics?
+	  - Machine: IsoBlue and equipment mounted sensors []
+	  - Human: previous collaborators
+	  - Spreadsheet: colated as a comparison dataset.
+
+### Gaby's Data
+Using deep learning and historical imagery data to remotely detect and predict rice blast under different environmental scenarios?
+	- Human: Rice field images collected by collaborators
+		- getting appropriate metadata: permissions, location, timing etc.
+	- Machine/Scraping: Will need to use satellite & existing databases
+		- Environmental data: temperature, humidity, soil moisture
+		- Can you get data at the level of granularity needed in the Indian context
+
+### Megan's Data
+Building a mapping tool to determine food and information flows within a fooshed to inform food insecurity interventions.
+	- Remote sensing, satellite imagery: where are static food sources and sinks?
+	- Human, Survey: where and when are dynamic food locations?
+	- Human, Survey: where and how do people obtain food?
+	- Database, Census data: consumer patterns?
+	- Database, Census data: production patterns?
+
+### Open notes
+ - When somebody else collects data on my behalf, how do I classify that?
+ 	- permissions propagation: codification of permissions as metadata
+ 	- consent management: I didn't give permission for my data to get collected for Google Maps or Open Street Map for example.  
+ 	- how do you respect values/values alignment.
+ 		- Thinking about the commons
+
+Things to consider during data collection:
+1. farmer data collection
+	- ask for permission
+	- just because data is free doesn't mean you can use it without worry
+
+2. What does it mean to ground truth?
+	- indirect vs direct measurement
+	- as resolution increases, at what point does an image become ground truth
+	- is an image "ground truth"?
+		- depends on your use case
+		- colorometer in the 
 
 # FYI for Moderator: Creating a Pull Request
 
