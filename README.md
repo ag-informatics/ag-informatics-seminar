@@ -44,8 +44,8 @@ Note: 3 classes are listed as "1hr classes" becuase I have a College of Agricult
 
 Week| Format | Topic | Moderator/Presenter | What's happening?
 -----|-----|----- |----- |----- 
-1 & 2 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
-3 | Discussion | [Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | All: submit your topic analysis. Moderator, submit your topic brief. Meet w/Ankita re: Project. 
+1 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
+2 | Discussion | [Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | All: submit your topic analysis. Moderator, submit your topic brief. Meet w/Ankita re: Project. 
 16 | Discussion | No class | Submit your final report | 
 
 ## Course Assessments
