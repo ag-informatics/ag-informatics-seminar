@@ -65,4 +65,3 @@ This week, please each person should create provide **1 page** overview of the t
 Everyone should submit a 2 page document on Brightspace containing a) responses to the questions regarding the readings in part 1, and b) reposnses to the questions regarding your chosen software in part 2. 
 
 # Summary of Class Software Show & Tell
-Notes in our shared google drive folder.
