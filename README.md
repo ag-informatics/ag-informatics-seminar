@@ -55,8 +55,7 @@ Please note: If I make any errors keeping this up to date, follow the dates on B
 Assessment | Due Dates | Weight
 -----|-----|-----
 Project Contract | Monday @ 11.59pm, Week 4 | -5% penalty on final project for no submission
-Topic Analysis | Tuesday @ 11.59pm, Due the night before class | 30% total (even split among topics)
-Moderator Topic Brief | Tuesday @ 11.59pm, Due the **Tuesday after** your assigned Discussion Week | 15%
+Topic Analysis | Tuesday @ 11.59pm, Due the night before class | 45% total (even split among topics)
 Project Work-in-progress Update | Tuesday @ 11.59pm, Due Tuesday before your assigned Workshop Week | 10%
 Project Peer Feedback | Fridays @ 11.59pm, Due after the Workshop Presentations |20% total (even split among # students)
 Project Final Report | Week 16 Friday @ 11.59pm| 25%
