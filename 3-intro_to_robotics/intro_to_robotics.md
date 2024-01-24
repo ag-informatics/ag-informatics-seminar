@@ -32,16 +32,16 @@ Both serial and parallel robots can have revolute and prismatic joints. Please r
 
 Mobile robots are robots with wheels, whegs, and propellers such as drones and autonomous cars. In this, wheel and propeller dynamics of balancing forces are used to control their motion and orientation.
 #### Degree of Freedom
-The degrees of freedom (DOF) of a robot refers to the number of independent ways in which it can move. For example, a robotic arm with three joints (shoulder, elbow, and wrist) has 3 DOF, allowing it to move in three-dimensional space. This video further explains DOFs (https://modernrobotics.northwestern.edu/nu-gm-book-resource/2-1-degrees-of-freedom-of-a-rigid-body/). DOFs are important designing the controls and the path planning routes for the robot. 
+The degrees of freedom (DOF) of a robot refers to the number of independent ways in which it can move. For example, a robotic arm with three joints (shoulder, elbow, and wrist) has 3 DOF, allowing it to move in three-dimensional space. This video further explains DOFs (https://modernrobotics.northwestern.edu/nu-gm-book-resource/2-1-degrees-of-freedom-of-a-rigid-body/). DOFs are important in designing the controls and the path planning routes for the robot. 
 
 ### Sensors and Actuators
-Sensors are transducers that convert one form of signal into another, usually electrical. It is important to note here that their goal is to just convert, it is the mathematical logic that helps us quantify that conversion and derive a measurmeent. Thinking about this deeply, can you explain why I said so?
+Sensors are transducers that convert one form of signal into another, usually electrical. It is important to note here that their goal is to just convert, it is the mathematical logic that helps us quantify that conversion and derive a measurement. Thinking about this deeply, can you explain why I said so?
 There are many types of sensors used in robotics, from tactile to vision. LIDARs, GPS, stereo cameras, IMU, and encoders are some common ones. 
 
 An Actuator generates a physical force or torque when a command is given to it. It converts electrical impulses or signals into mechanical forces. Stepper motors, Pneumatic pumps, and piezoelectric actuators are some common types.   
 
-###Control Systems
-Control is the brain of the robot. Robot controls decide what or how the robot should move given a set of sensor feedback. This is the case in closed-loop control. Some robots have open-loop control, such as industrial arms. They work on pre-programmed ionstructions and have limited ways of correcting their behavior. 
+### Control Systems
+Control is the brain of the robot. Robot controls decide what or how the robot should move given a set of sensor feedback. This is the case in closed-loop control. Some robots have open-loop control, such as industrial arms. They work on pre-programmed instructions and have limited ways of correcting their behavior. 
 
 Controls are based on perception and planning. Perception is building a state of "your reality". This is all the knowledge that the robot has about its surroundings and its own state in it. 
 Planning involves using the knowledge of the environment and the robot dynamics, along with the task goals, to decide future actions. This can be finding a path around an obstacle to picking up an object. In planning, mathematical trajectories are defined between the current state and the goal state. 
@@ -55,7 +55,7 @@ Planning involves using the knowledge of the environment and the robot dynamics,
 
 
 ## Moving the Robot: Kinematics
-The study of the motion of the links and joints of a robot is called kinematics. This is a fundamental topic in the study of any robot, wherein mathematical relationships are derived to map joint coordinates and the world coordinates. 
+The study of the motion of the links and joints of a robot is called kinematics. This is a fundamental topic in the study of any robot, wherein mathematical relationships are derived to map joint coordinates and world coordinates. 
 This has two main types: forward and inverse. Forward kinematics maps the joint configuration to the position of the robot in the real world. In inverse kinematics, often the more important and difficult one, we derive mathematical relationships to map world coordinates to the joint coordinates.
 For simple robots, such as a cartesian robot, it is fairly simple to derive the kinematics. However, as structures become complex, instantaneous motion in terms of Jacobians is used to study the kinematics. If you are interested in looking at this more deeply, please read: http://motion.cs.illinois.edu/RoboticSystems/Kinematics.html   
 
@@ -78,7 +78,7 @@ Everyone should submit a 2-page document on Brightspace answering the following 
 
 A few more helpful articles for grasping an overview of robotics:
 - Overview of Robotics: https://www.science.org/doi/full/10.1126/scirobotics.aau8479
-- Is the future all robots? Bill Gates thinks so : https://modernrobotics.northwestern.edu/nu-gm-book-resource/2-1-degrees-of-freedom-of-a-rigid-body/
+- Is the future all robots? Bill Gates thinks so: https://modernrobotics.northwestern.edu/nu-gm-book-resource/2-1-degrees-of-freedom-of-a-rigid-body/
 
 ## Discussion Notes and Feedback
 Note taker: [name]
