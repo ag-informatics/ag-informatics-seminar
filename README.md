@@ -42,13 +42,18 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 **Proposed Schedule/Topics:** This section will be updated as we assign moderators and adjust topics. 
 Note: 3 classes are listed as "1hr classes" becuase I have a College of Agriculture meeting that I cannot move!
 
-Week| Format | Topic | Moderator/Presenter | What's happening?
------|-----|----- |----- |----- 
-1 | Logistics | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
-2 | Discussion | [Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | Submit your topic analysis.
-3 | Discussion | [User Centered Design](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-user-centered-design) | Ankita | Submit topic analysis.
-4 | Discussion | Robotics Part 1. | | Submit your topic analysis
-5 | Discussion | Robotics Part 2. | | Submit your topic analysis
+Week|  Topic | Moderator/Presenter | What's happening?
+-----|----- |----- |----- 
+1 | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
+2 | [Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | Submit your topic analysis.
+3 | [User Centered Design](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-user-centered-design) | Ankita | Submit topic analysis.
+4 | Robotics Part 1. | | Submit your topic analysis. Submit project contract.
+5 | Robotics Part 2. | | Submit your topic analysis
+6 | Modeling & Decision Support | Ankita | Submit your topic analysis
+7 | Computer Vision | | Submit your topic analysis. Submit work in progress update for next week.
+8 | Research and Coding Methods. Work-in-Progress Presentations. | Ankita | Submit code analysis.
+9 | | Ankita | Submit your topic analysis
+10 | Spring Break
 16 | Discussion | No class | Submit your final report | 
 
 ## Course Assessments
@@ -60,7 +65,6 @@ Assessment | Due Dates | Weight
 Project Contract | Monday @ 11.59pm, Week 4 | -5% penalty on final project for no submission
 Topic Analysis | Tuesday @ 11.59pm, Due the night before class | 45% total (even split among topics)
 Project Work-in-progress Update | Tuesday @ 11.59pm, Due Tuesday before your assigned Workshop Week | 10%
-Project Peer Feedback | Fridays @ 11.59pm, Due after the Workshop Presentations |20% total (even split among # students)
 Project Final Report | Week 16 Friday @ 11.59pm| 25%
 
 *The final weights may change based on total enrollment in the course.*
