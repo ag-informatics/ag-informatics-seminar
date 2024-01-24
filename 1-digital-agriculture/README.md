@@ -21,6 +21,8 @@ Please read/skim the following resources:
 
 5. Project Breakthrough Executive Brief, "Digital Agriculture". Available at: http://breakthrough.unglobalcompact.org/site/assets/files/1332/hhw-16-0025-d_n_digital_agriculture.pdf
 
+
+## SUBMISSION PART 1
 Write 1 page topic analysis as follows:
 
 1. Heading: contains your name, the week, the date, and the discussion topic title.
@@ -40,6 +42,8 @@ Come to class prepared to show us a piece of software that you think of as an ex
 
 You will share your screen (or if it's a mobile app you're welcome to just take screenshots for us and stick them in miro/slides), and show us a 2 minute demo of how it's used. 
 
+
+## SUBMISSION PART 2
 This week, please each person should create provide **1 page** overview of the tool. You will submit this on Brightspace. Here's the questions I want you to answer:
 
 	1) About the Tool: What does it do? When was it built? Who built it and why? 
@@ -61,7 +65,5 @@ This week, please each person should create provide **1 page** overview of the t
 	9) How would you make it better?
 
 
-# Expected Submission
+# SUBMISSION in 2 Parts
 Everyone should submit a 2 page document on Brightspace containing a) responses to the questions regarding the readings in part 1, and b) reposnses to the questions regarding your chosen software in part 2. 
-
-# Summary of Class Software Show & Tell
