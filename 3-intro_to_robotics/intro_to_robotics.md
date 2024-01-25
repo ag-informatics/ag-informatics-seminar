@@ -1,6 +1,6 @@
 # INTRODUCTION TO ROBOTICS-I: FOUNDATION AND TERMINOLOGY
 
-Robots are all around us, from the industrial assembly lines to the robotic vacuum cleaners in our homes, but what exactly are they? Before we delve deeper into the world of robotics, let's take a moment to reflect on your own understanding of what makes a robot. Jot down your thoughts – what characteristics define a robot in your mind? 
+Robots are all around us, from the industrial assembly lines to the robotic vacuum cleaners in our homes, but what exactly are they? Before we delve deeper into the world of robotics, let's take a moment to reflect on your understanding of what makes a robot. Jot down your thoughts – what characteristics define a robot in your mind? 
 
 ## Historical Perspective
 The journey of robotics has been a fascinating one, marked by continuous innovation and evolution. From the rudimentary automata of the ancient world to the sophisticated machines of today, robots have captured our imagination and reshaped our lives.
@@ -59,7 +59,7 @@ The study of the motion of the links and joints of a robot is called kinematics.
 This has two main types: forward and inverse. Forward kinematics maps the joint configuration to the position of the robot in the real world. In inverse kinematics, often the more important and difficult one, we derive mathematical relationships to map world coordinates to the joint coordinates.
 For simple robots, such as a cartesian robot, it is fairly simple to derive the kinematics. However, as structures become complex, instantaneous motion in terms of Jacobians is used to study the kinematics. If you are interested in looking at this more deeply, please read: http://motion.cs.illinois.edu/RoboticSystems/Kinematics.html   
 
-Also, if you want to try out moving a robot yourself and see both forward and inverse kinematics, check out this software. This allows you to use many of the already-built robots to study their kinematics. You can also import your own robot model and calculate its kinematics, given you have the correct DH parameters. 
+Also, if you want to try out moving a robot yourself and see both forward and inverse kinematics, check out this software: (http://www.roboanalyzer.com/). This allows you to use many of the already-built robots to study their kinematics. You can also import your own robot model and calculate its kinematics, given you have the correct DH parameters. 
 
 
 # Expected Submission
