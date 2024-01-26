@@ -47,10 +47,10 @@ Week|  Topic | Moderator/Presenter | What's happening?
 1 | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
 2 | [Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | Submit your topic analysis.
 3 | [User Centered Design](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-user-centered-design) | Ankita | Submit topic analysis.
-4 | Robotics Part 1. | | Submit your topic analysis. Submit project contract.
-5 | Robotics Part 2. | | Submit your topic analysis
+4 | .[Robotics Part 1.](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-intro_to_robotics) | Upinder | Submit your topic analysis. Submit project contract.
+5 | Robotics Part 2. | Upinder | Submit your topic analysis
 6 | Modeling & Decision Support | Ankita | Submit your topic analysis
-7 | Computer Vision | | Submit your topic analysis. Submit work in progress update for next week.
+7 | Computer Vision | Upinder | Submit your topic analysis. Submit work in progress update for next week.
 8 | Research and Coding Methods. Work-in-Progress Presentations. | Ankita | Submit code analysis.
 9 | | Ankita | Submit your topic analysis
 10 | Spring Break
