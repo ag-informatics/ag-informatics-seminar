@@ -42,7 +42,7 @@ We will switch between two types of lectures, the "Discussion Format" and the "W
 **Proposed Schedule/Topics:** This section will be updated as we assign moderators and adjust topics. 
 Note: 3 classes are listed as "1hr classes" becuase I have a College of Agriculture meeting that I cannot move!
 
-Week|  Topic | Moderator/Presenter | What's happening?
+Week|  Topic | Moderator | What's happening?
 -----|----- |----- |----- 
 1 | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
 2 | [Topic 1: Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | Submit your topic analysis.
@@ -59,7 +59,7 @@ Week|  Topic | Moderator/Presenter | What's happening?
 13 | Topic 10: Entrepreneurship | Ankita |Submit your topic analysis
 14 | Topic 11: Foundation Models | Upinder |Submit your topic analysis
 15 | Topic 12: Designing AI Systems | Ankita | 
-16 | Open Space | ? | Submit your final project report
+16 | Open Space | Ankita | Submit your final project report
 
 ## Course Assessments
 
