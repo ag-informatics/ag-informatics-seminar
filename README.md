@@ -45,16 +45,21 @@ Note: 3 classes are listed as "1hr classes" becuase I have a College of Agricult
 Week|  Topic | Moderator/Presenter | What's happening?
 -----|----- |----- |----- 
 1 | [Course Overview](http://aginformaticslab.org/ag-informatics-seminar/lectures/lecture1.html) | Ankita |  Schedule a meeting with the instructor to discuss your project. 
-2 | [Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | Submit your topic analysis.
-3 | [User Centered Design](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-user-centered-design) | Ankita | Submit topic analysis.
-4 | [Robotics Part 1](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-intro_to_robotics) | Upinder | Submit project contract.
-5 | [Robotics Part 2](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-intro_to_robotics)  | Upinder | Submit your topic analysis
-6 | Modeling & Decision Support | Ankita | Submit your topic analysis
-7 | Computer Vision | Upinder | Submit your topic analysis. 
-8 | Research and Coding Methods. Work-in-Progress Presentations. | Ankita | Submit work in progress update on Monday. Submit code analysis.
-9 | | Ankita | Submit your topic analysis
-10 | Spring Break
-16 | Discussion | No class | Submit your final report | 
+2 | [Topic 1: Digital Agriculture & Software Overview](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/1-digital-agriculture) | Ankita | Submit your topic analysis.
+3 | [Topic 2: User Centered Design](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-user-centered-design) | Ankita | Submit topic analysis.
+4 | [Topic 3: Robotics Part 1](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-intro_to_robotics) | Upinder | Submit project contract.
+5 | [Topic 3: Robotics Part 2](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-intro_to_robotics)  | Upinder | Submit your topic analysis
+6 | Topic 4: Modeling & Decision Support | Ankita | Submit your topic analysis
+7 | Topic 5: Computer Vision | Upinder | Submit your topic analysis. 
+8 | Topic 6: Research and Coding Methods. Work-in-Progress Presentations. | Ankita | Submit work in progress update on Monday. Submit code analysis.
+9 | Topic 7: Reinforcement Learning | Upinder | Submit your topic analysis
+10 | Spring Break | No class |
+11 | Topic 8: Data Lifecycle | Ankita | Submit your topic analysis
+12 | Topic 9: Cyberphysical Systems | Upinder |Submit your topic analysis
+13 | Topic 10: Entrepreneurship | Ankita |Submit your topic analysis
+14 | Topic 11: Foundation Models | Upinder |Submit your topic analysis
+15 | Topic 12: Designing AI Systems | Ankita | Submit your final project report
+16 | Open Space | ? | End of Course
 
 ## Course Assessments
 
