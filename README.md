@@ -58,8 +58,8 @@ Week|  Topic | Moderator/Presenter | What's happening?
 12 | Topic 9: Cyberphysical Systems | Upinder |Submit your topic analysis
 13 | Topic 10: Entrepreneurship | Ankita |Submit your topic analysis
 14 | Topic 11: Foundation Models | Upinder |Submit your topic analysis
-15 | Topic 12: Designing AI Systems | Ankita | Submit your final project report
-16 | Open Space | ? | End of Course
+15 | Topic 12: Designing AI Systems | Ankita | 
+16 | Open Space | ? | Submit your final project report
 
 ## Course Assessments
 
@@ -68,8 +68,8 @@ Please note: If I make any errors keeping this up to date, follow the dates on B
 Assessment | Due Dates | Weight
 -----|-----|-----
 Project Contract | Monday @ 11.59pm, Week 4 | -5% penalty on final project for no submission
-Topic Analysis | Tuesday @ 11.59pm, Due the night before class | 45% total (even split among topics)
-Project Work-in-progress Update | Tuesday @ 11.59pm, Due Tuesday before your assigned Workshop Week | 10%
+Topic Analysis | Fridays @ 11.59pm, Due the night before class | 45% total (even split among topics)
+Project Work-in-progress Update | Monday @ 11.59pm, Due Monday before class | 10%
 Project Final Report | Week 16 Friday @ 11.59pm| 25%
 
 *The final weights may change based on total enrollment in the course.*
