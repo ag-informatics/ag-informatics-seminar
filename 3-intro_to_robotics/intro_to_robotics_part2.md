@@ -17,6 +17,7 @@ Planning involves using the knowledge of the environment and the robot dynamics,
 
 ## Common Control Approaches
 A robot usually has three main components: 
+
 - Open-Loop Control: Think of a record player. You set the needle, and the music plays at a predetermined speed. That's open-loop control. The robot follows pre-programmed instructions without any feedback. It's simple, fast, and good for repetitive tasks. But if something unexpected happens, the robot has no way to adjust. Like a record player hitting a scratch, it might stumble or even crash!
 - Closed-Loop Control: Now imagine a music player that adjusts the volume based on the song's loudness. That's closed-loop control. The robot constantly monitors its performance (like the volume) and compares it to its desired goal (like a comfortable listening level). If there's an error, it adjusts its actions (like changing the volume) to get back on track. This makes it more adaptable and robust, handling bumps and changes better than its open-loop friend. Think of a self-driving car adjusting its speed based on traffic, that's closed-loop in action!
 - Neural Network Driven Controls: Imagine a music player that not only adjusts volume but also learns your preferences over time. That's the power of neural networks! These complex algorithms mimic the human brain, allowing robots to learn and adapt from experience. They can handle even more complex situations and even anticipate potential problems.  Think of a robot arm learning to grasp different objects delicately, that's neural network control at its finest!
@@ -25,6 +26,7 @@ Remember: Each approach has its strengths and weaknesses. The best choice depend
 
 ### Control Algorithms
 #### PID Control: Imagine a car's cruise control. It maintains a desired speed despite hills and wind. That's PID in action!
+
   - Proportional (P): Reacts to the current error (like how far off the car is from the desired speed). Larger errors lead to bigger adjustments.
   - Integral (I): Considers past errors, remembering how long the issue has persisted. It helps eliminate lingering errors gradually.
   - Derivative (D): Predicts future errors based on the error's change. It anticipates and counteracts changes before they become big problems.
@@ -39,7 +41,8 @@ Here is an interesting video to see this in action: "The Robot That Learned to W
 
 Reactive control shines in dynamic environments where fast responses are crucial, but for more nuanced tasks, it might need help from other algorithms.
 
-Reactive Robotics is the brainchild of Ronald "Rodney" Brooks, a visionary and the founder of iRobot. Here is an article that explains reactive planning in Roomba of iRobot: "How Roomba Avoids Obstacles" by iRobot: https://www.thezebra.com/resources/home/how-roomba-works/
+Reactive Robotics is the brainchild of Ronald "Rodney" Brooks, a visionary and the founder of iRobot. Here is an article that explains reactive planning in 
+Roomba of iRobot: "How Roomba Avoids Obstacles" by iRobot: https://www.thezebra.com/resources/home/how-roomba-works/
 
 #### Reinforcement Learning: Imagine a robot chef trying different recipes, learning from successes and failures. That's reinforcement learning!
 
@@ -52,7 +55,8 @@ Here are some cool thought pieces on RL use cases:
 -"How AI is Learning to Play Games (and Beat Humans)" by MIT Technology Review: https://news.mit.edu/2011/game-artificial-intelligence-1031
 -"The Robot Chef That Learned to Make Pizza" by The New York Times: https://www.youtube.com/watch?v=BMkpEAgYlxU
 
-Structure of an RL Algorithm: While the idea of robots learning through trial and error might seem simple, Reinforcement Learning (RL) algorithms have a specific structure that enables them to achieve this feat. Here's a breakdown:
+Structure of an RL Algorithm: 
+While the idea of robots learning through trial and error might seem simple, Reinforcement Learning (RL) algorithms have a specific structure that enables them to achieve this feat. Here's a breakdown:
 
 Main Components:
  - Agent: This is the "learner," the robot or program interacting with the environment.
@@ -63,9 +67,9 @@ Main Components:
  - Reward Function: This defines what's considered good (positive reward) or bad (negative reward) for the agent.
 
 The Learning Loop:
-    - Observe: The agent perceives its current state (e.g., the robot sees its surroundings).
-    - Act: The agent chooses an action based on its policy (e.g., the robot moves its arm).
-    - Receive Reward: The environment provides a reward based on the action's outcome (e.g., +1 for reaching the object).
+    - Observe: The agent perceives its current state (e.g., the robot sees its surroundings). 
+    - Act: The agent chooses an action based on its policy (e.g., the robot moves its arm). 
+    - Receive Reward: The environment provides a reward based on the action's outcome (e.g., +1 for reaching the object). 
     - Update Policy: The agent learns from the experience, adjusting its policy for future decisions (e.g., increases the chance of repeating the successful action).
 
 This loop continues repeatedly, allowing the agent to gradually improve its behavior towards maximizing rewards.
