@@ -1,18 +1,18 @@
 # INTRODUCTION TO ROBOTICS-II: Sensors, Controls, and Intelligence
 
-Building the mechanical structure and figuring out the kinematics is half the story of robotics. Automation, re-programmability, and repeatability are key to building a successfull robot. 
+Building the mechanical structure and figuring out the kinematics is half the story of robotics. Automation, re-programmability, and repeatability are key to building a successful robot. 
 
 ## Sensing and Perception 
 Sensors, both intrinsic and extrinsic, provide a pathway to observe the world and the robot's place in it. The raw data captured, in the form of videos or just electrical signals, is just the first step. To extract information out of this involves processing these signals. Mathematical models, from simple Fast Fourier Transforms to cutting-edge generative models, are all an attempt to extract information. Another way to look at these is an absolute and guided categorization. In FFTs, for example, you will always get frequency bins. But, in neural networks and other such models, by providing annotated inputs, you can guide the model to show what you want.
 
-Perception is defined by APA as "the process or result of becoming aware of objects, relationships, and events by means of the senses". Therefore, it is not just the acquisition of data from physical senses, but your own awareness, information extraction, from that data. The mathematical models, including neural networks, are what enable perception in robots when working together with the sensors.
+Perception is defined by APA as "the process or result of becoming aware of objects, relationships, and events by means of the senses". Therefore, it is not just the acquisition of data from physical senses, but your own awareness, and information extraction, from that data. The mathematical models, including neural networks, are what enable perception in robots when working together with the sensors.
 
 Cognition is the "mental action or process of acquiring knowledge and understanding through thought, experience, and the senses". It therefore alludes to a more subjective experience of the world. Can robots have cognition? What is needed for it?
 
 ## Robot Controls
-Control is the brain of the robot. Robot controls decide what or how the robot should move given a set of sensor feedback. This is the case in closed-loop control. Some robots have open loop control, such as industrial arms. They work on pre-programmed ionstructions and have limited ways of correcting their behavior. 
+Control is the brain of the robot. Robot controls decide what or how the robot should move given a set of sensor feedback. This is the case in closed-loop control. Some robots have open-loop control, such as industrial arms. They work on pre-programmed instructions and have limited ways of correcting their behavior. 
 
-Controls are based on perception and planning. Perception is building a state of "your reality". This is all the knowledge that the robot has about its surroundings and its own state in it. 
+Controls are based on perception and planning. Perception is building a state of "your reality". This is all the knowledge that the robot has about its surroundings and its state in it. 
 Planning involves using the knowledge of the environment and the robot dynamics, along with the task goals, to decide future actions. This can be finding a path around an obstacle to picking up an object. In planning, mathematical trajectories are defined between the current state and the goal state. 
 
 ## Common Control Approaches
@@ -78,11 +78,14 @@ Types of RL Algorithms:
    - Value-based: These estimate the value of taking an action in a given state. Examples: Q-learning, SARSA.
    - Policy-based: These directly learn the policy for choosing actions. Examples: Deep Deterministic Policy Gradients (DDPG), Proximal Policy Optimization (PPO).
 
+Here is a blog post and paper on the ingredients of RL ( a deeper dive): https://bair.berkeley.edu/blog/2020/04/27/ingredients/ and the paper: https://openreview.net/forum?id=rJe2syrtvS&noteId=rJe2syrtvS
+
+
 # Expected Submission
 
 Everyone should submit a 2-page document on Brightspace answering the following questions:
- 1. Pick an application close to your research or interest. Define the environment and the task for which you need a robot. Based on what you have learned so far, define the constraints, the mechanical structure, the sensors, actuators, and the controls you might need for this robot. Justify your choices. 
- 2. Considering RL, can you imagine what the training environment will be like for this robot? Define the rewards, action space, and workspace for your robot. 
+ 1. Pick an application close to your research or interest. Define the environment and the task for which you need a robot. Based on what you have learned so far, define the constraints, the mechanical structure, the sensors, the actuators, and the controls you might need for this robot. Justify your choices. 
+ 2. Considering RL, can you imagine what the training environment will be like for this robot? Could you define the rewards, action space, and workspace for your robot? 
  3. What do you think are the failure points for your robot?
 
 # Further Resources
