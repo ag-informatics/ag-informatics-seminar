@@ -67,10 +67,10 @@ Main Components:
  - Reward Function: This defines what's considered good (positive reward) or bad (negative reward) for the agent.
 
 The Learning Loop:
-    - Observe: The agent perceives its current state (e.g., the robot sees its surroundings). 
-    - Act: The agent chooses an action based on its policy (e.g., the robot moves its arm). 
-    - Receive Reward: The environment provides a reward based on the action's outcome (e.g., +1 for reaching the object). 
-    - Update Policy: The agent learns from the experience, adjusting its policy for future decisions (e.g., increases the chance of repeating the successful action).
+  - Observe: The agent perceives its current state (e.g., the robot sees its surroundings). 
+  - Act: The agent chooses an action based on its policy (e.g., the robot moves its arm). 
+  - Receive Reward: The environment provides a reward based on the action's outcome (e.g., +1 for reaching the object). 
+  - Update Policy: The agent learns from the experience, adjusting its policy for future decisions (e.g., increases the chance of repeating the successful action).
 
 This loop continues repeatedly, allowing the agent to gradually improve its behavior towards maximizing rewards.
 
