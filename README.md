@@ -49,7 +49,7 @@ Week|  Topic | Moderator | What's happening?
 3 | [Topic 2: User Centered Design](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/2-user-centered-design) | Ankita | Submit topic analysis.
 4 | [Topic 3: Robotics Part 1](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-intro_to_robotics) | Upinder | Submit project contract.
 5 | [Topic 3: Robotics Part 2](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-intro_to_robotics)  | Upinder | Submit your topic analysis
-6 | Topic 4: Modeling & Decision Support | Ankita | Submit your topic analysis
+6 | [Topic 4: Modeling](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-modeling) | Ankita | No submission.
 7 | Topic 5: Computer Vision | Upinder | Submit your topic analysis. 
 8 | Topic 6: Research and Coding Methods. Work-in-Progress Presentations. | Ankita | Submit work in progress update on Monday. Submit code analysis.
 9 | Topic 7: Reinforcement Learning | Upinder | Submit your topic analysis
