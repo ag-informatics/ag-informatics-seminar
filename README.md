@@ -51,12 +51,12 @@ Week|  Topic | Moderator | What's happening?
 5 | [Topic 3: Robotics Part 2](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-intro_to_robotics)  | Upinder | Submit your topic analysis
 6 | [Topic 4: Modeling](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-modeling) | Ankita | No submission.
 7 | Topic 5: Computer Vision | Upinder | Submit your topic analysis. 
-8 | Topic 6: Research and Coding Methods. Work-in-Progress Presentations. | Ankita | Submit work in progress update on Monday. Submit code analysis.
-9 | Topic 7: Reinforcement Learning | Upinder | Submit your topic analysis
+8 | Topic 6: Research and Coding Methods. 1-1 MEetings | Ankita | Submit code analysis.
+9 | Topic 7: Intro to AI | Upinder | Submit your topic analysis
 10 | Spring Break | No class |
 11 | Topic 8: Data Lifecycle | Ankita | Submit your topic analysis
-12 | Topic 9: Cyberphysical Systems | Upinder |Submit your topic analysis
-13 | Topic 10: Entrepreneurship | Ankita |Submit your topic analysis
+12 | Topic 9: Cyberphysical Systems | Upinder | Submit work in progress update on Monday. Submit your topic analysis
+13 | Topic 10:  Work-in-Progress Presentations. Entrepreneurship | Ankita |Submit your topic analysis
 14 | Topic 11: Foundation Models | Upinder |Submit your topic analysis
 15 | Topic 12: Designing AI Systems | Ankita | 
 16 | Open Space | Ankita | Submit your final project report
