@@ -54,8 +54,8 @@ Week|  Topic | Moderator | What's happening?
 8 | Topic 6: [Coding Methods](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/6-coding-methods). 1-1 Meetings | Ankita | Submit code analysis.
 9 | Topic 7: Intro to AI | Upinder | Submit your topic analysis
 10 | Spring Break | No class |
-11 | Topic 8: Data Lifecycle | Guest Speaker: Ag Data Services | Submit your topic analysis
-12 | Topic 9: Cyberphysical Systems | Upinder | Submit work in progress update on Monday. Submit your topic analysis
+11 | Topic 8: Data Lifecycle | Work in Progress Presentations. Guest Speaker: Ag Data Services | Submit work in progress update online.
+12 | Topic 9: Cyberphysical Systems | Upinder | Submit your topic analysis.
 13 | Topic 10: Entrepreneurship | Guest Speaker: Christian Butzke | Submit your topic analysis
 14 | Topic 11: Foundation Models | Upinder |Submit your topic analysis
 15 | Topic 12: Designing AI Systems | Ankita | 
