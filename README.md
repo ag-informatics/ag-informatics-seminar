@@ -55,7 +55,7 @@ Week|  Topic | Moderator | What's happening?
 9 | [Topic 7: Intro to AI](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/7-artificial_intelligence) | Upinder | Submit your topic analysis
 10 | Spring Break | No class |
 11 | Topic 8: Data Lifecycle | Work in Progress Presentations. Guest Speaker: Ag Data Services | Submit work in progress update online.
-12 | Class Room Conflict | Upinder |
+12 | Class Room Conflict |  |
 13 | Topic 10: Entrepreneurship | Guest Speaker: Christian Butzke | 
 14 | [Topic 11: Cyberphysical Systems](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-cyber_physical_systems) | Upinder | Submit your topic analysis
 15 | Topic 12: Designing AI Systems | Ankita | Submit your topic analysis
