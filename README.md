@@ -52,14 +52,14 @@ Week|  Topic | Moderator | What's happening?
 6 | [Topic 4: Modeling](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/3-modeling) | Ankita | No submission.
 7 | [Topic 5: Computer Vision](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/5-computer_vision) | Upinder | Submit your topic analysis. 
 8 | Topic 6: [Coding Methods](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/6-coding-methods). 1-1 Meetings | Ankita | Submit code analysis.
-9 | Topic 7: Intro to AI | Upinder | 
+9 | Topic 7: Intro to AI | Upinder | Submit your topic analysis
 10 | Spring Break | No class |
 11 | Topic 8: Data Lifecycle | Work in Progress Presentations. Guest Speaker: Ag Data Services | Submit work in progress update online.
-12 | Topic 9: Class Room Conflict | Upinder | 
-13 | Topic 10: Entrepreneurship | Guest Speaker: Christian Butzke | Submit your topic analysis
-14 | Topic 11: Foundation Models | Upinder |Submit your topic analysis
-15 | Topic 12: Designing AI Systems | Ankita | 
-16 | Open Space | Ankita | Submit your final project report
+12 | Class Room Conflict | Upinder |
+13 | Topic 10: Entrepreneurship | Guest Speaker: Christian Butzke | 
+14 | Topic 11: [Cyberphysical](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-cyber_physical_systems) Systems | Upinder | Submit your topic analysis
+15 | Topic 12: Designing AI Systems | Ankita | Submit your topic analysis
+16 | Topic 9: Foundation Models | Upinder | Submit your final project report only.
 
 ## Course Assessments
 
