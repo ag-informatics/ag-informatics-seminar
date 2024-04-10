@@ -57,7 +57,7 @@ Week|  Topic | Moderator | What's happening?
 11 | Topic 8: Data Lifecycle | Work in Progress Presentations. Guest Speaker: Ag Data Services | Submit work in progress update online.
 12 | Class Room Conflict | Upinder |
 13 | Topic 10: Entrepreneurship | Guest Speaker: Christian Butzke | 
-14 | Topic 11: [Cyberphysical](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-cyber_physical_systems) Systems | Upinder | Submit your topic analysis
+14 | Topic 11: [Cyberphysical Systems](https://github.com/ag-informatics/ag-informatics-seminar/tree/main/8-cyber_physical_systems) | Upinder | Submit your topic analysis
 15 | Topic 12: Designing AI Systems | Ankita | Submit your topic analysis
 16 | Topic 9: Foundation Models | Upinder | Submit your final project report only.
 
